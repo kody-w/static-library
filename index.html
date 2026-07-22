@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>static-library — kody-w static resource catalog</title>
+<style>
+  :root {
+    --bg: #0d1117; --panel: #161b22; --border: #30363d;
+    --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff; --good: #3fb950; --gold: #d4a72c;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 2rem 1rem 4rem; background: var(--bg); color: var(--text);
+    font: 15px/1.55 ui-monospace, SFMono-Regular, Menlo, monospace; }
+  main { max-width: 1080px; margin: 0 auto; }
+  h1 { color: var(--gold); font-size: 1.5rem; margin-bottom: .2rem; }
+  .sub { color: var(--muted); margin-top: 0; }
+  #status { color: var(--muted); font-size: .85rem; margin: 1rem 0; }
+  input#q { width: 100%; max-width: 420px; background: var(--panel); border: 1px solid var(--border);
+    border-radius: 8px; color: var(--text); padding: .55rem .9rem; font: inherit; margin: .6rem 0 1.2rem; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.1rem;
+    display: flex; flex-direction: column; gap: .5rem; }
+  .card h2 { margin: 0; font-size: 1.02rem; }
+  .card h2 a { color: var(--accent); text-decoration: none; }
+  .card h2 a:hover { text-decoration: underline; }
+  .desc { color: var(--muted); font-size: .84rem; flex: 1; }
+  .links { display: flex; flex-wrap: wrap; gap: 6px; }
+  .links a, .badge { font-size: .74rem; border: 1px solid var(--border); border-radius: 12px;
+    padding: 2px 10px; color: var(--text); text-decoration: none; background: #010409; }
+  .links a:hover { border-color: var(--accent); }
+  .badge.live { color: var(--good); border-color: var(--good); }
+  .badge.mcp { color: var(--gold); border-color: var(--gold); }
+  .muted { color: var(--muted); font-size: .8rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>static-library</h1>
+  <p class="sub">Live catalog of every <code>kody-w/static-*</code> resource — deterministic, zero-dependency
+  integration simulators served as static JSON on GitHub Pages (CORS-open; point demos, agents, and
+  Power Apps code apps straight at them).</p>
+  <p id="status">Loading repository list from the GitHub API…</p>
+  <input id="q" type="search" placeholder="Filter — e.g. banking, fhir, erp…" hidden>
+  <div class="grid" id="grid"></div>
+  <p class="muted" style="margin-top:2rem">This page is self-updating: it enumerates
+  <code>api.github.com/users/kody-w/repos</code> on every load and probes each repo's Pages site for
+  <code>api/…/index.json</code> and <code>mcp/manifest.json</code>. New static-* repos appear here
+  automatically — no catalog edits needed. <span id="probe-note"></span></p>
+</main>
+<script>
+const PAGES = n => `https://kody-w.github.io/${n}/`;
+const grid = document.getElementById('grid');
+const status = document.getElementById('status');
+const q = document.getElementById('q');
+let cards = [];
+
+async function fetchAllRepos() {
+  let repos = [], page = 1;
+  while (page <= 5) {
+    const r = await fetch(`https://api.github.com/users/kody-w/repos?per_page=100&page=${page}&sort=full_name`);
+    if (!r.ok) throw new Error(`GitHub API ${r.status}`);
+    const batch = await r.json();
+    repos = repos.concat(batch);
+    if (batch.length < 100) break;
+    page++;
+  }
+  return repos;
+}
+
+async function probe(url) {
+  try { const r = await fetch(url, { method: 'GET' }); return r.ok; } catch { return false; }
+}
+
+function render() {
+  const term = (q.value || '').toLowerCase();
+  cards.forEach(({ el, text }) => { el.hidden = term && !text.includes(term); });
+}
+
+(async () => {
+  try {
+    const repos = (await fetchAllRepos()).filter(r => r.name.startsWith('static-') && r.name !== 'static-library');
+    status.textContent = `${repos.length} static resources found.`;
+    q.hidden = false; q.addEventListener('input', render);
+    for (const r of repos) {
+      const el = document.createElement('div');
+      el.className = 'card';
+      el.innerHTML = `
+        <h2><a href="${PAGES(r.name)}" target="_blank" rel="noopener">${r.name}</a></h2>
+        <div class="desc">${(r.description || 'No description.').replace(/</g, '&lt;')}</div>
+        <div class="links">
+          <a href="${r.html_url}" target="_blank" rel="noopener">repo</a>
+          <a href="${PAGES(r.name)}" target="_blank" rel="noopener">pages</a>
+        </div>`;
+      grid.appendChild(el);
+      cards.push({ el, text: (r.name + ' ' + (r.description || '')).toLowerCase() });
+      const links = el.querySelector('.links');
+      probe(PAGES(r.name) + 'mcp/manifest.json').then(ok => {
+        if (!ok) return;
+        const a = document.createElement('a');
+        a.className = 'badge mcp'; a.textContent = 'mcp manifest'; a.target = '_blank'; a.rel = 'noopener';
+        a.href = PAGES(r.name) + 'mcp/manifest.json'; links.appendChild(a);
+      });
+      probe(PAGES(r.name) + 'api/v1/index.json').then(ok => {
+        if (!ok) return;
+        const a = document.createElement('a');
+        a.className = 'badge live'; a.textContent = 'api/v1'; a.target = '_blank'; a.rel = 'noopener';
+        a.href = PAGES(r.name) + 'api/v1/index.json'; links.appendChild(a);
+      });
+    }
+  } catch (e) {
+    status.textContent = `Could not load the repo list (${e.message}) — GitHub API rate limit? Browse directly: `;
+    const a = document.createElement('a');
+    a.href = 'https://github.com/kody-w?tab=repositories&q=static-';
+    a.textContent = 'github.com/kody-w?q=static-'; a.style.color = 'var(--accent)';
+    status.appendChild(a);
+  }
+})();
+</script>
+<!-- static-library-marker-v1 -->
+</body>
+</html>
