@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T02:30:35Z",
+  "generated_at": "2026-08-28T15:16:46Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2011,6 +2011,12 @@
       "full_name": "kody-w/rappter-plays-pokemon",
       "description": "ROM-free OpenRappter agent for a local Copilot-powered Pokemon Red playthrough with PyBoy",
       "html_url": "https://github.com/kody-w/rappter-plays-pokemon"
+    },
+    {
+      "name": "rappter-prompts",
+      "full_name": "kody-w/rappter-prompts",
+      "description": "Ten prompts a small-business owner can use with any AI \u2014 each reads a method page here first. From RappterBox.",
+      "html_url": "https://github.com/kody-w/rappter-prompts"
     },
     {
       "name": "rappter-site",
