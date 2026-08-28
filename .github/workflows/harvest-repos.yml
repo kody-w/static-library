@@ -1,0 +1,45 @@
+name: Harvest repo list
+
+# Static Data Covenant (kody-w/RAR CONSTITUTION.md Article XXIV): the
+# catalog page's visitor browser must never call api.github.com. This
+# workflow is the CI harvester — it runs on a schedule, paginates
+# api.github.com/users/kody-w/repos, and commits the trimmed result to
+# repos-snapshot.json. index.html only ever reads that committed file.
+
+on:
+  schedule:
+    - cron: '11 * * * *'  # hourly
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Harvest repos snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/harvest-repos.py
+
+      - name: Commit snapshot if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- repos-snapshot.json; then
+            echo "no change"
+            exit 0
+          fi
+          git add repos-snapshot.json
+          git commit -m "chore: harvest kody-w repos snapshot"
+          git push

@@ -40,13 +40,14 @@
   <p class="sub">Live catalog of every <code>kody-w/static-*</code> resource — deterministic, zero-dependency
   integration simulators served as static JSON on GitHub Pages (CORS-open; point demos, agents, and
   Power Apps code apps straight at them).</p>
-  <p id="status">Loading repository list from the GitHub API…</p>
+  <p id="status">Loading repository list…</p>
   <input id="q" type="search" placeholder="Filter — e.g. banking, fhir, erp…" hidden>
   <div class="grid" id="grid"></div>
-  <p class="muted" style="margin-top:2rem">This page is self-updating: it enumerates
-  <code>api.github.com/users/kody-w/repos</code> on every load and probes each repo's Pages site for
+  <p class="muted" style="margin-top:2rem">This page reads a committed snapshot
+  (<code>repos-snapshot.json</code>) that CI harvests hourly from <code>api.github.com/users/kody-w/repos</code>
+  — the visitor's browser never calls the GitHub API — and probes each repo's Pages site for
   <code>api/…/index.json</code> and <code>mcp/manifest.json</code>. New static-* repos appear here
-  automatically — no catalog edits needed. <span id="probe-note"></span></p>
+  after the next harvest — no catalog edits needed. <span id="probe-note"></span></p>
 </main>
 <script>
 const PAGES = n => `https://kody-w.github.io/${n}/`;
@@ -56,16 +57,14 @@ const q = document.getElementById('q');
 let cards = [];
 
 async function fetchAllRepos() {
-  let repos = [], page = 1;
-  while (page <= 5) {
-    const r = await fetch(`https://api.github.com/users/kody-w/repos?per_page=100&page=${page}&sort=full_name`);
-    if (!r.ok) throw new Error(`GitHub API ${r.status}`);
-    const batch = await r.json();
-    repos = repos.concat(batch);
-    if (batch.length < 100) break;
-    page++;
-  }
-  return repos;
+  // Static Data Covenant (RAR CONSTITUTION.md Article XXIV): the browser
+  // never calls api.github.com. CI harvests the repo list into
+  // repos-snapshot.json (scripts/harvest-repos.py) and this page just reads
+  // that committed snapshot.
+  const r = await fetch('./repos-snapshot.json', { cache: 'no-store' });
+  if (!r.ok) throw new Error(`repos-snapshot.json ${r.status}`);
+  const snapshot = await r.json();
+  return snapshot.repos || [];
 }
 
 async function probe(url) {
@@ -109,7 +108,7 @@ function render() {
       });
     }
   } catch (e) {
-    status.textContent = `Could not load the repo list (${e.message}) — GitHub API rate limit? Browse directly: `;
+    status.textContent = `Could not load the repo list (${e.message}) — repos-snapshot.json missing or stale? Browse directly: `;
     const a = document.createElement('a');
     a.href = 'https://github.com/kody-w?tab=repositories&q=static-';
     a.textContent = 'github.com/kody-w?q=static-'; a.style.color = 'var(--accent)';

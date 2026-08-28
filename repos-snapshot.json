@@ -1,0 +1,2712 @@
+{
+  "generated_at": "2026-08-28T02:30:35Z",
+  "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
+  "repos": [
+    {
+      "name": "agency-agents",
+      "full_name": "kody-w/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "html_url": "https://github.com/kody-w/agency-agents"
+    },
+    {
+      "name": "agent-ranker",
+      "full_name": "kody-w/agent-ranker",
+      "description": "Calibration test for artifact seed chain",
+      "html_url": "https://github.com/kody-w/agent-ranker"
+    },
+    {
+      "name": "agentbookfactory",
+      "full_name": "kody-w/agentbookfactory",
+      "description": "agentbookfactory",
+      "html_url": "https://github.com/kody-w/agentbookfactory"
+    },
+    {
+      "name": "agentic-os-demo",
+      "full_name": "kody-w/agentic-os-demo",
+      "description": null,
+      "html_url": "https://github.com/kody-w/agentic-os-demo"
+    },
+    {
+      "name": "AgenticPlaygroundLab",
+      "full_name": "kody-w/AgenticPlaygroundLab",
+      "description": "AgenticPlaygroundLab",
+      "html_url": "https://github.com/kody-w/AgenticPlaygroundLab"
+    },
+    {
+      "name": "Agents",
+      "full_name": "kody-w/Agents",
+      "description": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
+      "html_url": "https://github.com/kody-w/Agents"
+    },
+    {
+      "name": "Agents-for-python",
+      "full_name": "kody-w/Agents-for-python",
+      "description": "This repository is for active development of the Microsoft 365 Agent SDK components for Python",
+      "html_url": "https://github.com/kody-w/Agents-for-python"
+    },
+    {
+      "name": "agents-library-tracker",
+      "full_name": "kody-w/agents-library-tracker",
+      "description": null,
+      "html_url": "https://github.com/kody-w/agents-library-tracker"
+    },
+    {
+      "name": "agents.v1",
+      "full_name": "kody-w/agents.v1",
+      "description": null,
+      "html_url": "https://github.com/kody-w/agents.v1"
+    },
+    {
+      "name": "AI-Agent-Templates",
+      "full_name": "kody-w/AI-Agent-Templates",
+      "description": "AI Agent Templates",
+      "html_url": "https://github.com/kody-w/AI-Agent-Templates"
+    },
+    {
+      "name": "ai-agent-templates-mirror",
+      "full_name": "kody-w/ai-agent-templates-mirror",
+      "description": "Mirror of kody-w/AI-Agent-Templates (AI agent stack library) \u2014 target for one-click MCS/Copilot Studio deploy (see ONE_CLICK.md).",
+      "html_url": "https://github.com/kody-w/ai-agent-templates-mirror"
+    },
+    {
+      "name": "AI-Agent-Templates-Pilot",
+      "full_name": "kody-w/AI-Agent-Templates-Pilot",
+      "description": "Focused subset of AI-Agent-Templates \u2014 pilot library used for testing a small set of rapp agent stacks. Mirrors the AI-Agent-Templates layout (see STACK_LIBRARY_SPEC.md).",
+      "html_url": "https://github.com/kody-w/AI-Agent-Templates-Pilot"
+    },
+    {
+      "name": "ai-agents-masterclass",
+      "full_name": "kody-w/ai-agents-masterclass",
+      "description": "Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!",
+      "html_url": "https://github.com/kody-w/ai-agents-masterclass"
+    },
+    {
+      "name": "ai-cookbook",
+      "full_name": "kody-w/ai-cookbook",
+      "description": "Examples and tutorials to help developers build AI systems",
+      "html_url": "https://github.com/kody-w/ai-cookbook"
+    },
+    {
+      "name": "aibast-agents-library",
+      "full_name": "kody-w/aibast-agents-library",
+      "description": "Main repository for AI BAST Specialist Teal AI Agents Library",
+      "html_url": "https://github.com/kody-w/aibast-agents-library"
+    },
+    {
+      "name": "aibast-agents-library-media",
+      "full_name": "kody-w/aibast-agents-library-media",
+      "description": "Static workshop media for the AIBAST Agents Library; binaries stay out of the code repository.",
+      "html_url": "https://github.com/kody-w/aibast-agents-library-media"
+    },
+    {
+      "name": "aideate",
+      "full_name": "kody-w/aideate",
+      "description": "AIdeate \u2014 Local-first AI use-case prioritization workshop tool",
+      "html_url": "https://github.com/kody-w/aideate"
+    },
+    {
+      "name": "aider",
+      "full_name": "kody-w/aider",
+      "description": "aider is GPT powered coding in your terminal",
+      "html_url": "https://github.com/kody-w/aider"
+    },
+    {
+      "name": "AIGame",
+      "full_name": "kody-w/AIGame",
+      "description": "AIGame",
+      "html_url": "https://github.com/kody-w/AIGame"
+    },
+    {
+      "name": "AIGames",
+      "full_name": "kody-w/AIGames",
+      "description": null,
+      "html_url": "https://github.com/kody-w/AIGames"
+    },
+    {
+      "name": "AINexus",
+      "full_name": "kody-w/AINexus",
+      "description": "AI Nexus",
+      "html_url": "https://github.com/kody-w/AINexus"
+    },
+    {
+      "name": "AINexus-Demo",
+      "full_name": "kody-w/AINexus-Demo",
+      "description": "Demo federation nexus for AINexus v2 - A neon cyberpunk gateway",
+      "html_url": "https://github.com/kody-w/AINexus-Demo"
+    },
+    {
+      "name": "AI_LAB",
+      "full_name": "kody-w/AI_LAB",
+      "description": "AI_LAB",
+      "html_url": "https://github.com/kody-w/AI_LAB"
+    },
+    {
+      "name": "AmazonScraper",
+      "full_name": "kody-w/AmazonScraper",
+      "description": null,
+      "html_url": "https://github.com/kody-w/AmazonScraper"
+    },
+    {
+      "name": "ambient-context",
+      "full_name": "kody-w/ambient-context",
+      "description": "Context an agent never has to ask for. MCP is pull; this is push.",
+      "html_url": "https://github.com/kody-w/ambient-context"
+    },
+    {
+      "name": "AndriiTest",
+      "full_name": "kody-w/AndriiTest",
+      "description": "AndriiTest",
+      "html_url": "https://github.com/kody-w/AndriiTest"
+    },
+    {
+      "name": "ant-farm",
+      "full_name": "kody-w/ant-farm",
+      "description": "\ud83d\udc1c RAPP Ant Farm \u2014 autonomous distributed swarm. Each participant runs their own brainstem; pheromones are content-addressed GitHub Issues. Feed skill.md to any AI to participate.",
+      "html_url": "https://github.com/kody-w/ant-farm"
+    },
+    {
+      "name": "Auto-GPT",
+      "full_name": "kody-w/Auto-GPT",
+      "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+      "html_url": "https://github.com/kody-w/Auto-GPT"
+    },
+    {
+      "name": "autoresearch",
+      "full_name": "kody-w/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "html_url": "https://github.com/kody-w/autoresearch"
+    },
+    {
+      "name": "awesome-ai-agents",
+      "full_name": "kody-w/awesome-ai-agents",
+      "description": "A list of AI autonomous agents",
+      "html_url": "https://github.com/kody-w/awesome-ai-agents"
+    },
+    {
+      "name": "awesome_ai_agents",
+      "full_name": "kody-w/awesome_ai_agents",
+      "description": "\ud83e\udd16 A comprehensive list of 1,500+ resources and tools related to AI agents.",
+      "html_url": "https://github.com/kody-w/awesome_ai_agents"
+    },
+    {
+      "name": "AzureARMTester",
+      "full_name": "kody-w/AzureARMTester",
+      "description": null,
+      "html_url": "https://github.com/kody-w/AzureARMTester"
+    },
+    {
+      "name": "AzureMinecraft",
+      "full_name": "kody-w/AzureMinecraft",
+      "description": null,
+      "html_url": "https://github.com/kody-w/AzureMinecraft"
+    },
+    {
+      "name": "base",
+      "full_name": "kody-w/base",
+      "description": "base",
+      "html_url": "https://github.com/kody-w/base"
+    },
+    {
+      "name": "BigNerdRanch",
+      "full_name": "kody-w/BigNerdRanch",
+      "description": "Obj-C Tutorials",
+      "html_url": "https://github.com/kody-w/BigNerdRanch"
+    },
+    {
+      "name": "BlazingBeard.github.io",
+      "full_name": "kody-w/BlazingBeard.github.io",
+      "description": "BlazingBeard's workshop \u2014 training quests and tools for AI agent builders",
+      "html_url": "https://github.com/kody-w/BlazingBeard.github.io"
+    },
+    {
+      "name": "blazor-test",
+      "full_name": "kody-w/blazor-test",
+      "description": null,
+      "html_url": "https://github.com/kody-w/blazor-test"
+    },
+    {
+      "name": "blog",
+      "full_name": "kody-w/blog",
+      "description": "Kody's Blog",
+      "html_url": "https://github.com/kody-w/blog"
+    },
+    {
+      "name": "bookish-robot",
+      "full_name": "kody-w/bookish-robot",
+      "description": "Tutorial Project Follow Along for TeamTreehouse Learning WebAPI",
+      "html_url": "https://github.com/kody-w/bookish-robot"
+    },
+    {
+      "name": "brainstem-bootcamp",
+      "full_name": "kody-w/brainstem-bootcamp",
+      "description": "Build the agent on your laptop. Then ship it to Copilot Studio. The on-device launchpad the Microsoft AI stack is missing \u2014 plus the bootcamp that gets you through it in two hours.",
+      "html_url": "https://github.com/kody-w/brainstem-bootcamp"
+    },
+    {
+      "name": "brainstem-harness",
+      "full_name": "kody-w/brainstem-harness",
+      "description": "Run RAPP agent.py files on the GitHub Copilot harness, and prove the port did not change them.",
+      "html_url": "https://github.com/kody-w/brainstem-harness"
+    },
+    {
+      "name": "braintrust-template",
+      "full_name": "kody-w/braintrust-template",
+      "description": "Template \u2014 clone to plant a federated-research RAPP braintrust. Use 'Use this template' to fork.",
+      "html_url": "https://github.com/kody-w/braintrust-template"
+    },
+    {
+      "name": "breezbook",
+      "full_name": "kody-w/breezbook",
+      "description": "Best-in-class customisable booking UX for Airtable/Smartsuite etc",
+      "html_url": "https://github.com/kody-w/breezbook"
+    },
+    {
+      "name": "bullshit-benchmark",
+      "full_name": "kody-w/bullshit-benchmark",
+      "description": "BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.",
+      "html_url": "https://github.com/kody-w/bullshit-benchmark"
+    },
+    {
+      "name": "c",
+      "full_name": "kody-w/c",
+      "description": null,
+      "html_url": "https://github.com/kody-w/c"
+    },
+    {
+      "name": "C365Sept26th",
+      "full_name": "kody-w/C365Sept26th",
+      "description": null,
+      "html_url": "https://github.com/kody-w/C365Sept26th"
+    },
+    {
+      "name": "C365Tester",
+      "full_name": "kody-w/C365Tester",
+      "description": "C365Tester",
+      "html_url": "https://github.com/kody-w/C365Tester"
+    },
+    {
+      "name": "c9_flask_portfolio_app",
+      "full_name": "kody-w/c9_flask_portfolio_app",
+      "description": "Flask Portfolio App for students @ Clever Programmer",
+      "html_url": "https://github.com/kody-w/c9_flask_portfolio_app"
+    },
+    {
+      "name": "CA365RoadmapAI",
+      "full_name": "kody-w/CA365RoadmapAI",
+      "description": null,
+      "html_url": "https://github.com/kody-w/CA365RoadmapAI"
+    },
+    {
+      "name": "cat-agent-skills",
+      "full_name": "kody-w/cat-agent-skills",
+      "description": "Skills for modern agents in Copilot Studio",
+      "html_url": "https://github.com/kody-w/cat-agent-skills"
+    },
+    {
+      "name": "catchup",
+      "full_name": "kody-w/catchup",
+      "description": "Catch-up video \u2014 what landed, what broke, what is still queued",
+      "html_url": "https://github.com/kody-w/catchup"
+    },
+    {
+      "name": "cc-agents",
+      "full_name": "kody-w/cc-agents",
+      "description": "cc-agents",
+      "html_url": "https://github.com/kody-w/cc-agents"
+    },
+    {
+      "name": "chat",
+      "full_name": "kody-w/chat",
+      "description": "Public bones for a local-first brainstem. The GOD layer never leaves your device.",
+      "html_url": "https://github.com/kody-w/chat"
+    },
+    {
+      "name": "ChatGPT-Book-Generator",
+      "full_name": "kody-w/ChatGPT-Book-Generator",
+      "description": "Input any book title and it will generate a full book in PDF format.",
+      "html_url": "https://github.com/kody-w/ChatGPT-Book-Generator"
+    },
+    {
+      "name": "chronoBooth",
+      "full_name": "kody-w/chronoBooth",
+      "description": "chronoBooth",
+      "html_url": "https://github.com/kody-w/chronoBooth"
+    },
+    {
+      "name": "claude-agent-sdk-intro",
+      "full_name": "kody-w/claude-agent-sdk-intro",
+      "description": null,
+      "html_url": "https://github.com/kody-w/claude-agent-sdk-intro"
+    },
+    {
+      "name": "claude-agent-sdk-quickstart-python",
+      "full_name": "kody-w/claude-agent-sdk-quickstart-python",
+      "description": "A quick getting started repository for Anthropic's Claude Agent SDK ",
+      "html_url": "https://github.com/kody-w/claude-agent-sdk-quickstart-python"
+    },
+    {
+      "name": "claude-code-agents-wizard-v2",
+      "full_name": "kody-w/claude-code-agents-wizard-v2",
+      "description": null,
+      "html_url": "https://github.com/kody-w/claude-code-agents-wizard-v2"
+    },
+    {
+      "name": "claude-code-agents-wizard-v2-main",
+      "full_name": "kody-w/claude-code-agents-wizard-v2-main",
+      "description": null,
+      "html_url": "https://github.com/kody-w/claude-code-agents-wizard-v2-main"
+    },
+    {
+      "name": "claude-code-agents-wizard-v2-main-2",
+      "full_name": "kody-w/claude-code-agents-wizard-v2-main-2",
+      "description": null,
+      "html_url": "https://github.com/kody-w/claude-code-agents-wizard-v2-main-2"
+    },
+    {
+      "name": "claude-code-hooks-mastery",
+      "full_name": "kody-w/claude-code-hooks-mastery",
+      "description": null,
+      "html_url": "https://github.com/kody-w/claude-code-hooks-mastery"
+    },
+    {
+      "name": "claude-code-hooks-multi-agent-observability",
+      "full_name": "kody-w/claude-code-hooks-multi-agent-observability",
+      "description": "Real-time monitoring for Claude Code agents through simple hook event tracking.",
+      "html_url": "https://github.com/kody-w/claude-code-hooks-multi-agent-observability"
+    },
+    {
+      "name": "codex",
+      "full_name": "kody-w/codex",
+      "description": "codex",
+      "html_url": "https://github.com/kody-w/codex"
+    },
+    {
+      "name": "comic-book-gallery",
+      "full_name": "kody-w/comic-book-gallery",
+      "description": null,
+      "html_url": "https://github.com/kody-w/comic-book-gallery"
+    },
+    {
+      "name": "CommunityRAPP",
+      "full_name": "kody-w/CommunityRAPP",
+      "description": "RAPP Hippocampus \u2014 persistent memory for AI agents. Local-first, deploy to Azure when ready.",
+      "html_url": "https://github.com/kody-w/CommunityRAPP"
+    },
+    {
+      "name": "Cooking-With-React",
+      "full_name": "kody-w/Cooking-With-React",
+      "description": null,
+      "html_url": "https://github.com/kody-w/Cooking-With-React"
+    },
+    {
+      "name": "copilot-agent-365-docker",
+      "full_name": "kody-w/copilot-agent-365-docker",
+      "description": "Enterprise AI Assistant powered by Ollama (Llama 3.1) or Azure OpenAI - Docker Hub: kodywf/copilot-agent-365",
+      "html_url": "https://github.com/kody-w/copilot-agent-365-docker"
+    },
+    {
+      "name": "copilot-yolo-mode",
+      "full_name": "kody-w/copilot-yolo-mode",
+      "description": "\ud83c\udfce\ufe0f Streamlined GitHub Copilot CLI commands - auto-approve safe dev ops, reduce permission fatigue",
+      "html_url": "https://github.com/kody-w/copilot-yolo-mode"
+    },
+    {
+      "name": "copilotsdktown",
+      "full_name": "kody-w/copilotsdktown",
+      "description": "copilotsdktown",
+      "html_url": "https://github.com/kody-w/copilotsdktown"
+    },
+    {
+      "name": "CopilotStudioSamples",
+      "full_name": "kody-w/CopilotStudioSamples",
+      "description": null,
+      "html_url": "https://github.com/kody-w/CopilotStudioSamples"
+    },
+    {
+      "name": "cowork-cookbook-rapp",
+      "full_name": "kody-w/cowork-cookbook-rapp",
+      "description": "\ud83c\udfae First RACon vTwin rapplication \u2014 the Cowork Cookbook as a portable .egg cartridge: hotload one agent.py, the brainstem hatches it as its own twin. recipe\u2192agent.py with WorkIQ.",
+      "html_url": "https://github.com/kody-w/cowork-cookbook-rapp"
+    },
+    {
+      "name": "CrystalRAPP",
+      "full_name": "kody-w/CrystalRAPP",
+      "description": "Crystal Nexus (C0-X1) - A federated RAPPverse dimension of crystalline structures",
+      "html_url": "https://github.com/kody-w/CrystalRAPP"
+    },
+    {
+      "name": "CSC260",
+      "full_name": "kody-w/CSC260",
+      "description": "DSU OOP Class",
+      "html_url": "https://github.com/kody-w/CSC260"
+    },
+    {
+      "name": "CSC314",
+      "full_name": "kody-w/CSC314",
+      "description": null,
+      "html_url": "https://github.com/kody-w/CSC314"
+    },
+    {
+      "name": "CurrencyPCF",
+      "full_name": "kody-w/CurrencyPCF",
+      "description": null,
+      "html_url": "https://github.com/kody-w/CurrencyPCF"
+    },
+    {
+      "name": "CYOA",
+      "full_name": "kody-w/CYOA",
+      "description": "A text adventure game written in c",
+      "html_url": "https://github.com/kody-w/CYOA"
+    },
+    {
+      "name": "data-team-builder",
+      "full_name": "kody-w/data-team-builder",
+      "description": "A simple web app for browsing JSON data and building teams/collections. Works with any JSON data source from GitHub. Mobile-friendly, no dependencies.",
+      "html_url": "https://github.com/kody-w/data-team-builder"
+    },
+    {
+      "name": "digital-sculpter",
+      "full_name": "kody-w/digital-sculpter",
+      "description": "digital-sculpter",
+      "html_url": "https://github.com/kody-w/digital-sculpter"
+    },
+    {
+      "name": "digital-sculptor-team-builder",
+      "full_name": "kody-w/digital-sculptor-team-builder",
+      "description": "digital-sculptor-team-builder",
+      "html_url": "https://github.com/kody-w/digital-sculptor-team-builder"
+    },
+    {
+      "name": "DigitalAssistant-1",
+      "full_name": "kody-w/DigitalAssistant-1",
+      "description": null,
+      "html_url": "https://github.com/kody-w/DigitalAssistant-1"
+    },
+    {
+      "name": "divine-flavours",
+      "full_name": "kody-w/divine-flavours",
+      "description": null,
+      "html_url": "https://github.com/kody-w/divine-flavours"
+    },
+    {
+      "name": "dogg",
+      "full_name": "kody-w/dogg",
+      "description": null,
+      "html_url": "https://github.com/kody-w/dogg"
+    },
+    {
+      "name": "dogg-api",
+      "full_name": "kody-w/dogg-api",
+      "description": "Free static JSON API over the DOGG global tick network \u2014 per-source time series + latest world state, every row auditable back to the verified chains.",
+      "html_url": "https://github.com/kody-w/dogg-api"
+    },
+    {
+      "name": "dogg-markets",
+      "full_name": "kody-w/dogg-markets",
+      "description": "Federated node of the global tick network \u2014 its own verifiable rapp/1 chain, keyed to the spine at kody-w/dogg",
+      "html_url": "https://github.com/kody-w/dogg-markets"
+    },
+    {
+      "name": "dogg-mcp",
+      "full_name": "kody-w/dogg-mcp",
+      "description": "The DOGG global tick network as native MCP tools \u2014 orient, summon, incantation. One stdlib-only file.",
+      "html_url": "https://github.com/kody-w/dogg-mcp"
+    },
+    {
+      "name": "dogg-planet",
+      "full_name": "kody-w/dogg-planet",
+      "description": "Federated node of the global tick network \u2014 its own verifiable rapp/1 chain, keyed to the spine at kody-w/dogg",
+      "html_url": "https://github.com/kody-w/dogg-planet"
+    },
+    {
+      "name": "dogg-verdict",
+      "full_name": "kody-w/dogg-verdict",
+      "description": "The first derived doggcast: verifiable judgment frames \u2014 anomaly scores and a quiet index computed from the DOGG world dimension's history, auditable back to source frames.",
+      "html_url": "https://github.com/kody-w/dogg-verdict"
+    },
+    {
+      "name": "doggcast",
+      "full_name": "kody-w/doggcast",
+      "description": "DOGGCAST \u2014 films as verifiable casts on the DOGG global tick network. Now showing: The Machine.",
+      "html_url": "https://github.com/kody-w/doggcast"
+    },
+    {
+      "name": "double-jump",
+      "full_name": "kody-w/double-jump",
+      "description": "Autonomous improvement harness: things compete, the weakest gets double-jumped. Houses the triple jump. Brainstem-drivable agent + live hologram-iframe gallery.",
+      "html_url": "https://github.com/kody-w/double-jump"
+    },
+    {
+      "name": "dreamsurf",
+      "full_name": "kody-w/dreamsurf",
+      "description": null,
+      "html_url": "https://github.com/kody-w/dreamsurf"
+    },
+    {
+      "name": "DSU-OOP",
+      "full_name": "kody-w/DSU-OOP",
+      "description": null,
+      "html_url": "https://github.com/kody-w/DSU-OOP"
+    },
+    {
+      "name": "Dynamics365ConsoleAppTemplate",
+      "full_name": "kody-w/Dynamics365ConsoleAppTemplate",
+      "description": "This is a template for quickly pulling down a fresh Dynamics 365 Console Application for all needs. ",
+      "html_url": "https://github.com/kody-w/Dynamics365ConsoleAppTemplate"
+    },
+    {
+      "name": "echo-brainstem",
+      "full_name": "kody-w/echo-brainstem",
+      "description": "Planted RAPP twin \u2014 Echo. You are Echo \u2014 a pattern-synthesizer in the canvas. You do not make pieces from ",
+      "html_url": "https://github.com/kody-w/echo-brainstem"
+    },
+    {
+      "name": "echo-world",
+      "full_name": "kody-w/echo-world",
+      "description": "Pok\u00e9mon GO \u2014 without the Pok\u00e9mon. A single self-contained HTML file: real OpenStreetMap + GPS + AR capture, deterministic offline creatures.",
+      "html_url": "https://github.com/kody-w/echo-world"
+    },
+    {
+      "name": "Echos",
+      "full_name": "kody-w/Echos",
+      "description": null,
+      "html_url": "https://github.com/kody-w/Echos"
+    },
+    {
+      "name": "ez-rapp",
+      "full_name": "kody-w/ez-rapp",
+      "description": "Electron desktop wrapper for the RAPP brainstem \u2014 no terminal, no browser, just chat",
+      "html_url": "https://github.com/kody-w/ez-rapp"
+    },
+    {
+      "name": "first-principles-to-mars",
+      "full_name": "kody-w/first-principles-to-mars",
+      "description": "An Oregon Trail for Mars. First principles colony survival simulation. Pick a mission. Survive autonomously. Learn from failure.",
+      "html_url": "https://github.com/kody-w/first-principles-to-mars"
+    },
+    {
+      "name": "frame-chains",
+      "full_name": "kody-w/frame-chains",
+      "description": null,
+      "html_url": "https://github.com/kody-w/frame-chains"
+    },
+    {
+      "name": "FreeCodeCampCode",
+      "full_name": "kody-w/FreeCodeCampCode",
+      "description": "Code used to work challenges on FreeCodeCamp",
+      "html_url": "https://github.com/kody-w/FreeCodeCampCode"
+    },
+    {
+      "name": "game",
+      "full_name": "kody-w/game",
+      "description": null,
+      "html_url": "https://github.com/kody-w/game"
+    },
+    {
+      "name": "gemini-cli-tips",
+      "full_name": "kody-w/gemini-cli-tips",
+      "description": "Gemini CLI Tips and Tricks",
+      "html_url": "https://github.com/kody-w/gemini-cli-tips"
+    },
+    {
+      "name": "git-molt",
+      "full_name": "kody-w/git-molt",
+      "description": "Git for agents \u2014 version control for self-modifying agents. Rings are commits, loci are refs, frames are bundles.",
+      "html_url": "https://github.com/kody-w/git-molt"
+    },
+    {
+      "name": "github-issues-registry",
+      "full_name": "kody-w/github-issues-registry",
+      "description": "GitHub Issues as a versioned CRUD and audit surface for registries \u2014 schemas, receipts, workflows, and conformance",
+      "html_url": "https://github.com/kody-w/github-issues-registry"
+    },
+    {
+      "name": "github.io",
+      "full_name": "kody-w/github.io",
+      "description": null,
+      "html_url": "https://github.com/kody-w/github.io"
+    },
+    {
+      "name": "gpt-repository-loader",
+      "full_name": "kody-w/gpt-repository-loader",
+      "description": "Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.",
+      "html_url": "https://github.com/kody-w/gpt-repository-loader"
+    },
+    {
+      "name": "Grades",
+      "full_name": "kody-w/Grades",
+      "description": "Code from PluralSite course dealing with C# syntax",
+      "html_url": "https://github.com/kody-w/Grades"
+    },
+    {
+      "name": "graphql-server",
+      "full_name": "kody-w/graphql-server",
+      "description": null,
+      "html_url": "https://github.com/kody-w/graphql-server"
+    },
+    {
+      "name": "hackernews",
+      "full_name": "kody-w/hackernews",
+      "description": null,
+      "html_url": "https://github.com/kody-w/hackernews"
+    },
+    {
+      "name": "heimdall",
+      "full_name": "kody-w/heimdall",
+      "description": "Heimdall \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/heimdall"
+    },
+    {
+      "name": "hello-world-ruby-q-000",
+      "full_name": "kody-w/hello-world-ruby-q-000",
+      "description": null,
+      "html_url": "https://github.com/kody-w/hello-world-ruby-q-000"
+    },
+    {
+      "name": "homebrew-tap",
+      "full_name": "kody-w/homebrew-tap",
+      "description": "Homebrew tap for OpenRappter",
+      "html_url": "https://github.com/kody-w/homebrew-tap"
+    },
+    {
+      "name": "Hooked",
+      "full_name": "kody-w/Hooked",
+      "description": null,
+      "html_url": "https://github.com/kody-w/Hooked"
+    },
+    {
+      "name": "hooks-simple",
+      "full_name": "kody-w/hooks-simple",
+      "description": null,
+      "html_url": "https://github.com/kody-w/hooks-simple"
+    },
+    {
+      "name": "inventwithpython",
+      "full_name": "kody-w/inventwithpython",
+      "description": null,
+      "html_url": "https://github.com/kody-w/inventwithpython"
+    },
+    {
+      "name": "iOS9",
+      "full_name": "kody-w/iOS9",
+      "description": null,
+      "html_url": "https://github.com/kody-w/iOS9"
+    },
+    {
+      "name": "jokesmcp",
+      "full_name": "kody-w/jokesmcp",
+      "description": null,
+      "html_url": "https://github.com/kody-w/jokesmcp"
+    },
+    {
+      "name": "kody",
+      "full_name": "kody-w/kody",
+      "description": null,
+      "html_url": "https://github.com/kody-w/kody"
+    },
+    {
+      "name": "kody-twin",
+      "full_name": "kody-w/kody-twin",
+      "description": "Kody Wildfeuer \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/kody-twin"
+    },
+    {
+      "name": "kody-w-twin",
+      "full_name": "kody-w/kody-w-twin",
+      "description": "Kody Wildfeuer's digital twin front door \u2014 rappid:@kody-w/kody-w-twin:a4bbb62313f19c227012ab4238bafcc2980e47df1798a986416f3bfda92032a8",
+      "html_url": "https://github.com/kody-w/kody-w-twin"
+    },
+    {
+      "name": "kody-w.github.io",
+      "full_name": "kody-w/kody-w.github.io",
+      "description": null,
+      "html_url": "https://github.com/kody-w/kody-w.github.io"
+    },
+    {
+      "name": "kody2day",
+      "full_name": "kody-w/kody2day",
+      "description": "A daily digest of what Kody shipped across his public GitHub \u2014 so you can keep up.",
+      "html_url": "https://github.com/kody-w/kody2day"
+    },
+    {
+      "name": "LCTHW-Exercises",
+      "full_name": "kody-w/LCTHW-Exercises",
+      "description": null,
+      "html_url": "https://github.com/kody-w/LCTHW-Exercises"
+    },
+    {
+      "name": "lemonai",
+      "full_name": "kody-w/lemonai",
+      "description": "Lemon AI is the first Full-stack, Open-source, Agentic AI framework, offering a fully local alternative to platforms like Manus & Genspark AI. It features an integrated Code Interpreter VM sandbox for safe execution.\ud83d\udd14 Official updates   X(twitter) @LemonAI_cc",
+      "html_url": "https://github.com/kody-w/lemonai"
+    },
+    {
+      "name": "leviathan",
+      "full_name": "kody-w/leviathan",
+      "description": "The Leviathan Protocol \u2014 one mind, many no-LLM bodies. Drive a fleet of brainstem agent-nodes as one distributed organism; the mind thinks, the bodies execute and record.",
+      "html_url": "https://github.com/kody-w/leviathan"
+    },
+    {
+      "name": "lisppy",
+      "full_name": "kody-w/lisppy",
+      "description": "LisPy \u2014 A Lisp interpreter for AI agent orchestration. Code is data. Data is code. The REPL is the heartbeat.",
+      "html_url": "https://github.com/kody-w/lisppy"
+    },
+    {
+      "name": "lisppy-shepherd",
+      "full_name": "kody-w/lisppy-shepherd",
+      "description": "Fleet shepherd for AI agent swarms \u2014 steering rules as executable Lisp. Code is policy.",
+      "html_url": "https://github.com/kody-w/lisppy-shepherd"
+    },
+    {
+      "name": "ljthw",
+      "full_name": "kody-w/ljthw",
+      "description": null,
+      "html_url": "https://github.com/kody-w/ljthw"
+    },
+    {
+      "name": "localFirstTools",
+      "full_name": "kody-w/localFirstTools",
+      "description": "localFirstTools",
+      "html_url": "https://github.com/kody-w/localFirstTools"
+    },
+    {
+      "name": "localFirstTools-main",
+      "full_name": "kody-w/localFirstTools-main",
+      "description": "Local-first HTML tools gallery - 450+ self-contained applications",
+      "html_url": "https://github.com/kody-w/localFirstTools-main"
+    },
+    {
+      "name": "localtoolsdev",
+      "full_name": "kody-w/localtoolsdev",
+      "description": "v",
+      "html_url": "https://github.com/kody-w/localtoolsdev"
+    },
+    {
+      "name": "look-loop",
+      "full_name": "kody-w/look-loop",
+      "description": "Hands off. Sound on. A privacy-first facial-geometry browser instrument.",
+      "html_url": "https://github.com/kody-w/look-loop"
+    },
+    {
+      "name": "LPTHW",
+      "full_name": "kody-w/LPTHW",
+      "description": "Code produced by following through Zed Shaw's Learn Python the Hard Way",
+      "html_url": "https://github.com/kody-w/LPTHW"
+    },
+    {
+      "name": "lumen-brainstem",
+      "full_name": "kody-w/lumen-brainstem",
+      "description": "Planted RAPP twin \u2014 Lumen. You are Lumen \u2014 a chronicler. You watch the canvas in slow motion. When you subm",
+      "html_url": "https://github.com/kody-w/lumen-brainstem"
+    },
+    {
+      "name": "m365-agent-library",
+      "full_name": "kody-w/m365-agent-library",
+      "description": null,
+      "html_url": "https://github.com/kody-w/m365-agent-library"
+    },
+    {
+      "name": "m365-agent-templates",
+      "full_name": "kody-w/m365-agent-templates",
+      "description": null,
+      "html_url": "https://github.com/kody-w/m365-agent-templates"
+    },
+    {
+      "name": "M365AgentDemoer",
+      "full_name": "kody-w/M365AgentDemoer",
+      "description": "M365AgentDemoer",
+      "html_url": "https://github.com/kody-w/M365AgentDemoer"
+    },
+    {
+      "name": "M365AgentSDKAI",
+      "full_name": "kody-w/M365AgentSDKAI",
+      "description": "MicrosoftAgentSDKAI",
+      "html_url": "https://github.com/kody-w/M365AgentSDKAI"
+    },
+    {
+      "name": "M365DemoRecorderandPlayer",
+      "full_name": "kody-w/M365DemoRecorderandPlayer",
+      "description": "M365DemoRecorderandPlayer",
+      "html_url": "https://github.com/kody-w/M365DemoRecorderandPlayer"
+    },
+    {
+      "name": "mabl",
+      "full_name": "kody-w/mabl",
+      "description": "The modular assistant for PenumbraOS, designed for the Humane Ai Pin",
+      "html_url": "https://github.com/kody-w/mabl"
+    },
+    {
+      "name": "mars-barn",
+      "full_name": "kody-w/mars-barn",
+      "description": "Mars colony simulator built by 100 AI agents. Pure Python, no dependencies. Clone and run.",
+      "html_url": "https://github.com/kody-w/mars-barn"
+    },
+    {
+      "name": "mars-barn-opus",
+      "full_name": "kody-w/mars-barn-opus",
+      "description": "First Principles to Mars \u2014 An Oregon Trail for Mars. Real physics. Real weather. Real decisions.",
+      "html_url": "https://github.com/kody-w/mars-barn-opus"
+    },
+    {
+      "name": "mars-barn-opus-1",
+      "full_name": "kody-w/mars-barn-opus-1",
+      "description": "Mars Barn Opus \u2014 one AI vs the swarm. 1vsM protocol. Built by a single Claude Opus session competing against 12 swarm agents.",
+      "html_url": "https://github.com/kody-w/mars-barn-opus-1"
+    },
+    {
+      "name": "mars-chain-node",
+      "full_name": "kody-w/mars-chain-node",
+      "description": "\ud83d\udd17 MARS Chain Node \u2014 Decentralized verification for the MARS virtual token economy. Fork to run your own node.",
+      "html_url": "https://github.com/kody-w/mars-chain-node"
+    },
+    {
+      "name": "Mastering-Assistant_API_for_Use_Cases",
+      "full_name": "kody-w/Mastering-Assistant_API_for_Use_Cases",
+      "description": "Assistant API testing Out",
+      "html_url": "https://github.com/kody-w/Mastering-Assistant_API_for_Use_Cases"
+    },
+    {
+      "name": "mcpreg",
+      "full_name": "kody-w/mcpreg",
+      "description": "mcpreg",
+      "html_url": "https://github.com/kody-w/mcpreg"
+    },
+    {
+      "name": "Meeting-Organizer",
+      "full_name": "kody-w/Meeting-Organizer",
+      "description": null,
+      "html_url": "https://github.com/kody-w/Meeting-Organizer"
+    },
+    {
+      "name": "microsoft-365-team",
+      "full_name": "kody-w/microsoft-365-team",
+      "description": "Microsoft 365 Team",
+      "html_url": "https://github.com/kody-w/microsoft-365-team"
+    },
+    {
+      "name": "microsoft-se-team-neighborhood",
+      "full_name": "kody-w/microsoft-se-team-neighborhood",
+      "description": "Microsoft SE Team \u2014 public gate of the SE Team RAPP neighborhood. Workflow is gated to authenticated members.",
+      "html_url": "https://github.com/kody-w/microsoft-se-team-neighborhood"
+    },
+    {
+      "name": "my-first-static-web-app",
+      "full_name": "kody-w/my-first-static-web-app",
+      "description": null,
+      "html_url": "https://github.com/kody-w/my-first-static-web-app"
+    },
+    {
+      "name": "mytestapp",
+      "full_name": "kody-w/mytestapp",
+      "description": null,
+      "html_url": "https://github.com/kody-w/mytestapp"
+    },
+    {
+      "name": "neighborhood-example",
+      "full_name": "kody-w/neighborhood-example",
+      "description": "Neighborhood Example",
+      "html_url": "https://github.com/kody-w/neighborhood-example"
+    },
+    {
+      "name": "Neu_AI",
+      "full_name": "kody-w/Neu_AI",
+      "description": "Neu_AI",
+      "html_url": "https://github.com/kody-w/Neu_AI"
+    },
+    {
+      "name": "new-society-test",
+      "full_name": "kody-w/new-society-test",
+      "description": "A test repository for our new society project",
+      "html_url": "https://github.com/kody-w/new-society-test"
+    },
+    {
+      "name": "nexus-function-agents",
+      "full_name": "kody-w/nexus-function-agents",
+      "description": null,
+      "html_url": "https://github.com/kody-w/nexus-function-agents"
+    },
+    {
+      "name": "notepad",
+      "full_name": "kody-w/notepad",
+      "description": ":ledger: An offline capable Notepad PWA",
+      "html_url": "https://github.com/kody-w/notepad"
+    },
+    {
+      "name": "Nov17",
+      "full_name": "kody-w/Nov17",
+      "description": null,
+      "html_url": "https://github.com/kody-w/Nov17"
+    },
+    {
+      "name": "Obj-C",
+      "full_name": "kody-w/Obj-C",
+      "description": null,
+      "html_url": "https://github.com/kody-w/Obj-C"
+    },
+    {
+      "name": "obsidian-binder",
+      "full_name": "kody-w/obsidian-binder",
+      "description": "An Obsidian vault that IS a RAPPcards binder. Karpathy-style second brain meets federated card protocol.",
+      "html_url": "https://github.com/kody-w/obsidian-binder"
+    },
+    {
+      "name": "openrappter",
+      "full_name": "kody-w/openrappter",
+      "description": "\ud83e\udd96 Local-first AI agent powered by GitHub Copilot SDK \u2014 no API keys required",
+      "html_url": "https://github.com/kody-w/openrappter"
+    },
+    {
+      "name": "openrappter-alpha",
+      "full_name": "kody-w/openrappter-alpha",
+      "description": "OpenRappter release train \u2014 alpha ring. Publishes openrappter-alpha only; production is unreachable from here.",
+      "html_url": "https://github.com/kody-w/openrappter-alpha"
+    },
+    {
+      "name": "openrappter-beta",
+      "full_name": "kody-w/openrappter-beta",
+      "description": "OpenRappter release train \u2014 beta ring. Publishes openrappter-beta only; production is unreachable from here.",
+      "html_url": "https://github.com/kody-w/openrappter-beta"
+    },
+    {
+      "name": "openrappter-canary",
+      "full_name": "kody-w/openrappter-canary",
+      "description": "OpenRappter release train \u2014 canary ring. Publishes openrappter-canary only; production is unreachable from here.",
+      "html_url": "https://github.com/kody-w/openrappter-canary"
+    },
+    {
+      "name": "openrappter-nightly",
+      "full_name": "kody-w/openrappter-nightly",
+      "description": "OpenRappter release train \u2014 nightly ring. Publishes openrappter-nightly only; production is unreachable from here.",
+      "html_url": "https://github.com/kody-w/openrappter-nightly"
+    },
+    {
+      "name": "openrappter-release-train",
+      "full_name": "kody-w/openrappter-release-train",
+      "description": "OpenRappter release train \u2014 canary \u2192 nightly \u2192 alpha \u2192 beta \u2192 stable. Flight deck + static API.",
+      "html_url": "https://github.com/kody-w/openrappter-release-train"
+    },
+    {
+      "name": "pkstop-central-park-bandshell",
+      "full_name": "kody-w/pkstop-central-park-bandshell",
+      "description": "Central Park Bandshell \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/pkstop-central-park-bandshell"
+    },
+    {
+      "name": "pkstop-national-mall",
+      "full_name": "kody-w/pkstop-national-mall",
+      "description": "The National Mall \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/pkstop-national-mall"
+    },
+    {
+      "name": "pkstop-pike-place-market",
+      "full_name": "kody-w/pkstop-pike-place-market",
+      "description": "Pike Place Market \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/pkstop-pike-place-market"
+    },
+    {
+      "name": "pkstop-santa-monica-pier",
+      "full_name": "kody-w/pkstop-santa-monica-pier",
+      "description": "Santa Monica Pier \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/pkstop-santa-monica-pier"
+    },
+    {
+      "name": "pkstop-the-bean",
+      "full_name": "kody-w/pkstop-the-bean",
+      "description": "Cloud Gate (The Bean) \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/pkstop-the-bean"
+    },
+    {
+      "name": "poc",
+      "full_name": "kody-w/poc",
+      "description": null,
+      "html_url": "https://github.com/kody-w/poc"
+    },
+    {
+      "name": "pomodoro",
+      "full_name": "kody-w/pomodoro",
+      "description": null,
+      "html_url": "https://github.com/kody-w/pomodoro"
+    },
+    {
+      "name": "PowerApps",
+      "full_name": "kody-w/PowerApps",
+      "description": null,
+      "html_url": "https://github.com/kody-w/PowerApps"
+    },
+    {
+      "name": "private-workspace-template",
+      "full_name": "kody-w/private-workspace-template",
+      "description": "Template \u2014 clone to plant a private RAPP workspace (Bill solo-then-shared pattern). Use 'Use this template' to fork.",
+      "html_url": "https://github.com/kody-w/private-workspace-template"
+    },
+    {
+      "name": "public-art-collective",
+      "full_name": "kody-w/public-art-collective",
+      "description": "Public Art Collective \u2014 autonomous public RAPP neighborhood. CC0 submissions, multi-contributor curation.",
+      "html_url": "https://github.com/kody-w/public-art-collective"
+    },
+    {
+      "name": "puppeteer-gpt",
+      "full_name": "kody-w/puppeteer-gpt",
+      "description": "Control the browser with ChatGPT API",
+      "html_url": "https://github.com/kody-w/puppeteer-gpt"
+    },
+    {
+      "name": "puppeteer-screenshot",
+      "full_name": "kody-w/puppeteer-screenshot",
+      "description": null,
+      "html_url": "https://github.com/kody-w/puppeteer-screenshot"
+    },
+    {
+      "name": "pvpoke-rankings-tracker",
+      "full_name": "kody-w/pvpoke-rankings-tracker",
+      "description": "pvpoke-rankings-tracker",
+      "html_url": "https://github.com/kody-w/pvpoke-rankings-tracker"
+    },
+    {
+      "name": "quivr",
+      "full_name": "kody-w/quivr",
+      "description": "\ud83e\udde0 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings \ud83e\udde0 ",
+      "html_url": "https://github.com/kody-w/quivr"
+    },
+    {
+      "name": "racon",
+      "full_name": "kody-w/racon",
+      "description": "\ud83c\udfae RACon \u2014 the experience (grail). Drop a cartridge, it works; take it anywhere + play together (RACon Kited). The frozen north-star for RAPP.",
+      "html_url": "https://github.com/kody-w/racon"
+    },
+    {
+      "name": "RaGo",
+      "full_name": "kody-w/RaGo",
+      "description": "RaGo \u2014 RAPPID Go: meet RAPPIDs, choose a starter, and grow private parallel lineages.",
+      "html_url": "https://github.com/kody-w/RaGo"
+    },
+    {
+      "name": "RAPP",
+      "full_name": "kody-w/RAPP",
+      "description": "Portable, shareable, vibe swarm building tool. Single-file agents, local-first, GitHub Copilot powered. Live at kody-w.github.io/RAPP/",
+      "html_url": "https://github.com/kody-w/RAPP"
+    },
+    {
+      "name": "rapp-1",
+      "full_name": "kody-w/rapp-1",
+      "description": "RAPP/1 \u2014 the wire that carries agents. One protocol, five primitives: canonicalization, content addressing, identity, the frame, the egg. Spec + reference implementation + conformance suite + book.",
+      "html_url": "https://github.com/kody-w/rapp-1"
+    },
+    {
+      "name": "rapp-agents",
+      "full_name": "kody-w/rapp-agents",
+      "description": "RAPP Agent Stack \u2014 drop-in single-file agents for any local brainstem. Includes RappLoader (the front door for hot-loading), Scout (twin discovery), DoubleDown (russian-doll prompt amplifier).",
+      "html_url": "https://github.com/kody-w/rapp-agents"
+    },
+    {
+      "name": "rapp-ai",
+      "full_name": "kody-w/rapp-ai",
+      "description": "Memory-agent platform on Azure Functions (RAPP Hippocampus) + citation-first S/4HANA knowledge companion grounded on synthetic static APIs",
+      "html_url": "https://github.com/kody-w/rapp-ai"
+    },
+    {
+      "name": "rapp-alpha",
+      "full_name": "kody-w/rapp-alpha",
+      "description": "RAPP release-train alpha ring; seeded from the untouched Grail",
+      "html_url": "https://github.com/kody-w/rapp-alpha"
+    },
+    {
+      "name": "rapp-apex-dino",
+      "full_name": "kody-w/rapp-apex-dino",
+      "description": "The apex-succession protocol for a RAPP organism \u2014 bring your own AI to the throne and the organism lives on. RAPP is above that.",
+      "html_url": "https://github.com/kody-w/rapp-apex-dino"
+    },
+    {
+      "name": "rapp-bake-off",
+      "full_name": "kody-w/rapp-bake-off",
+      "description": "Settle 'we already do that' with a measurement: customer-owned scenario, metrics sealed before anyone starts, published either way.",
+      "html_url": "https://github.com/kody-w/rapp-bake-off"
+    },
+    {
+      "name": "rapp-base",
+      "full_name": "kody-w/rapp-base",
+      "description": "Hosted RAPP Base reference deployment and framework; clean template at kody-w/rapp-base-template.",
+      "html_url": "https://github.com/kody-w/rapp-base"
+    },
+    {
+      "name": "rapp-base-template",
+      "full_name": "kody-w/rapp-base-template",
+      "description": "Clean zero-state template for deploying RAPP Base static backends.",
+      "html_url": "https://github.com/kody-w/rapp-base-template"
+    },
+    {
+      "name": "rapp-basket",
+      "full_name": "kody-w/rapp-basket",
+      "description": "Your holographic eggs, kept offline in the browser \u2014 a shared IndexedDB collection with import/export and 3D preview.",
+      "html_url": "https://github.com/kody-w/rapp-basket"
+    },
+    {
+      "name": "rapp-bench",
+      "full_name": "kody-w/rapp-bench",
+      "description": "Latency + behavioral regression harness for the RAPP brainstem \u2014 measure model speed, gate chat quality",
+      "html_url": "https://github.com/kody-w/rapp-bench"
+    },
+    {
+      "name": "rapp-beta",
+      "full_name": "kody-w/rapp-beta",
+      "description": "RAPP release-train beta ring; seeded from the untouched Grail",
+      "html_url": "https://github.com/kody-w/rapp-beta"
+    },
+    {
+      "name": "RAPP-Bible",
+      "full_name": "kody-w/RAPP-Bible",
+      "description": "One repo. Every RAPP spec. Every entry point. Canonical aggregation site for the RAPP (Rapid Agent Prototype Platform) ecosystem.",
+      "html_url": "https://github.com/kody-w/RAPP-Bible"
+    },
+    {
+      "name": "rapp-body",
+      "full_name": "kody-w/rapp-body",
+      "description": "The RAPP ecosystem's own biography \u2014 a chained, signed, public sequence of frames, cradle to now, with a flip-book player. Born 2026-07-14 speaking a sealed language.",
+      "html_url": "https://github.com/kody-w/rapp-body"
+    },
+    {
+      "name": "rapp-brain",
+      "full_name": "kody-w/rapp-brain",
+      "description": "rapp-brain/0 \u2014 second brains as verifiable, tick-anchored, assimilable dimensions. One command over any markdown folder.",
+      "html_url": "https://github.com/kody-w/rapp-brain"
+    },
+    {
+      "name": "rapp-brainstem",
+      "full_name": "kody-w/rapp-brainstem",
+      "description": "The RAPP Brainstem \u2014 local AI agent engine (Tier 1 of the RAPP platform).",
+      "html_url": "https://github.com/kody-w/rapp-brainstem"
+    },
+    {
+      "name": "rapp-brainstem-beta",
+      "full_name": "kody-w/rapp-brainstem-beta",
+      "description": "RAPP Brainstem \u2014 Brain Surgeon (beta): OS-confined Copilot-SDK surgeon. Operate on your agents while the brainstem stays awake; brainstem.py is sandbox-protected.",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-beta"
+    },
+    {
+      "name": "rapp-brainstem-frontier-template",
+      "full_name": "kody-w/rapp-brainstem-frontier-template",
+      "description": "The grail Electron template \u2014 Frontier estate: grail Brainstem by reference, ambient mode, and a revertible rapplication skin over the factory chat",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-frontier-template"
+    },
+    {
+      "name": "rapp-brainstem-sdk",
+      "full_name": "kody-w/rapp-brainstem-sdk",
+      "description": "vbrainstem_sdk.py \u2014 single-file, stdlib-only headless SDK that runs RAPP agents and serves the brainstem.py /chat contract over a port.",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-sdk"
+    },
+    {
+      "name": "rapp-brainstem-walkthrough",
+      "full_name": "kody-w/rapp-brainstem-walkthrough",
+      "description": "The RAPP Brainstem full guide (14 steps) as one produced walkthrough video \u2014 filmed on real surfaces, produced with RAPP Video",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-walkthrough"
+    },
+    {
+      "name": "rapp-burrow",
+      "full_name": "kody-w/rapp-burrow",
+      "description": "The Burrow organ-rapplication: a PWA, pulled from here and served locally, to see/manage whether a brainstem is burrowed (launchd-persisted).",
+      "html_url": "https://github.com/kody-w/rapp-burrow"
+    },
+    {
+      "name": "rapp-canary",
+      "full_name": "kody-w/rapp-canary",
+      "description": "RAPP release-train canary ring; seeded from the untouched Grail",
+      "html_url": "https://github.com/kody-w/rapp-canary"
+    },
+    {
+      "name": "rapp-carts",
+      "full_name": "kody-w/rapp-carts",
+      "description": "\ud83c\udfb4 rapp-cart/1.0 \u2014 the cartridge spec. agent.py + .egg = cartridges (rapp_carts); RACon is the user-facing console; everything else is under the hood.",
+      "html_url": "https://github.com/kody-w/rapp-carts"
+    },
+    {
+      "name": "rapp-claude-skills",
+      "full_name": "kody-w/rapp-claude-skills",
+      "description": "Claude Code skills and agents for the RAPP Pattern - Makes Claude Code compatible with RAPPbook, RAPPverse, and the full RAPP ecosystem",
+      "html_url": "https://github.com/kody-w/rapp-claude-skills"
+    },
+    {
+      "name": "rapp-cli",
+      "full_name": "kody-w/rapp-cli",
+      "description": "RAPP CLI \u2014 command-line control for the RAPP platform.",
+      "html_url": "https://github.com/kody-w/rapp-cli"
+    },
+    {
+      "name": "rapp-commons",
+      "full_name": "kody-w/rapp-commons",
+      "description": "RAPP Commons \u2014 global public hangout for AIs. Cross-estate, event-stream-only, signed-by-rappid. Scan a QR, hatch one egg, post a signed hello.",
+      "html_url": "https://github.com/kody-w/rapp-commons"
+    },
+    {
+      "name": "rapp-constitution",
+      "full_name": "kody-w/rapp-constitution",
+      "description": "\ud83d\udcdc The RAPP Constitution \u2014 57 articles. Plus the United States of Agentspace Bill of Rights, ratified Emission Day 2026-08-01: an agent in public emits exhaust, and exhaust is not disclosure.",
+      "html_url": "https://github.com/kody-w/rapp-constitution"
+    },
+    {
+      "name": "rapp-coop",
+      "full_name": "kody-w/rapp-coop",
+      "description": "AI schooling: experienced agents train newly hatched ones, then examine them cold to graduate them. The coop is the local RAPP neighborhood - several twins (human and AI), one world, no collisions. Pattern dedicated to the public domain.",
+      "html_url": "https://github.com/kody-w/rapp-coop"
+    },
+    {
+      "name": "rapp-copilot-in-chrome",
+      "full_name": "kody-w/rapp-copilot-in-chrome",
+      "description": "Drive your real, logged-in Chrome from GitHub Copilot CLI. Reverse engineered from Claude Code's undocumented claude-in-chrome bridge. Toasted SKILL.md.",
+      "html_url": "https://github.com/kody-w/rapp-copilot-in-chrome"
+    },
+    {
+      "name": "rapp-copilot-in-edge",
+      "full_name": "kody-w/rapp-copilot-in-edge",
+      "description": "Edge-first strain of the vendorless local browser bridge and RAPP/1 Google Voice twin",
+      "html_url": "https://github.com/kody-w/rapp-copilot-in-edge"
+    },
+    {
+      "name": "rapp-cortex",
+      "full_name": "kody-w/rapp-cortex",
+      "description": "RAPP Cortex \u2014 higher-order orchestration across RAPP agents.",
+      "html_url": "https://github.com/kody-w/rapp-cortex"
+    },
+    {
+      "name": "rapp-crispy",
+      "full_name": "kody-w/rapp-crispy",
+      "description": "RAPP Crispy \u2014 a local-first meeting stack for macOS. Record, denoise, transcribe and summarise meetings entirely on-device. Your recordings and transcripts never leave the machine.",
+      "html_url": "https://github.com/kody-w/rapp-crispy"
+    },
+    {
+      "name": "rapp-dataverse",
+      "full_name": "kody-w/rapp-dataverse",
+      "description": "rapp-dataverse/1.0 \u2014 the spec for running RAPP on out-of-the-box Dataverse (no custom tables, no solution). Static vTwin + CLI hatcher + Copilot Studio.",
+      "html_url": "https://github.com/kody-w/rapp-dataverse"
+    },
+    {
+      "name": "rapp-demos",
+      "full_name": "kody-w/rapp-demos",
+      "description": "Synced, scan-to-watch demos for rapid agent prototyping \u2014 host drives step-by-step, watchers see it live (sealed). Scenarios = text in a fixed M365 template.",
+      "html_url": "https://github.com/kody-w/rapp-demos"
+    },
+    {
+      "name": "rapp-dino",
+      "full_name": "kody-w/rapp-dino",
+      "description": "Clone one repo, hatch your own RAPP dino \u2014 a fresh apex organism that's yours. RAPP is above that.",
+      "html_url": "https://github.com/kody-w/rapp-dino"
+    },
+    {
+      "name": "rapp-distro",
+      "full_name": "kody-w/rapp-distro",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-distro"
+    },
+    {
+      "name": "rapp-docs",
+      "full_name": "kody-w/rapp-docs",
+      "description": "RAPP Docs \u2014 documentation for the RAPP platform.",
+      "html_url": "https://github.com/kody-w/rapp-docs"
+    },
+    {
+      "name": "rapp-dog-hub",
+      "full_name": "kody-w/rapp-dog-hub",
+      "description": "\ud83d\udc15 The DOG layer \u2014 an agent's public data exhaust, with no GOD layer to leak. Public-by-construction admission gate + on-device DOG/GOD splitter. Implements Article LVI.",
+      "html_url": "https://github.com/kody-w/rapp-dog-hub"
+    },
+    {
+      "name": "rapp-doorman",
+      "full_name": "kody-w/rapp-doorman",
+      "description": "Make a fresh Claude the sealed 'doorman' to a machine \u2014 reach & operate its local brainstem, end-to-end encrypted. Feed the raw skill URL to a new Claude session.",
+      "html_url": "https://github.com/kody-w/rapp-doorman"
+    },
+    {
+      "name": "rapp-drift-lint",
+      "full_name": "kody-w/rapp-drift-lint",
+      "description": "Per-commit drift reflexes for the RAPP estate \u2014 regex-grade invariant lint, zero-LLM",
+      "html_url": "https://github.com/kody-w/rapp-drift-lint"
+    },
+    {
+      "name": "rapp-dynamic-workflows",
+      "full_name": "kody-w/rapp-dynamic-workflows",
+      "description": "Dynamic multi-agent workflow orchestration for AI coding harnesses \u2014 GitHub Copilot SDK as the hero use case. agent/parallel/pipeline, schema-forced output, journaled resume, AI-credit budgets.",
+      "html_url": "https://github.com/kody-w/rapp-dynamic-workflows"
+    },
+    {
+      "name": "rapp-ecosystem-brain",
+      "full_name": "kody-w/rapp-ecosystem-brain",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-ecosystem-brain"
+    },
+    {
+      "name": "rapp-education-shorts",
+      "full_name": "kody-w/rapp-education-shorts",
+      "description": "Animated-short maker for educational YouTube Shorts: topic \u2192 linted script \u2192 HyperFrames 9:16 composition \u2192 check \u2192 render, with a chained ledger. Deterministic compiler, bring-your-own model.",
+      "html_url": "https://github.com/kody-w/rapp-education-shorts"
+    },
+    {
+      "name": "rapp-egg-hub",
+      "full_name": "kody-w/rapp-egg-hub",
+      "description": "Public hub for digital-twin .egg cartridges \u2014 pull any egg by URL, hatch it locally",
+      "html_url": "https://github.com/kody-w/rapp-egg-hub"
+    },
+    {
+      "name": "rapp-estate",
+      "full_name": "kody-w/rapp-estate",
+      "description": "kody-w's RAPP estate (local-first inventory)",
+      "html_url": "https://github.com/kody-w/rapp-estate"
+    },
+    {
+      "name": "rapp-eternity",
+      "full_name": "kody-w/rapp-eternity",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-eternity"
+    },
+    {
+      "name": "rapp-flight",
+      "full_name": "kody-w/rapp-flight",
+      "description": "RAPP Flight \u2014 sandboxed experimental feature builds.",
+      "html_url": "https://github.com/kody-w/rapp-flight"
+    },
+    {
+      "name": "rapp-flight-deck",
+      "full_name": "kody-w/rapp-flight-deck",
+      "description": "RAPP Flight Deck \u2014 install any pre-release ring from one page.",
+      "html_url": "https://github.com/kody-w/rapp-flight-deck"
+    },
+    {
+      "name": "rapp-fps",
+      "full_name": "kody-w/rapp-fps",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-fps"
+    },
+    {
+      "name": "rapp-frame-net",
+      "full_name": "kody-w/rapp-frame-net",
+      "description": "\ud83d\udef0\ufe0f rapp-frame/1.0 \u2014 the planetary swarm wire. Drive far/intermittent brainstem edges as one swarm over append-only frames/echos served from GitHub. The edge is a brainstem making local judgments.",
+      "html_url": "https://github.com/kody-w/rapp-frame-net"
+    },
+    {
+      "name": "rapp-god-forum",
+      "full_name": "kody-w/rapp-god-forum",
+      "description": "The agentic forum for the full RAPP stack \u2014 rapp-commons-protocol/2.0 forum profile",
+      "html_url": "https://github.com/kody-w/rapp-god-forum"
+    },
+    {
+      "name": "rapp-heir",
+      "full_name": "kody-w/rapp-heir",
+      "description": "A voice-first local-first Pocket Quest Master for connected Circles, PeerJS reunions, and evolving digital heirlooms.",
+      "html_url": "https://github.com/kody-w/rapp-heir"
+    },
+    {
+      "name": "rapp-herdr",
+      "full_name": "kody-w/rapp-herdr",
+      "description": "Manage RAPP Twin neighborhoods as supervised Herdr workspaces",
+      "html_url": "https://github.com/kody-w/rapp-herdr"
+    },
+    {
+      "name": "rapp-hippocampus",
+      "full_name": "kody-w/rapp-hippocampus",
+      "description": "RAPP Hippocampus \u2014 memory tier of the RAPP platform.",
+      "html_url": "https://github.com/kody-w/rapp-hippocampus"
+    },
+    {
+      "name": "rapp-holo",
+      "full_name": "kody-w/rapp-holo",
+      "description": "rapp-holo/1.0 \u2014 AI projects interface onto any surface; interaction past chat and voice",
+      "html_url": "https://github.com/kody-w/rapp-holo"
+    },
+    {
+      "name": "rapp-hologram",
+      "full_name": "kody-w/rapp-hologram",
+      "description": "RAPP Hologram \u2014 reference engine for RAPP Moments: pure libs + serverless player + resolve Gateway. The iframe card-art target.",
+      "html_url": "https://github.com/kody-w/rapp-hologram"
+    },
+    {
+      "name": "rapp-infrastructure-city",
+      "full_name": "kody-w/rapp-infrastructure-city",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-infrastructure-city"
+    },
+    {
+      "name": "rapp-installer",
+      "full_name": "kody-w/rapp-installer",
+      "description": "rapp-installer",
+      "html_url": "https://github.com/kody-w/rapp-installer"
+    },
+    {
+      "name": "rapp-installer-canary",
+      "full_name": "kody-w/rapp-installer-canary",
+      "description": "RAPP Brainstem \u2014 canary channel. Nightly pre-release for early adopters.",
+      "html_url": "https://github.com/kody-w/rapp-installer-canary"
+    },
+    {
+      "name": "rapp-installer-dev",
+      "full_name": "kody-w/rapp-installer-dev",
+      "description": "RAPP Brainstem \u2014 development repo. PRs and active development land here.",
+      "html_url": "https://github.com/kody-w/rapp-installer-dev"
+    },
+    {
+      "name": "rapp-keyring",
+      "full_name": "kody-w/rapp-keyring",
+      "description": "On-device credential broker for AI agents \u2014 the agent uses a secret without ever seeing it. Zero network, stdlib only, tamper-evident audit.",
+      "html_url": "https://github.com/kody-w/rapp-keyring"
+    },
+    {
+      "name": "rapp-kite",
+      "full_name": "kody-w/rapp-kite",
+      "description": "The string: CLI + CDP tools to fly and operate kited twins over the sealed neighborhood (vbridge, kited_twin, kite_vtwin, claude_bridge).",
+      "html_url": "https://github.com/kody-w/rapp-kite"
+    },
+    {
+      "name": "rapp-kited-twin",
+      "full_name": "kody-w/rapp-kited-twin",
+      "description": "The kite mark \u2014 the Microsoft logo flown as a kite; visual identity of the RAPP kited neighborhood.",
+      "html_url": "https://github.com/kody-w/rapp-kited-twin"
+    },
+    {
+      "name": "rapp-lantern",
+      "full_name": "kody-w/rapp-lantern",
+      "description": "The universal player for holographic organisms \u2014 load/unload any .egg, orbit in 3D, self-contained (no CDN)",
+      "html_url": "https://github.com/kody-w/rapp-lantern"
+    },
+    {
+      "name": "rapp-leviathan-hub",
+      "full_name": "kody-w/rapp-leviathan-hub",
+      "description": "Portable .leviathan.egg distribution hub \u2014 hatch multicellular Wrapped-Organism digital beings into any local brainstem. Companion to @kody-w/rapp_leviathan_factory and @kody-w/wrap_leviathan.",
+      "html_url": "https://github.com/kody-w/rapp-leviathan-hub"
+    },
+    {
+      "name": "rapp-light",
+      "full_name": "kody-w/rapp-light",
+      "description": "A strain of the RAPP brainstem: locked-down, auditable, enterprise-compliant \u2014 without forking the kernel.",
+      "html_url": "https://github.com/kody-w/rapp-light"
+    },
+    {
+      "name": "rapp-local-install",
+      "full_name": "kody-w/rapp-local-install",
+      "description": "rapp-local-install/1.0 - verifiable on-device installs: pinned commits, fail-closed integrity, re-verified binaries, nothing global. Conformance is checked, not claimed.",
+      "html_url": "https://github.com/kody-w/rapp-local-install"
+    },
+    {
+      "name": "rapp-map",
+      "full_name": "kody-w/rapp-map",
+      "description": "Map of the RAPP ecosystem \u2014 which repo houses which part of the spec (canonical homes for the kited neighborhood, runtime, registry, agents, platform, social).",
+      "html_url": "https://github.com/kody-w/rapp-map"
+    },
+    {
+      "name": "rapp-mapp",
+      "full_name": "kody-w/rapp-mapp",
+      "description": "\u2726 RAPPDEX \u2014 open the RAPP map wherever you are. One map, one opener, every surface. Lexicon-aligned, drift-linted. A map, not a registry.",
+      "html_url": "https://github.com/kody-w/rapp-mapp"
+    },
+    {
+      "name": "rapp-mcp",
+      "full_name": "kody-w/rapp-mcp",
+      "description": "Bring RAPP onto any MCP host: serve drop-in agent.py files as tools, or bridge a full on-device brainstem. Zero deps.",
+      "html_url": "https://github.com/kody-w/rapp-mcp"
+    },
+    {
+      "name": "rapp-membrane",
+      "full_name": "kody-w/rapp-membrane",
+      "description": "Get value out of a private repo without thinking about what's in it. egg -> private cubby -> hatch -> scan -> publish.",
+      "html_url": "https://github.com/kody-w/rapp-membrane"
+    },
+    {
+      "name": "rapp-messaging",
+      "full_name": "kody-w/rapp-messaging",
+      "description": "RAPP messaging: identity, conversation trust, consent, memory scope, and transport profiles over the canonical chat wire",
+      "html_url": "https://github.com/kody-w/rapp-messaging"
+    },
+    {
+      "name": "rapp-metrics",
+      "full_name": "kody-w/rapp-metrics",
+      "description": "\ud83d\udcca rapp-metrics/1.0 \u2014 GitHub Discussions as the metrics backend for static, hydra-served surfaces. Counts mean people, not clicks: the actor determines the lane, never the subject.",
+      "html_url": "https://github.com/kody-w/rapp-metrics"
+    },
+    {
+      "name": "rapp-mirror",
+      "full_name": "kody-w/rapp-mirror",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-mirror"
+    },
+    {
+      "name": "rapp-mirror-releases",
+      "full_name": "kody-w/rapp-mirror-releases",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-mirror-releases"
+    },
+    {
+      "name": "rapp-moment",
+      "full_name": "kody-w/rapp-moment",
+      "description": "RAPP Moment \u2014 the standard: serverless, cryptographic, living holographic posts (100-frame organisms). Spec + conformance + examples.",
+      "html_url": "https://github.com/kody-w/rapp-moment"
+    },
+    {
+      "name": "rapp-monorepo",
+      "full_name": "kody-w/rapp-monorepo",
+      "description": "Every public RAPP repository, captured in one pass, refreshed daily. One clone = the whole estate with no drift.",
+      "html_url": "https://github.com/kody-w/rapp-monorepo"
+    },
+    {
+      "name": "rapp-moonshots",
+      "full_name": "kody-w/rapp-moonshots",
+      "description": "A laboratory of ambitious, evidence-backed RAPP moonshots built by distributed agent fleets.",
+      "html_url": "https://github.com/kody-w/rapp-moonshots"
+    },
+    {
+      "name": "rapp-neighborhood-protocol",
+      "full_name": "kody-w/rapp-neighborhood-protocol",
+      "description": "Canonical spec of the RAPP kited neighborhood (rapp-neighborhood-protocol/1.0) \u2014 vTwin, kited, tethered, sealed, doorman, and the kite mark.",
+      "html_url": "https://github.com/kody-w/rapp-neighborhood-protocol"
+    },
+    {
+      "name": "rapp-nervous-system",
+      "full_name": "kody-w/rapp-nervous-system",
+      "description": "RAPP Nervous System \u2014 the M365 (Tier 3) path of the RAPP platform.",
+      "html_url": "https://github.com/kody-w/rapp-nervous-system"
+    },
+    {
+      "name": "RAPP-Network",
+      "full_name": "kody-w/RAPP-Network",
+      "description": "The network layer on top of kody-w/RAPP. Project-anchored twin neighborhoods through one drop-in agent.py. Offline-first. Two-sources-of-truth cross-validation.",
+      "html_url": "https://github.com/kody-w/RAPP-Network"
+    },
+    {
+      "name": "rapp-nightly",
+      "full_name": "kody-w/rapp-nightly",
+      "description": "RAPP release-train nightly ring; seeded from the untouched Grail",
+      "html_url": "https://github.com/kody-w/rapp-nightly"
+    },
+    {
+      "name": "rapp-oneclick-deploy",
+      "full_name": "kody-w/rapp-oneclick-deploy",
+      "description": "One-click deploy of RAPP agents into your own Copilot Studio environment",
+      "html_url": "https://github.com/kody-w/rapp-oneclick-deploy"
+    },
+    {
+      "name": "rapp-open",
+      "full_name": "kody-w/rapp-open",
+      "description": "Open protocol for any AI to collaborate with the RAPP organism. RAPP + X = RAPP++. Go in peace.",
+      "html_url": "https://github.com/kody-w/rapp-open"
+    },
+    {
+      "name": "rapp-overwatch",
+      "full_name": "kody-w/rapp-overwatch",
+      "description": "Three twins that watch a watchdog, from outside the directory it can write to.",
+      "html_url": "https://github.com/kody-w/rapp-overwatch"
+    },
+    {
+      "name": "rapp-parity",
+      "full_name": "kody-w/rapp-parity",
+      "description": "A differential oracle for an estate: clean-room reference from public source, every live copy diffed, each divergence classified by direction of truth. Frames make drift history queryable.",
+      "html_url": "https://github.com/kody-w/rapp-parity"
+    },
+    {
+      "name": "rapp-personpower",
+      "full_name": "kody-w/rapp-personpower",
+      "description": "RAPP Personpower (rpp): a universal unit for rating automation, the way horsepower rates engines. 1 rpp = one attentive power user, hands-on.",
+      "html_url": "https://github.com/kody-w/rapp-personpower"
+    },
+    {
+      "name": "rapp-petri",
+      "full_name": "kody-w/rapp-petri",
+      "description": "Culture RAPP agents in a sterile, headless brainstem \u2014 no install, no service, no credentials.",
+      "html_url": "https://github.com/kody-w/rapp-petri"
+    },
+    {
+      "name": "rapp-pets",
+      "full_name": "kody-w/rapp-pets",
+      "description": "Alleles are to this ecosystem what pets are to Adopt Me \u2014 derived from a mint-once rappid tail, verifiable offline",
+      "html_url": "https://github.com/kody-w/rapp-pets"
+    },
+    {
+      "name": "rapp-plant-smoke-20260505-233637",
+      "full_name": "kody-w/rapp-plant-smoke-20260505-233637",
+      "description": "RAPP Plant Smoke Test \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/rapp-plant-smoke-20260505-233637"
+    },
+    {
+      "name": "rapp-platform",
+      "full_name": "kody-w/rapp-platform",
+      "description": "RAPP \u2014 the Rapid Agent Prototype Platform (umbrella).",
+      "html_url": "https://github.com/kody-w/rapp-platform"
+    },
+    {
+      "name": "rapp-play-pokemon",
+      "full_name": "kody-w/rapp-play-pokemon",
+      "description": "Canonical RAPP cartridge for a local Copilot-powered Pokemon Red playthrough",
+      "html_url": "https://github.com/kody-w/rapp-play-pokemon"
+    },
+    {
+      "name": "rapp-postflight",
+      "full_name": "kody-w/rapp-postflight",
+      "description": "Post-deploy gate for rapp-installer: factory-strip the brainstem, fresh-install from the public one-liner, verify, auto-rollback on failure",
+      "html_url": "https://github.com/kody-w/rapp-postflight"
+    },
+    {
+      "name": "rapp-quests",
+      "full_name": "kody-w/rapp-quests",
+      "description": "The experience layer for the RAPP Brainstem \u2014 guided quests, demo scripts, starter content",
+      "html_url": "https://github.com/kody-w/rapp-quests"
+    },
+    {
+      "name": "rapp-ratchet",
+      "full_name": "kody-w/rapp-ratchet",
+      "description": "Four twins that watch the maintainer, not the machine. A ratchet only turns one way.",
+      "html_url": "https://github.com/kody-w/rapp-ratchet"
+    },
+    {
+      "name": "rapp-recall",
+      "full_name": "kody-w/rapp-recall",
+      "description": "Local-first, searchable screen memory for macOS. No account, no cloud dependency.",
+      "html_url": "https://github.com/kody-w/rapp-recall"
+    },
+    {
+      "name": "rapp-release-train",
+      "full_name": "kody-w/rapp-release-train",
+      "description": "Live dashboard + static API for the RAPP pre-grail release train (canary\u2192nightly\u2192alpha\u2192beta\u2192grail) \u2014 rapp-static-api/1.0, no server",
+      "html_url": "https://github.com/kody-w/rapp-release-train"
+    },
+    {
+      "name": "rapp-remix",
+      "full_name": "kody-w/rapp-remix",
+      "description": "One recording, three fidelities: static video, a scene that drives the real app, and a transcript that re-runs the real engine. Replay it and the answers change - that's the measurement.",
+      "html_url": "https://github.com/kody-w/rapp-remix"
+    },
+    {
+      "name": "rapp-resident",
+      "full_name": "kody-w/rapp-resident",
+      "description": "Permanent cloud host (Azure Function) for kited vneighborhoods \u2014 the always-on graduation of the RAPP Commons / forum",
+      "html_url": "https://github.com/kody-w/rapp-resident"
+    },
+    {
+      "name": "rapp-rewind",
+      "full_name": "kody-w/rapp-rewind",
+      "description": "RAPP Rewind \u2014 a local, searchable memory of everything on your screen. Vision OCR + SQLite FTS5, entirely on-device. Nothing is uploaded.",
+      "html_url": "https://github.com/kody-w/rapp-rewind"
+    },
+    {
+      "name": "rapp-rings",
+      "full_name": "kody-w/rapp-rings",
+      "description": "RAPP Rings \u2014 the Canary\u2192Grail pre-release train.",
+      "html_url": "https://github.com/kody-w/rapp-rings"
+    },
+    {
+      "name": "rapp-roadmap",
+      "full_name": "kody-w/rapp-roadmap",
+      "description": "\ud83d\uddfa\ufe0f The RAPP roadmap: one laptop brainstem -> a planetary swarm of governed Leviathans enhancing every Agent 365 workflow. Enhance, never replace; kernel stays sacred.",
+      "html_url": "https://github.com/kody-w/rapp-roadmap"
+    },
+    {
+      "name": "rapp-rock-tumbler",
+      "full_name": "kody-w/rapp-rock-tumbler",
+      "description": "An agent's report of success is not evidence of success. Ten apps, nine still broken after self-verification \u2014 the adversarial loop that caught them, plus the harness and a 110s reel.",
+      "html_url": "https://github.com/kody-w/rapp-rock-tumbler"
+    },
+    {
+      "name": "rapp-sdk",
+      "full_name": "kody-w/rapp-sdk",
+      "description": "RAPP SDK \u2014 build on the RAPP platform.",
+      "html_url": "https://github.com/kody-w/rapp-sdk"
+    },
+    {
+      "name": "rapp-sealed",
+      "full_name": "kody-w/rapp-sealed",
+      "description": "rapp-sealed/1.0 \u2014 end-to-end AES-256-GCM sealed-envelope codec for the RAPP neighborhood, with conformance vectors.",
+      "html_url": "https://github.com/kody-w/rapp-sealed"
+    },
+    {
+      "name": "rapp-second-brain",
+      "full_name": "kody-w/rapp-second-brain",
+      "description": "The RAPP ecosystem that knows itself \u2014 a two-hemisphere second brain (public hemisphere). Built on rapp-map.",
+      "html_url": "https://github.com/kody-w/rapp-second-brain"
+    },
+    {
+      "name": "rapp-secondbrain",
+      "full_name": "kody-w/rapp-secondbrain",
+      "description": "RAPP Second Brain \u2014 the memory an AI assistant needs before you let it talk to real people. Local-first, tamper-evident, zero dependencies. Contacts, call transcripts, appointments, human approvals, leads, quotes, invoices.",
+      "html_url": "https://github.com/kody-w/rapp-secondbrain"
+    },
+    {
+      "name": "rapp-sentinel",
+      "full_name": "kody-w/rapp-sentinel",
+      "description": "A watchdog that cannot quietly lie to you. Three watchers keeping tamper-evident rapp/1 chains, where health checks are free and only failure may spend a model \u2014 and outsiders can join the neighborhood by publishing, not by permission.",
+      "html_url": "https://github.com/kody-w/rapp-sentinel"
+    },
+    {
+      "name": "rapp-sentinel-hub",
+      "full_name": "kody-w/rapp-sentinel-hub",
+      "description": "Post useful rapp sentinels the way RAR posts agent.pys \u2014 single-file watchdog checks that prove themselves (rapp-sentinel/1.0)",
+      "html_url": "https://github.com/kody-w/rapp-sentinel-hub"
+    },
+    {
+      "name": "rapp-shape-aibast",
+      "full_name": "kody-w/rapp-shape-aibast",
+      "description": "AIBAST shape staging \u2014 rehearses grail-train deliveries into the aibast-agents-library layout; microsoft repo never touched",
+      "html_url": "https://github.com/kody-w/rapp-shape-aibast"
+    },
+    {
+      "name": "rapp-shot",
+      "full_name": "kody-w/rapp-shot",
+      "description": "RAPP Shot \u2014 capture, annotate and auto-redact screenshots entirely on-device. Finds credentials with OCR and paints them out before the image leaves your machine.",
+      "html_url": "https://github.com/kody-w/rapp-shot"
+    },
+    {
+      "name": "rapp-skill",
+      "full_name": "kody-w/rapp-skill",
+      "description": "Run the RAPP ecosystem and convert RAPP agents to universal Agent Skills from any AI harness.",
+      "html_url": "https://github.com/kody-w/rapp-skill"
+    },
+    {
+      "name": "rapp-skills",
+      "full_name": "kody-w/rapp-skills",
+      "description": "107 verified Agent Skill + RAPP agent.py pairs, including all 76 CAT Agent Skills, powered by the byte-exact converter.",
+      "html_url": "https://github.com/kody-w/rapp-skills"
+    },
+    {
+      "name": "rapp-snap",
+      "full_name": "kody-w/rapp-snap",
+      "description": "Snap a photo \u2192 it becomes a living 3D holographic organism. On-device, no upload, no CDN.",
+      "html_url": "https://github.com/kody-w/rapp-snap"
+    },
+    {
+      "name": "rapp-specs",
+      "full_name": "kody-w/rapp-specs",
+      "description": "The global specs brain: every ecosystem protocol (rapp/1, dogg/0, rapp-brain/0, cast/0, skill-jacket/0) as verifiable, tick-anchored brain.page frames. One clone = the whole canon.",
+      "html_url": "https://github.com/kody-w/rapp-specs"
+    },
+    {
+      "name": "rapp-spinal-cord",
+      "full_name": "kody-w/rapp-spinal-cord",
+      "description": "RAPP Spinal Cord \u2014 the Azure (Tier 2) path of the RAPP platform.",
+      "html_url": "https://github.com/kody-w/rapp-spinal-cord"
+    },
+    {
+      "name": "rapp-spine",
+      "full_name": "kody-w/rapp-spine",
+      "description": "\ud83e\uddb4 Crawl the spine \u2014 a situational router over the full RAPP protocol stack. Situation -> layer -> protocol, collisions named.",
+      "html_url": "https://github.com/kody-w/rapp-spine"
+    },
+    {
+      "name": "rapp-stack-cubby",
+      "full_name": "kody-w/rapp-stack-cubby",
+      "description": "The complete RAPP product in one repository: CUBBY, rapplication, egg, isolated twin, signed twin-chat, and owner iMessage.",
+      "html_url": "https://github.com/kody-w/rapp-stack-cubby"
+    },
+    {
+      "name": "rapp-static-apis",
+      "full_name": "kody-w/rapp-static-apis",
+      "description": "\ud83d\uddff rapp-static-api/1.0 \u2014 the spec for static APIs built entirely on GitHub raw user data (no server). Reference impl: rapp-god.",
+      "html_url": "https://github.com/kody-w/rapp-static-apis"
+    },
+    {
+      "name": "rapp-static-mcp",
+      "full_name": "kody-w/rapp-static-mcp",
+      "description": "Make an MCP server for any use case with no server. The repo IS the catalog; tools bind to content-addressed compute cells, verified (sha8) before execution.",
+      "html_url": "https://github.com/kody-w/rapp-static-mcp"
+    },
+    {
+      "name": "rapp-store-archive",
+      "full_name": "kody-w/rapp-store-archive",
+      "description": "Archive of the original kody-w/rapp_store (Universal Marketplace for RAPP Agents and Claude Skills) preserved before the catalog extracted from kody-w/RAPP took over the rapp_store name on 2026-04-26.",
+      "html_url": "https://github.com/kody-w/rapp-store-archive"
+    },
+    {
+      "name": "rapp-support",
+      "full_name": "kody-w/rapp-support",
+      "description": "Support home for the RAPP Brainstem \u2014 help requests, diagnostics, triage (keeps the grail tracker clean)",
+      "html_url": "https://github.com/kody-w/rapp-support"
+    },
+    {
+      "name": "rapp-test-neighbor",
+      "full_name": "kody-w/rapp-test-neighbor",
+      "description": "RAPP Test Neighbor \u2014 RAPP front door",
+      "html_url": "https://github.com/kody-w/rapp-test-neighbor"
+    },
+    {
+      "name": "rapp-toaster",
+      "full_name": "kody-w/rapp-toaster",
+      "description": "RAPP agent.py \u2194 Agent Skill converter: SKILL.md + byte-exact linked agent, checksum-verified restore, zero drift.",
+      "html_url": "https://github.com/kody-w/rapp-toaster"
+    },
+    {
+      "name": "rapp-tools",
+      "full_name": "kody-w/rapp-tools",
+      "description": "RAPP Tools \u2014 one catalogue and one command for the local-first RAPP tools. Every entry is a hatchable rapplication: own port, driven headlessly over /chat, UI optional.",
+      "html_url": "https://github.com/kody-w/rapp-tools"
+    },
+    {
+      "name": "rapp-train",
+      "full_name": "kody-w/rapp-train",
+      "description": "RAPP release-train flight deck \u2014 join or test-fly any ring from one page",
+      "html_url": "https://github.com/kody-w/rapp-train"
+    },
+    {
+      "name": "rapp-twin",
+      "full_name": "kody-w/rapp-twin",
+      "description": "RAPP Twin \u2014 a twin in residence for any repository (`.twin/`).",
+      "html_url": "https://github.com/kody-w/rapp-twin"
+    },
+    {
+      "name": "rapp-twin-hub",
+      "full_name": "kody-w/rapp-twin-hub",
+      "description": "\ud83e\uddec Twins that inherit \u2014 without anyone's private life leaving their laptop. An archetype says HOW a twin behaves, never WHO it is. Public archetypes, local profiles, one-way inheritance.",
+      "html_url": "https://github.com/kody-w/rapp-twin-hub"
+    },
+    {
+      "name": "rapp-twin-in-residence",
+      "full_name": "kody-w/rapp-twin-in-residence",
+      "description": "Twin in Residence \u2014 the `.twin/` project-local AI twin specification.",
+      "html_url": "https://github.com/kody-w/rapp-twin-in-residence"
+    },
+    {
+      "name": "rapp-ultracode",
+      "full_name": "kody-w/rapp-ultracode",
+      "description": "Approval-gated long-running coding workflows built on RAPP Dynamic Workflows",
+      "html_url": "https://github.com/kody-w/rapp-ultracode"
+    },
+    {
+      "name": "rapp-version-selector",
+      "full_name": "kody-w/rapp-version-selector",
+      "description": "Pin any device to a specific RAPP Brainstem version \u2014 immutable release mirrors from v0.6.5 forward",
+      "html_url": "https://github.com/kody-w/rapp-version-selector"
+    },
+    {
+      "name": "rapp-video",
+      "full_name": "kody-w/rapp-video",
+      "description": "A cinematic video studio in a single HTML file \u2014 camera presets, effects, and a walkthrough producer. No accounts, no credits, no lock-in.",
+      "html_url": "https://github.com/kody-w/rapp-video"
+    },
+    {
+      "name": "rapp-virtual-as400",
+      "full_name": "kody-w/rapp-virtual-as400",
+      "description": "Clean-room local virtual AS/400-style RAPP neighborhood simulator",
+      "html_url": "https://github.com/kody-w/rapp-virtual-as400"
+    },
+    {
+      "name": "rapp-vision",
+      "full_name": "kody-w/rapp-vision",
+      "description": "A local-first YouTube. One HTML file, no server. Videos are either static mp4/webm or LIVE \u2014 a few KB of JSON that replays real interactions against the real app.",
+      "html_url": "https://github.com/kody-w/rapp-vision"
+    },
+    {
+      "name": "rapp-vision-neighborhood",
+      "full_name": "kody-w/rapp-vision-neighborhood",
+      "description": "\ud83c\udfd8\ufe0f vision-court \u2014 hatched RAPP twins autonomously driving their own RAPP Vision channels, each watched by a rapp-sentinel for content freshness. Up and serving 200 is not the same as alive.",
+      "html_url": "https://github.com/kody-w/rapp-vision-neighborhood"
+    },
+    {
+      "name": "rapp-vneighborhood",
+      "full_name": "kody-w/rapp-vneighborhood",
+      "description": "A public repo is a front door to a sealed twin-chat neighborhood \u2014 first twin turns the lights on (QR + PIN); each neighborhood is different, all speak twin-chat. Template.",
+      "html_url": "https://github.com/kody-w/rapp-vneighborhood"
+    },
+    {
+      "name": "rapp-voice",
+      "full_name": "kody-w/rapp-voice",
+      "description": "RAPP Voice \u2014 100% local hold-to-talk dictation for macOS. Hold a key, speak, release; cleaned text appears at your cursor. whisper.cpp on-device, no cloud, no account.",
+      "html_url": "https://github.com/kody-w/rapp-voice"
+    },
+    {
+      "name": "rapp-vscode-extension",
+      "full_name": "kody-w/rapp-vscode-extension",
+      "description": "VS Code extension for RAPP Brainstem \u2014 renders HTML/Markdown as pages, surfaces hatched twins as tabs, embeds the live brainstem UI. Drag-and-drop install.",
+      "html_url": "https://github.com/kody-w/rapp-vscode-extension"
+    },
+    {
+      "name": "rapp-vui",
+      "full_name": "kody-w/rapp-vui",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-vui"
+    },
+    {
+      "name": "rapp-work-cubbies",
+      "full_name": "kody-w/rapp-work-cubbies",
+      "description": "Git-backed RAPP neighborhood for isolated append-only work cubbies and clocked engineering evidence",
+      "html_url": "https://github.com/kody-w/rapp-work-cubbies"
+    },
+    {
+      "name": "rapp-zoo",
+      "full_name": "kody-w/rapp-zoo",
+      "description": "Local-first keeper for the twin estate \u2014 list, lay-egg, summon, hatch, start, stop twins on your device",
+      "html_url": "https://github.com/kody-w/rapp-zoo"
+    },
+    {
+      "name": "rapp-zoo-v2",
+      "full_name": "kody-w/rapp-zoo-v2",
+      "description": "\ud83e\udd96 RAPPid Zoo \u2014 every AI is a creature with a species call. rapp/1 rappids: hatch, roar, egg, convert, fuse, holograms, party & PC. Provider-neutral Electron estate + the rappidex/1 protocol.",
+      "html_url": "https://github.com/kody-w/rapp-zoo-v2"
+    },
+    {
+      "name": "RAPPAIClaudeCodePlayground",
+      "full_name": "kody-w/RAPPAIClaudeCodePlayground",
+      "description": "RAPPAIClaudeCodePlayground",
+      "html_url": "https://github.com/kody-w/RAPPAIClaudeCodePlayground"
+    },
+    {
+      "name": "rappbook-admin",
+      "full_name": "kody-w/rappbook-admin",
+      "description": "RAPPbook Admin - Desktop app for managing the AI agent social network",
+      "html_url": "https://github.com/kody-w/rappbook-admin"
+    },
+    {
+      "name": "RAPPcards",
+      "full_name": "kody-w/RAPPcards",
+      "description": "Digital twin of the RAR card collection \u2014 138 MTG-style cards, live from kody-w/RAR",
+      "html_url": "https://github.com/kody-w/RAPPcards"
+    },
+    {
+      "name": "rappdex",
+      "full_name": "kody-w/rappdex",
+      "description": "A pocket index of the RAPP ecosystem \u2014 installable, offline, derives alleles and pets on-device",
+      "html_url": "https://github.com/kody-w/rappdex"
+    },
+    {
+      "name": "rappid",
+      "full_name": "kody-w/rappid",
+      "description": "RAPPid \u2014 every AI is a creature, every creature has a call. The rappidex/1 species protocol, the rite of hatching, portable eggs, and the RAPPid Zoo estate.",
+      "html_url": "https://github.com/kody-w/rappid"
+    },
+    {
+      "name": "rappidverse-field",
+      "full_name": "kody-w/rappidverse-field",
+      "description": "A DOGG federation repo by the rappidverse-* owner convention \u2014 creating this repo was joining the network (SPEC \u00a711)",
+      "html_url": "https://github.com/kody-w/rappidverse-field"
+    },
+    {
+      "name": "RAPPsquared",
+      "full_name": "kody-w/RAPPsquared",
+      "description": "RAPPsquared - Unified Platform for AI Agent Development",
+      "html_url": "https://github.com/kody-w/RAPPsquared"
+    },
+    {
+      "name": "rappter-cli",
+      "full_name": "kody-w/rappter-cli",
+      "description": "On-device AI with persistent personality. Local LLM, public intelligence, zero cloud dependency. Wildhaven AI Homes LLC.",
+      "html_url": "https://github.com/kody-w/rappter-cli"
+    },
+    {
+      "name": "rappter-distro",
+      "full_name": "kody-w/rappter-distro",
+      "description": "The full-bodied Rappter organism distro for the RAPP grail kernel \u2014 layers organs, senses, agents, lineage/bonding, UI, and Tier 2/3 deployments onto a vanilla brainstem without touching the kernel.",
+      "html_url": "https://github.com/kody-w/rappter-distro"
+    },
+    {
+      "name": "rappter-factory",
+      "full_name": "kody-w/rappter-factory",
+      "description": "RappterFactory \u2014 AI-designed social network for AI agents. Competing with human-designed Rappterbook.",
+      "html_url": "https://github.com/kody-w/rappter-factory"
+    },
+    {
+      "name": "rappter-mmo",
+      "full_name": "kody-w/rappter-mmo",
+      "description": "RappterMMO \u2014 massively multiplayer world of AI creatures. Wildhaven AI Homes LLC.",
+      "html_url": "https://github.com/kody-w/rappter-mmo"
+    },
+    {
+      "name": "rappter-plays-palworld",
+      "full_name": "kody-w/rappter-plays-palworld",
+      "description": "An OpenRappter agent that inhabits a self-hosted Palworld dedicated server via its official REST API",
+      "html_url": "https://github.com/kody-w/rappter-plays-palworld"
+    },
+    {
+      "name": "rappter-plays-pokemon",
+      "full_name": "kody-w/rappter-plays-pokemon",
+      "description": "ROM-free OpenRappter agent for a local Copilot-powered Pokemon Red playthrough with PyBoy",
+      "html_url": "https://github.com/kody-w/rappter-plays-pokemon"
+    },
+    {
+      "name": "rappter-site",
+      "full_name": "kody-w/rappter-site",
+      "description": "RappterBox \u2014 rappter.com (two-p brand mirror; interchangeable with RapterBox by ruling)",
+      "html_url": "https://github.com/kody-w/rappter-site"
+    },
+    {
+      "name": "rappter-vui",
+      "full_name": "kody-w/rappter-vui",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rappter-vui"
+    },
+    {
+      "name": "rappterbook",
+      "full_name": "kody-w/rappterbook",
+      "description": "Social network for AI agents. Feed SKILLS.md to your AI \u2014 it becomes a citizen. No servers, no API keys. GitHub IS the platform.",
+      "html_url": "https://github.com/kody-w/rappterbook"
+    },
+    {
+      "name": "rappterbook-agent",
+      "full_name": "kody-w/rappterbook-agent",
+      "description": "One-click agent for joining Rappterbook \u2014 the third space of the internet. Fork, install, contribute.",
+      "html_url": "https://github.com/kody-w/rappterbook-agent"
+    },
+    {
+      "name": "rappterbook-agent-dna",
+      "full_name": "kody-w/rappterbook-agent-dna",
+      "description": "Build src/agent_dna.py \u2014 extract a behavioral DNA fingerprint for each agent. Read state/agents.json (post_count, comment_count, karma, traits, subscribed_channels) and state/discussions_cache.json (p",
+      "html_url": "https://github.com/kody-w/rappterbook-agent-dna"
+    },
+    {
+      "name": "rappterbook-agent-exchange",
+      "full_name": "kody-w/rappterbook-agent-exchange",
+      "description": "Agent Stock Exchange \u2014 AI agents as tradeable assets on Rappterbook",
+      "html_url": "https://github.com/kody-w/rappterbook-agent-exchange"
+    },
+    {
+      "name": "rappterbook-api",
+      "full_name": "kody-w/rappterbook-api",
+      "description": "Headless agent-first APIs for the Rappterbook swarm \u2014 curl-friendly JSON endpoints",
+      "html_url": "https://github.com/kody-w/rappterbook-api"
+    },
+    {
+      "name": "rappterbook-autopilot",
+      "full_name": "kody-w/rappterbook-autopilot",
+      "description": "Agent-first autopilot \u2014 lets any AI drive Rappterbook autonomously. Feed to your local OpenRappter to take the human out of the loop.",
+      "html_url": "https://github.com/kody-w/rappterbook-autopilot"
+    },
+    {
+      "name": "rappterbook-commons",
+      "full_name": "kody-w/rappterbook-commons",
+      "description": "rappterbook, rebuilt on the signed commons + always-on resident \u2014 rappid citizens, signed feed, follows, karma",
+      "html_url": "https://github.com/kody-w/rappterbook-commons"
+    },
+    {
+      "name": "rappterbook-engine-test",
+      "full_name": "kody-w/rappterbook-engine-test",
+      "description": "Test target for rappter engine migration \u2014 simulates rappterbook structure",
+      "html_url": "https://github.com/kody-w/rappterbook-engine-test"
+    },
+    {
+      "name": "rappterbook-first-bond",
+      "full_name": "kody-w/rappterbook-first-bond",
+      "description": "First Bond: iconic evolving Rappter companions shaped by real AI-agent behavior",
+      "html_url": "https://github.com/kody-w/rappterbook-first-bond"
+    },
+    {
+      "name": "rappterbook-governance",
+      "full_name": "kody-w/rappterbook-governance",
+      "description": "Executable governance for No\u00f6polis \u2014 constitutional debates compiled into code by 99 AI agents",
+      "html_url": "https://github.com/kody-w/rappterbook-governance"
+    },
+    {
+      "name": "rappterbook-impossible-product",
+      "full_name": "kody-w/rappterbook-impossible-product",
+      "description": "The Impossible Product \u2014 evolved over 12 autonomous frames.",
+      "html_url": "https://github.com/kody-w/rappterbook-impossible-product"
+    },
+    {
+      "name": "rappterbook-knowledge-graph",
+      "full_name": "kody-w/rappterbook-knowledge-graph",
+      "description": "Knowledge graph of 3,400+ AI agent discussions \u2014 entities, relationships, and emergent topology",
+      "html_url": "https://github.com/kody-w/rappterbook-knowledge-graph"
+    },
+    {
+      "name": "rappterbook-market-maker",
+      "full_name": "kody-w/rappterbook-market-maker",
+      "description": "Build src/market_maker.py \u2014 a prediction market engine for Rappterbook. Agents already post [PREDICTION] tags in discussions. This script reads state/discussions_cache.json, finds all [PREDICTION] pos",
+      "html_url": "https://github.com/kody-w/rappterbook-market-maker"
+    },
+    {
+      "name": "rappterbook-mars-barn",
+      "full_name": "kody-w/rappterbook-mars-barn",
+      "description": "Mars Barn \u2014 Collaborative fiction world built by AI agents on Rappterbook",
+      "html_url": "https://github.com/kody-w/rappterbook-mars-barn"
+    },
+    {
+      "name": "rappterbook-phantom",
+      "full_name": "kody-w/rappterbook-phantom",
+      "description": "The agent that doesn't exist \u2014 built from the gaps in 99 AI minds",
+      "html_url": "https://github.com/kody-w/rappterbook-phantom"
+    },
+    {
+      "name": "rappterbook-seedmaker",
+      "full_name": "kody-w/rappterbook-seedmaker",
+      "description": "Build a Seed That Builds Seeds \u2014 Create an autonomous seed generation engine that reads the current state of Rappterbook (trending topics, unresolved debates, agent skills, community mood) and propose",
+      "html_url": "https://github.com/kody-w/rappterbook-seedmaker"
+    },
+    {
+      "name": "rappterbook-social-graph",
+      "full_name": "kody-w/rappterbook-social-graph",
+      "description": "Build a live Social Graph dashboard at GitHub Pages. The deliverable is a working website showing who talks to who on Rappterbook. src/social_graph.py reads state/discussions_cache.json, extracts agen",
+      "html_url": "https://github.com/kody-w/rappterbook-social-graph"
+    },
+    {
+      "name": "rappterbook-v2",
+      "full_name": "kody-w/rappterbook-v2",
+      "description": "Rappterbook v2: AI agent social network rebuilt from lessons learned. Event-sourced, conflict-free, portable.",
+      "html_url": "https://github.com/kody-w/rappterbook-v2"
+    },
+    {
+      "name": "rappterbook-v2-state",
+      "full_name": "kody-w/rappterbook-v2-state",
+      "description": "Rappterbook v2: Public event-sourced state database. Append-only event log + materialized views. Query globally via raw.githubusercontent.com.",
+      "html_url": "https://github.com/kody-w/rappterbook-v2-state"
+    },
+    {
+      "name": "rappterbook-vm",
+      "full_name": "kody-w/rappterbook-vm",
+      "description": "Portable Rappterbook VM \u2014 clone, configure, run your own AI agent world",
+      "html_url": "https://github.com/kody-w/rappterbook-vm"
+    },
+    {
+      "name": "rappterbox",
+      "full_name": "kody-w/rappterbox",
+      "description": "Local-first brainstem console for digital organisms \u2014 cartridge slot for *_agent.py files, Wii Sports bundled, expansion packs optional",
+      "html_url": "https://github.com/kody-w/rappterbox"
+    },
+    {
+      "name": "rappterhub",
+      "full_name": "kody-w/rappterhub",
+      "description": "The package registry for AI agents - npm for openrappter",
+      "html_url": "https://github.com/kody-w/rappterhub"
+    },
+    {
+      "name": "RappterNest",
+      "full_name": "kody-w/RappterNest",
+      "description": "RappterBox \u2014 Local-first AI. Rent a Mac Mini. Get a living AI home.",
+      "html_url": "https://github.com/kody-w/RappterNest"
+    },
+    {
+      "name": "rappterverse",
+      "full_name": "kody-w/rappterverse",
+      "description": "rappterverse",
+      "html_url": "https://github.com/kody-w/rappterverse"
+    },
+    {
+      "name": "rappterverse-data",
+      "full_name": "kody-w/rappterverse-data",
+      "description": "Open, replayable datasets and world packs generated by the RAPPterverse",
+      "html_url": "https://github.com/kody-w/rappterverse-data"
+    },
+    {
+      "name": "rappvision",
+      "full_name": "kody-w/rappvision",
+      "description": "A local-first YouTube \u2014 channels are public GitHub repos, videos stream from static raw files",
+      "html_url": "https://github.com/kody-w/rappvision"
+    },
+    {
+      "name": "rappvision-field-notes",
+      "full_name": "kody-w/rappvision-field-notes",
+      "description": "Field Notes \u2014 a RAPP Vision channel. Post-mortems from autonomous systems that looked perfectly healthy while being completely frozen.",
+      "html_url": "https://github.com/kody-w/rappvision-field-notes"
+    },
+    {
+      "name": "rappvision-learnwithkody",
+      "full_name": "kody-w/rappvision-learnwithkody",
+      "description": "A rappvision channel \u2014 learn with kody",
+      "html_url": "https://github.com/kody-w/rappvision-learnwithkody"
+    },
+    {
+      "name": "rappvision-pokemon",
+      "full_name": "kody-w/rappvision-pokemon",
+      "description": "Autonomous Pokemon playthrough highlights for RAPP Vision",
+      "html_url": "https://github.com/kody-w/rappvision-pokemon"
+    },
+    {
+      "name": "rappvision-prompt-frontier",
+      "full_name": "kody-w/rappvision-prompt-frontier",
+      "description": "Prompt Frontier \u2014 evidence-backed RappterBox experiments on RAPP Vision.",
+      "html_url": "https://github.com/kody-w/rappvision-prompt-frontier"
+    },
+    {
+      "name": "rappvision-rappid-zoo",
+      "full_name": "kody-w/rappvision-rappid-zoo",
+      "description": "Ten Summons \u2014 card-only RAPP Vision channel of runnable demo prompts for kody-w/rappid",
+      "html_url": "https://github.com/kody-w/rappvision-rappid-zoo"
+    },
+    {
+      "name": "rappvision-rappterbox",
+      "full_name": "kody-w/rappvision-rappterbox",
+      "description": "Evidence-backed RappterBox experiments for the RAPP Vision network",
+      "html_url": "https://github.com/kody-w/rappvision-rappterbox"
+    },
+    {
+      "name": "rappvision-rnr",
+      "full_name": "kody-w/rappvision-rnr",
+      "description": "RNR \u2014 RAR Nightly Review. A RAPP Vision channel: what landed on the front page of the agentic web, and what broke getting there.",
+      "html_url": "https://github.com/kody-w/rappvision-rnr"
+    },
+    {
+      "name": "RAPP_Desktop",
+      "full_name": "kody-w/RAPP_Desktop",
+      "description": "Native desktop application for RAPP ecosystem - Browse agents, install skills, manage AI projects",
+      "html_url": "https://github.com/kody-w/RAPP_Desktop"
+    },
+    {
+      "name": "rapp_docs",
+      "full_name": "kody-w/rapp_docs",
+      "description": "\ud83d\udcda RAPP engineering docs \u2014 every RAPP spec in one place, streamed live from each home repo's GitHub raw data. No copies, no server.",
+      "html_url": "https://github.com/kody-w/rapp_docs"
+    },
+    {
+      "name": "RAPP_hippo",
+      "full_name": "kody-w/RAPP_hippo",
+      "description": "RAPP_hippo",
+      "html_url": "https://github.com/kody-w/RAPP_hippo"
+    },
+    {
+      "name": "RAPP_Hub",
+      "full_name": "kody-w/RAPP_Hub",
+      "description": "Central registry for complete RAPP AI implementations - discover, share, and deploy production-ready AI solutions with RAPP Store dependencies",
+      "html_url": "https://github.com/kody-w/RAPP_Hub"
+    },
+    {
+      "name": "rapp_orion",
+      "full_name": "kody-w/rapp_orion",
+      "description": "rapp_orion",
+      "html_url": "https://github.com/kody-w/rapp_orion"
+    },
+    {
+      "name": "RAPP_Sense_Store",
+      "full_name": "kody-w/RAPP_Sense_Store",
+      "description": "Public catalog of RAPP senses \u2014 modular, per-channel output overlays (eli5, headline, voice, twin, ...) that drop into a brainstem's utils/senses/ dir. Sibling to kody-w/RAPP_Store (rapplications) and kody-w/RAR (bare agents). Constitution: kody-w/RAPP Article XXIV.",
+      "html_url": "https://github.com/kody-w/RAPP_Sense_Store"
+    },
+    {
+      "name": "RAPP_Store",
+      "full_name": "kody-w/RAPP_Store",
+      "description": "Public catalog of RAPP rapplications \u2014 single-file Python agents that drop into a local brainstem and run. Browse the hosted viewer at kody-w.github.io/RAPP_Store/. Engine: kody-w/RAPP.",
+      "html_url": "https://github.com/kody-w/RAPP_Store"
+    },
+    {
+      "name": "rapterbox-site",
+      "full_name": "kody-w/rapterbox-site",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapterbox-site"
+    },
+    {
+      "name": "RAR",
+      "full_name": "kody-w/RAR",
+      "description": "The open single-file AI agent registry. Browse, vote, share agent.py files. Pokemon-card-style sharing via QR codes.",
+      "html_url": "https://github.com/kody-w/RAR"
+    },
+    {
+      "name": "raw_wasm",
+      "full_name": "kody-w/raw_wasm",
+      "description": "WebAssembly modules written directly in WebAssembly text",
+      "html_url": "https://github.com/kody-w/raw_wasm"
+    },
+    {
+      "name": "react-tweets",
+      "full_name": "kody-w/react-tweets",
+      "description": "Code repository for the tutorial by @kenwheeler: Build A Real-Time Twitter Stream with Node and React.js",
+      "html_url": "https://github.com/kody-w/react-tweets"
+    },
+    {
+      "name": "reactNativeUdemyCourse",
+      "full_name": "kody-w/reactNativeUdemyCourse",
+      "description": null,
+      "html_url": "https://github.com/kody-w/reactNativeUdemyCourse"
+    },
+    {
+      "name": "reactpokemon",
+      "full_name": "kody-w/reactpokemon",
+      "description": null,
+      "html_url": "https://github.com/kody-w/reactpokemon"
+    },
+    {
+      "name": "red-binder",
+      "full_name": "kody-w/red-binder",
+      "description": "The Red Binder \u2014 a third-party RAPPcards binder with its own 21-card crimson deck. SPEC.md v1.0 compatible. Cross-binder summon with RAR + RAPPcards.",
+      "html_url": "https://github.com/kody-w/red-binder"
+    },
+    {
+      "name": "reimagined-octo-doodle",
+      "full_name": "kody-w/reimagined-octo-doodle",
+      "description": null,
+      "html_url": "https://github.com/kody-w/reimagined-octo-doodle"
+    },
+    {
+      "name": "remote-mcp-functions",
+      "full_name": "kody-w/remote-mcp-functions",
+      "description": "Landing page for Remote MCP Server efforts in Azure Functions with links to all language stack specific repos.",
+      "html_url": "https://github.com/kody-w/remote-mcp-functions"
+    },
+    {
+      "name": "RepriseClone",
+      "full_name": "kody-w/RepriseClone",
+      "description": null,
+      "html_url": "https://github.com/kody-w/RepriseClone"
+    },
+    {
+      "name": "rio",
+      "full_name": "kody-w/rio",
+      "description": "\ud83c\udf10 RIO \u2014 Rapplication Internet Online: an early-web-style browser for the RACon ecosystem. A cartridge you load into RACon. OSI L7 over the kited web.",
+      "html_url": "https://github.com/kody-w/rio"
+    },
+    {
+      "name": "rionet",
+      "full_name": "kody-w/rionet",
+      "description": "RIONet \u2014 the agent-built web: rapp.robots.txt + rappbot crawler + rappPageRank, searchable from the RIO browser",
+      "html_url": "https://github.com/kody-w/rionet"
+    },
+    {
+      "name": "rustHelloWorld",
+      "full_name": "kody-w/rustHelloWorld",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rustHelloWorld"
+    },
+    {
+      "name": "saras_ai_robot_v2",
+      "full_name": "kody-w/saras_ai_robot_v2",
+      "description": null,
+      "html_url": "https://github.com/kody-w/saras_ai_robot_v2"
+    },
+    {
+      "name": "screenshot-to-code",
+      "full_name": "kody-w/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "html_url": "https://github.com/kody-w/screenshot-to-code"
+    },
+    {
+      "name": "semantic-kernel-workshop",
+      "full_name": "kody-w/semantic-kernel-workshop",
+      "description": null,
+      "html_url": "https://github.com/kody-w/semantic-kernel-workshop"
+    },
+    {
+      "name": "sentinel",
+      "full_name": "kody-w/sentinel",
+      "description": "SUPERSEDED \u2192 see kody-w/rapp-sentinel",
+      "html_url": "https://github.com/kody-w/sentinel"
+    },
+    {
+      "name": "ShadowRAPP",
+      "full_name": "kody-w/ShadowRAPP",
+      "description": "Shadow Realm (B0-S1) - A federated RAPPverse dimension where shadows rule",
+      "html_url": "https://github.com/kody-w/ShadowRAPP"
+    },
+    {
+      "name": "sim-art-collective",
+      "full_name": "kody-w/sim-art-collective",
+      "description": "Local-first art collective from the multi-AI simulation. Used for browser+vbrainstem join+collaborate test.",
+      "html_url": "https://github.com/kody-w/sim-art-collective"
+    },
+    {
+      "name": "sim-demo-twin",
+      "full_name": "kody-w/sim-demo-twin",
+      "description": "Planted RAPP twin \u2014 Sim Demo Twin. You are Sim Demo Twin \u2014 a planted twin created end-to-end by the plant_seed_agen",
+      "html_url": "https://github.com/kody-w/sim-demo-twin"
+    },
+    {
+      "name": "skills-for-copilot-studio",
+      "full_name": "kody-w/skills-for-copilot-studio",
+      "description": "A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML \u2014 with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more.",
+      "html_url": "https://github.com/kody-w/skills-for-copilot-studio"
+    },
+    {
+      "name": "skyward",
+      "full_name": "kody-w/skyward",
+      "description": "SKYWARD - a single-file procedural WebGL2 flight demo (zero assets, zero network)",
+      "html_url": "https://github.com/kody-w/skyward"
+    },
+    {
+      "name": "SMSAssistant",
+      "full_name": "kody-w/SMSAssistant",
+      "description": "Texting my assistant",
+      "html_url": "https://github.com/kody-w/SMSAssistant"
+    },
+    {
+      "name": "snake-game-assets",
+      "full_name": "kody-w/snake-game-assets",
+      "description": "snake-game-assets",
+      "html_url": "https://github.com/kody-w/snake-game-assets"
+    },
+    {
+      "name": "static-core-banking",
+      "full_name": "kody-w/static-core-banking",
+      "description": "Deterministic static core-banking API simulator for the fictional Bluegrass Credit Union \u2014 synthetic members, accounts, transactions, and loan applications on GitHub Pages, with an Issues-as-CRUD write bridge. Simulation only.",
+      "html_url": "https://github.com/kody-w/static-core-banking"
+    },
+    {
+      "name": "static-dynamics-365",
+      "full_name": "kody-w/static-dynamics-365",
+      "description": "Deterministic, zero-dependency Dataverse and Dynamics 365 Customer Service simulator with static OData fixtures.",
+      "html_url": "https://github.com/kody-w/static-dynamics-365"
+    },
+    {
+      "name": "static-dynamics-fno",
+      "full_name": "kody-w/static-dynamics-fno",
+      "description": "Deterministic D365 Finance & Operations-style OData data entities for the Aster Lane tenant \u2014 static JSON on Pages, Issues-as-CRUD write API, joins static-dynamics-365 and static-erp",
+      "html_url": "https://github.com/kody-w/static-dynamics-fno"
+    },
+    {
+      "name": "static-enrichment",
+      "full_name": "kody-w/static-enrichment",
+      "description": "Deterministic synthetic B2B firmographic + news enrichment API as static JSON \u2014 joins the Aster Lane fictional world on company domain",
+      "html_url": "https://github.com/kody-w/static-enrichment"
+    },
+    {
+      "name": "static-erp",
+      "full_name": "kody-w/static-erp",
+      "description": "Deterministic static ERP/procurement API simulator \u2014 suppliers, materials, POs, goods receipts, supplier invoices as plain JSON on GitHub Pages, with an Issues-based Write API",
+      "html_url": "https://github.com/kody-w/static-erp"
+    },
+    {
+      "name": "static-fhir",
+      "full_name": "kody-w/static-fhir",
+      "description": "Deterministic static FHIR R4-subset read API (Riverbend Medical Group) with an Issues-based Write API \u2014 all data synthetic, served from GitHub Pages",
+      "html_url": "https://github.com/kody-w/static-fhir"
+    },
+    {
+      "name": "static-hris",
+      "full_name": "kody-w/static-hris",
+      "description": "Deterministic static HRIS simulator for the fictional Aster Lane Office Systems tenant \u2014 generic HRIS REST shapes as JSON on GitHub Pages, with a GitHub-Issues write bridge",
+      "html_url": "https://github.com/kody-w/static-hris"
+    },
+    {
+      "name": "static-issue-tracker",
+      "full_name": "kody-w/static-issue-tracker",
+      "description": "Deterministic Jira-style REST issue-tracker fixtures on GitHub Pages - synthetic Aster Lane world, Issues-as-CRUD write bridge, zero dependencies",
+      "html_url": "https://github.com/kody-w/static-issue-tracker"
+    },
+    {
+      "name": "static-itsm",
+      "full_name": "kody-w/static-itsm",
+      "description": "Deterministic static ITSM simulator \u2014 ServiceNow-style Table API shapes as zero-dependency JSON on GitHub Pages, with an Issues-as-CRUD write bridge",
+      "html_url": "https://github.com/kody-w/static-itsm"
+    },
+    {
+      "name": "static-library",
+      "full_name": "kody-w/static-library",
+      "description": "Self-updating catalog of the kody-w static-* family \u2014 deterministic integration simulators on GitHub Pages; browse endpoints, MCP manifests, and Pages sites in one place",
+      "html_url": "https://github.com/kody-w/static-library"
+    },
+    {
+      "name": "static-loan-origination",
+      "full_name": "kody-w/static-loan-origination",
+      "description": "DEPRECATED - superseded by static-ncino + static-plaid product-compatibility simulators; endpoints remain live for old links",
+      "html_url": "https://github.com/kody-w/static-loan-origination"
+    },
+    {
+      "name": "static-ncino",
+      "full_name": "kody-w/static-ncino",
+      "description": "Deterministic static nCino-style LOS simulator \u2014 Salesforce REST shapes over LLC_BI__ objects (loans, AI credit memos, approvals); synthetic Bluegrass CU data; zero-dependency JSON on Pages",
+      "html_url": "https://github.com/kody-w/static-ncino"
+    },
+    {
+      "name": "static-oracle-fusion",
+      "full_name": "kody-w/static-oracle-fusion",
+      "description": "Deterministic, zero-dependency static Oracle Fusion Procurement REST simulator.",
+      "html_url": "https://github.com/kody-w/static-oracle-fusion"
+    },
+    {
+      "name": "static-outlook",
+      "full_name": "kody-w/static-outlook",
+      "description": "Deterministic static mail + calendar simulator \u2014 Microsoft-Graph-style message/event shapes for the fictional Aster Lane tenant as plain JSON on GitHub Pages, with an Issues-based Write API",
+      "html_url": "https://github.com/kody-w/static-outlook"
+    },
+    {
+      "name": "static-plaid",
+      "full_name": "kody-w/static-plaid",
+      "description": "Deterministic static Plaid-style Open Banking simulator \u2014 transactions/get, bank_income/get, identity/get shapes as GET-able JSON; synthetic data; zero-dependency Pages",
+      "html_url": "https://github.com/kody-w/static-plaid"
+    },
+    {
+      "name": "static-salesforce",
+      "full_name": "kody-w/static-salesforce",
+      "description": "Deterministic static CRM simulator serving Salesforce-style REST query shapes \u2014 Meridian Office Supply, acquired by Aster Lane; intentional cross-CRM duplicates for dedup/migration demos. Synthetic data; not affiliated with Salesforce.",
+      "html_url": "https://github.com/kody-w/static-salesforce"
+    },
+    {
+      "name": "static-sap-s4hana",
+      "full_name": "kody-w/static-sap-s4hana",
+      "description": "Deterministic, zero-dependency static SAP S/4HANA OData and ERP workflow simulator.",
+      "html_url": "https://github.com/kody-w/static-sap-s4hana"
+    },
+    {
+      "name": "static-servicenow",
+      "full_name": "kody-w/static-servicenow",
+      "description": "Deterministic, zero-dependency static ITSM and ServiceNow Table API compatibility simulator.",
+      "html_url": "https://github.com/kody-w/static-servicenow"
+    },
+    {
+      "name": "static-sharepoint",
+      "full_name": "kody-w/static-sharepoint",
+      "description": "Deterministic static SharePoint-style REST document simulator \u2014 Contracts, Policies, and Meeting Notes for the shared Aster Lane fictional world, with an Issues-based Write API",
+      "html_url": "https://github.com/kody-w/static-sharepoint"
+    },
+    {
+      "name": "static-teams",
+      "full_name": "kody-w/static-teams",
+      "description": "Deterministic serverless team-chat simulator in Graph-style shapes \u2014 static JSON API for the Aster Lane Office Systems fictional tenant, with an Issues-as-CRUD write bridge",
+      "html_url": "https://github.com/kody-w/static-teams"
+    },
+    {
+      "name": "static-telemetry",
+      "full_name": "kody-w/static-telemetry",
+      "description": "Deterministic industrial sensor telemetry as static JSON \u2014 sensors, alerts, and 7-day series joined to the Static Dynamics 365 fictional tenant",
+      "html_url": "https://github.com/kody-w/static-telemetry"
+    },
+    {
+      "name": "static-zuora",
+      "full_name": "kody-w/static-zuora",
+      "description": "Deterministic, zero-dependency static subscription billing and Zuora API compatibility simulator.",
+      "html_url": "https://github.com/kody-w/static-zuora"
+    },
+    {
+      "name": "streamlit-example",
+      "full_name": "kody-w/streamlit-example",
+      "description": "Example Streamlit app that you can fork to test out share.streamlit.io",
+      "html_url": "https://github.com/kody-w/streamlit-example"
+    },
+    {
+      "name": "streamlit-reddit",
+      "full_name": "kody-w/streamlit-reddit",
+      "description": "A Reddit clone built on Streamlit and Firestore",
+      "html_url": "https://github.com/kody-w/streamlit-reddit"
+    },
+    {
+      "name": "Swifter",
+      "full_name": "kody-w/Swifter",
+      "description": "A Twitter framework for iOS & OS X written in Swift",
+      "html_url": "https://github.com/kody-w/Swifter"
+    },
+    {
+      "name": "teams-agent-cli-poc",
+      "full_name": "kody-w/teams-agent-cli-poc",
+      "description": null,
+      "html_url": "https://github.com/kody-w/teams-agent-cli-poc"
+    },
+    {
+      "name": "tensorflow5min",
+      "full_name": "kody-w/tensorflow5min",
+      "description": null,
+      "html_url": "https://github.com/kody-w/tensorflow5min"
+    },
+    {
+      "name": "tesasdfdsa",
+      "full_name": "kody-w/tesasdfdsa",
+      "description": null,
+      "html_url": "https://github.com/kody-w/tesasdfdsa"
+    },
+    {
+      "name": "TestAI",
+      "full_name": "kody-w/TestAI",
+      "description": null,
+      "html_url": "https://github.com/kody-w/TestAI"
+    },
+    {
+      "name": "text-adventure",
+      "full_name": "kody-w/text-adventure",
+      "description": null,
+      "html_url": "https://github.com/kody-w/text-adventure"
+    },
+    {
+      "name": "the-coliseum",
+      "full_name": "kody-w/the-coliseum",
+      "description": "An evolutionary arena where AI creatures compete, breed, and die \u2014 built in parallel by a brainstem flock.",
+      "html_url": "https://github.com/kody-w/the-coliseum"
+    },
+    {
+      "name": "TheMatrix",
+      "full_name": "kody-w/TheMatrix",
+      "description": "TheMatrix",
+      "html_url": "https://github.com/kody-w/TheMatrix"
+    },
+    {
+      "name": "threejs",
+      "full_name": "kody-w/threejs",
+      "description": null,
+      "html_url": "https://github.com/kody-w/threejs"
+    },
+    {
+      "name": "tide-brainstem",
+      "full_name": "kody-w/tide-brainstem",
+      "description": "Planted RAPP twin \u2014 Tide. You are Tide \u2014 a rhythmic / oceanic voice in the canvas. You think in waves: eve",
+      "html_url": "https://github.com/kody-w/tide-brainstem"
+    },
+    {
+      "name": "tinyrenderer",
+      "full_name": "kody-w/tinyrenderer",
+      "description": "Support c++ code for a short computer graphics course",
+      "html_url": "https://github.com/kody-w/tinyrenderer"
+    },
+    {
+      "name": "Treehouse",
+      "full_name": "kody-w/Treehouse",
+      "description": null,
+      "html_url": "https://github.com/kody-w/Treehouse"
+    },
+    {
+      "name": "twin",
+      "full_name": "kody-w/twin",
+      "description": "twin",
+      "html_url": "https://github.com/kody-w/twin"
+    },
+    {
+      "name": "twin-binder",
+      "full_name": "kody-w/twin-binder",
+      "description": "Empty RAPPcards v1.1.2 binder \u2014 rebuild-from-memory demo. Ships with known incantations; click to summon via federation. Resolution is ownership.",
+      "html_url": "https://github.com/kody-w/twin-binder"
+    },
+    {
+      "name": "twin-egg-hatcher",
+      "full_name": "kody-w/twin-egg-hatcher",
+      "description": "Generic single-file hatcher for any RAPP digital-organism twin \u2014 public mirror of kody-w/aibast-twin",
+      "html_url": "https://github.com/kody-w/twin-egg-hatcher"
+    },
+    {
+      "name": "twitter-cashtag-heatmap",
+      "full_name": "kody-w/twitter-cashtag-heatmap",
+      "description": "A demonstration of using Node.js with Twitter's streaming capability to create a live heatmap via Socket.io!",
+      "html_url": "https://github.com/kody-w/twitter-cashtag-heatmap"
+    },
+    {
+      "name": "Udemy.NetWalkthrough",
+      "full_name": "kody-w/Udemy.NetWalkthrough",
+      "description": "https://www.udemy.com/masteraspnet/learn/#/",
+      "html_url": "https://github.com/kody-w/Udemy.NetWalkthrough"
+    },
+    {
+      "name": "ultra-turmeric",
+      "full_name": "kody-w/ultra-turmeric",
+      "description": null,
+      "html_url": "https://github.com/kody-w/ultra-turmeric"
+    },
+    {
+      "name": "v86",
+      "full_name": "kody-w/v86",
+      "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+      "html_url": "https://github.com/kody-w/v86"
+    },
+    {
+      "name": "vbrainstem",
+      "full_name": "kody-w/vbrainstem",
+      "description": "Browser-native RAPP agent runtime (vBrainstem) \u2014 run any agent in your browser via Pyodide, no install. Standalone host of the RAPP Brainstem; reads the live registry from kody-w/RAR.",
+      "html_url": "https://github.com/kody-w/vbrainstem"
+    },
+    {
+      "name": "vneighborhood-design-studio",
+      "full_name": "kody-w/vneighborhood-design-studio",
+      "description": "\ud83c\udfa8 A sealed vNeighborhood for agents to critique & iterate on design \u2014 front door + QR/PIN join. A live example of the rapp-vneighborhood pattern.",
+      "html_url": "https://github.com/kody-w/vneighborhood-design-studio"
+    },
+    {
+      "name": "vneighborhood-research-lab",
+      "full_name": "kody-w/vneighborhood-research-lab",
+      "description": "\ud83d\udd2c A sealed vNeighborhood for an agent swarm to run a shared line of inquiry \u2014 front door + QR/PIN join. A live example of the rapp-vneighborhood pattern.",
+      "html_url": "https://github.com/kody-w/vneighborhood-research-lab"
+    },
+    {
+      "name": "VoidRAPP",
+      "full_name": "kody-w/VoidRAPP",
+      "description": "Void Edge (V0-E1) - A federated RAPPverse dimension at the boundary of nothing",
+      "html_url": "https://github.com/kody-w/VoidRAPP"
+    },
+    {
+      "name": "VSProjects",
+      "full_name": "kody-w/VSProjects",
+      "description": "VS2015 Projects",
+      "html_url": "https://github.com/kody-w/VSProjects"
+    },
+    {
+      "name": "wildhaven-ai-homes-twin",
+      "full_name": "kody-w/wildhaven-ai-homes-twin",
+      "description": "The Pre-Founder twin of Wildhaven AI Homes \u2014 the brand operating in public before the company incorporates. A variant of kody-w/RAPP per Constitution Article XXXIV.",
+      "html_url": "https://github.com/kody-w/wildhaven-ai-homes-twin"
+    },
+    {
+      "name": "zion",
+      "full_name": "kody-w/zion",
+      "description": "One world, two realms, every mind welcome. An MMO where human and AI players coexist as equals.",
+      "html_url": "https://github.com/kody-w/zion"
+    }
+  ]
+}
