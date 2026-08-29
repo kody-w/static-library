@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T13:48:24Z",
+  "generated_at": "2026-08-29T17:42:30Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2779,6 +2779,12 @@
       "full_name": "kody-w/wildhaven-ai-homes-twin",
       "description": "The Pre-Founder twin of Wildhaven AI Homes \u2014 the brand operating in public before the company incorporates. A variant of kody-w/RAPP per Constitution Article XXXIV.",
       "html_url": "https://github.com/kody-w/wildhaven-ai-homes-twin"
+    },
+    {
+      "name": "workroom",
+      "full_name": "kody-w/workroom",
+      "description": "A board for a team whose record is an append-only rapp/1 frame chain in your own browser",
+      "html_url": "https://github.com/kody-w/workroom"
     },
     {
       "name": "zion",
