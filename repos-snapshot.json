@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:16:46Z",
+  "generated_at": "2026-08-29T00:32:31Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -501,6 +501,36 @@
       "html_url": "https://github.com/kody-w/dogg-api"
     },
     {
+      "name": "dogg-canon",
+      "full_name": "kody-w/dogg-canon",
+      "description": "Federated dogg-network node: daily-hashed provenance of the RAR constitution, rapp/1 spec, and dogg protocol \u2014 proof of which text governed at each tick.",
+      "html_url": "https://github.com/kody-w/dogg-canon"
+    },
+    {
+      "name": "dogg-firstaid",
+      "full_name": "kody-w/dogg-firstaid",
+      "description": "Federated dogg tick-network node: first aid as a book \u2014 a versioned lay-rescuer decision tree (bleeding, CPR, choking, shock, burns, hypothermia), tick-anchored, not medical advice",
+      "html_url": "https://github.com/kody-w/dogg-firstaid"
+    },
+    {
+      "name": "dogg-genesis",
+      "full_name": "kody-w/dogg-genesis",
+      "description": "THE ROOT CHANT \u2014 federated tick-network node fingerprinting the spine's chant kit + genesis frame, tick by tick",
+      "html_url": "https://github.com/kody-w/dogg-genesis"
+    },
+    {
+      "name": "dogg-land",
+      "full_name": "kody-w/dogg-land",
+      "description": "Federated node of the DOGG global tick network: a TEMPLATE deed record (document hash, registry pointer, corner polygon) over a public landmark, placeholders throughout.",
+      "html_url": "https://github.com/kody-w/dogg-land"
+    },
+    {
+      "name": "dogg-lineage",
+      "full_name": "kody-w/dogg-lineage",
+      "description": "Federated TEMPLATE node of the DOGG tick network: a fill-in-the-blank family lineage chain (birth/vow/death, 3 generations) \u2014 every field is PLACEHOLDER, real lineages stay private",
+      "html_url": "https://github.com/kody-w/dogg-lineage"
+    },
+    {
       "name": "dogg-markets",
       "full_name": "kody-w/dogg-markets",
       "description": "Federated node of the global tick network \u2014 its own verifiable rapp/1 chain, keyed to the spine at kody-w/dogg",
@@ -513,16 +543,46 @@
       "html_url": "https://github.com/kody-w/dogg-mcp"
     },
     {
+      "name": "dogg-muster",
+      "full_name": "kody-w/dogg-muster",
+      "description": "Federated tick-network node: a TEMPLATE rendezvous (muster) plan, every value a placeholder, keyed to the kody-w/dogg spine clock.",
+      "html_url": "https://github.com/kody-w/dogg-muster"
+    },
+    {
       "name": "dogg-planet",
       "full_name": "kody-w/dogg-planet",
       "description": "Federated node of the global tick network \u2014 its own verifiable rapp/1 chain, keyed to the spine at kody-w/dogg",
       "html_url": "https://github.com/kody-w/dogg-planet"
     },
     {
+      "name": "dogg-radio",
+      "full_name": "kody-w/dogg-radio",
+      "description": "Federated tick-network node: NOAA WX / FRS-GMRS / marine / aviation / CB emergency frequencies + live GA NWS alert count",
+      "html_url": "https://github.com/kody-w/dogg-radio"
+    },
+    {
+      "name": "dogg-seedvault",
+      "full_name": "kody-w/dogg-seedvault",
+      "description": "Federated tick-network node: heirloom seed vault (zone 8a) \u2014 sow/harvest windows keyed to the kody-w/dogg spine tick",
+      "html_url": "https://github.com/kody-w/dogg-seedvault"
+    },
+    {
+      "name": "dogg-sky",
+      "full_name": "kody-w/dogg-sky",
+      "description": "Federated dogg tick-network node: NOAA solar position + moon phase for 8 cities, pure Python, no deps \u2014 the chain is the witness, the algorithm is the heirloom.",
+      "html_url": "https://github.com/kody-w/dogg-sky"
+    },
+    {
       "name": "dogg-verdict",
       "full_name": "kody-w/dogg-verdict",
       "description": "The first derived doggcast: verifiable judgment frames \u2014 anomaly scores and a quiet index computed from the DOGG world dimension's history, auditable back to source frames.",
       "html_url": "https://github.com/kody-w/dogg-verdict"
+    },
+    {
+      "name": "dogg-water",
+      "full_name": "kody-w/dogg-water",
+      "description": "Federated tick-network node: versioned emergency water procedure + live USGS river-gauge reading vs flood stage",
+      "html_url": "https://github.com/kody-w/dogg-water"
     },
     {
       "name": "doggcast",
@@ -2359,6 +2419,12 @@
       "full_name": "kody-w/screenshot-to-code",
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "html_url": "https://github.com/kody-w/screenshot-to-code"
+    },
+    {
+      "name": "second-seat",
+      "full_name": "kody-w/second-seat",
+      "description": "Second Seat \u2014 a RAPP front door: a pilot flies the world through the same controls you have, and the others below look up",
+      "html_url": "https://github.com/kody-w/second-seat"
     },
     {
       "name": "semantic-kernel-workshop",
