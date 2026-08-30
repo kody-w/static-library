@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:15:30Z",
+  "generated_at": "2026-08-30T05:18:55Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -727,6 +727,12 @@
       "full_name": "kody-w/hello-world-ruby-q-000",
       "description": null,
       "html_url": "https://github.com/kody-w/hello-world-ruby-q-000"
+    },
+    {
+      "name": "holodex",
+      "full_name": "kody-w/holodex",
+      "description": "Official signed Holodex API and First Edition / First Dimension catalog frame for RapterBox Holo species",
+      "html_url": "https://github.com/kody-w/holodex"
     },
     {
       "name": "homebrew-tap",
