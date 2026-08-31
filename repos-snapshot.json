@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T08:35:59Z",
+  "generated_at": "2026-08-31T17:02:05Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1711,6 +1711,12 @@
       "full_name": "kody-w/rapp-postflight",
       "description": "Post-deploy gate for rapp-installer: factory-strip the brainstem, fresh-install from the public one-liner, verify, auto-rollback on failure",
       "html_url": "https://github.com/kody-w/rapp-postflight"
+    },
+    {
+      "name": "rapp-projects",
+      "full_name": "kody-w/rapp-projects",
+      "description": "Product-neutral RAPP/1 project memory, RAPP Cell evolution, cross-runtime handoff, bounded autopilot, and crash recovery",
+      "html_url": "https://github.com/kody-w/rapp-projects"
     },
     {
       "name": "rapp-quests",
