@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:02:05Z",
+  "generated_at": "2026-08-31T21:53:21Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2347,6 +2347,12 @@
       "full_name": "kody-w/RAPP_Store",
       "description": "Public catalog of RAPP rapplications \u2014 single-file Python agents that drop into a local brainstem and run. Browse the hosted viewer at kody-w.github.io/RAPP_Store/. Engine: kody-w/RAPP.",
       "html_url": "https://github.com/kody-w/RAPP_Store"
+    },
+    {
+      "name": "rapterbot.com",
+      "full_name": "kody-w/rapterbot.com",
+      "description": "RapterBot.com public site and privacy-safe autonomous company DOGG",
+      "html_url": "https://github.com/kody-w/rapterbot.com"
     },
     {
       "name": "rapterbox-site",
