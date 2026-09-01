@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:28:06Z",
+  "generated_at": "2026-09-01T17:48:02Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2005,6 +2005,12 @@
       "full_name": "kody-w/rapp-work-cubbies",
       "description": "Git-backed RAPP neighborhood for isolated append-only work cubbies and clocked engineering evidence",
       "html_url": "https://github.com/kody-w/rapp-work-cubbies"
+    },
+    {
+      "name": "rapp-workspace",
+      "full_name": "kody-w/rapp-workspace",
+      "description": "RAPP Workspace \u2014 the private workspace protocol for the rapp/1 family: one owner many worlds, solo or hive, distributed multi-operator operation carried by frame leases",
+      "html_url": "https://github.com/kody-w/rapp-workspace"
     },
     {
       "name": "rapp-zoo",
