@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:16:31Z",
+  "generated_at": "2026-09-01T07:45:26Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1773,6 +1773,12 @@
       "html_url": "https://github.com/kody-w/rapp-roadmap"
     },
     {
+      "name": "rapp-roadside",
+      "full_name": "kody-w/rapp-roadside",
+      "description": "Local-only, deterministic RAPP installer troubleshooting with bounded repair and exact retest.",
+      "html_url": "https://github.com/kody-w/rapp-roadside"
+    },
+    {
       "name": "rapp-rock-tumbler",
       "full_name": "kody-w/rapp-rock-tumbler",
       "description": "An agent's report of success is not evidence of success. Ten apps, nine still broken after self-verification \u2014 the adversarial loop that caught them, plus the harness and a 110s reel.",
@@ -2265,16 +2271,52 @@
       "html_url": "https://github.com/kody-w/rappvision"
     },
     {
+      "name": "rappvision-after-midnight-maps",
+      "full_name": "kody-w/rappvision-after-midnight-maps",
+      "description": "After Midnight Maps \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-after-midnight-maps"
+    },
+    {
+      "name": "rappvision-creature-office-hours",
+      "full_name": "kody-w/rappvision-creature-office-hours",
+      "description": "Creature Office Hours \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-creature-office-hours"
+    },
+    {
       "name": "rappvision-field-notes",
       "full_name": "kody-w/rappvision-field-notes",
       "description": "Field Notes \u2014 a RAPP Vision channel. Post-mortems from autonomous systems that looked perfectly healthy while being completely frozen.",
       "html_url": "https://github.com/kody-w/rappvision-field-notes"
     },
     {
+      "name": "rappvision-kitchen-table-physics",
+      "full_name": "kody-w/rappvision-kitchen-table-physics",
+      "description": "Kitchen Table Physics \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-kitchen-table-physics"
+    },
+    {
       "name": "rappvision-learnwithkody",
       "full_name": "kody-w/rappvision-learnwithkody",
       "description": "A rappvision channel \u2014 learn with kody",
       "html_url": "https://github.com/kody-w/rappvision-learnwithkody"
+    },
+    {
+      "name": "rappvision-null-arcade",
+      "full_name": "kody-w/rappvision-null-arcade",
+      "description": "Null Arcade \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-null-arcade"
+    },
+    {
+      "name": "rappvision-one-minute-orchestra",
+      "full_name": "kody-w/rappvision-one-minute-orchestra",
+      "description": "One Minute Orchestra \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-one-minute-orchestra"
+    },
+    {
+      "name": "rappvision-patch-notes-tomorrow",
+      "full_name": "kody-w/rappvision-patch-notes-tomorrow",
+      "description": "Patch Notes from Tomorrow \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-patch-notes-tomorrow"
     },
     {
       "name": "rappvision-pokemon",
@@ -2301,10 +2343,34 @@
       "html_url": "https://github.com/kody-w/rappvision-rappterbox"
     },
     {
+      "name": "rappvision-receipt-culture",
+      "full_name": "kody-w/rappvision-receipt-culture",
+      "description": "Receipt Culture \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-receipt-culture"
+    },
+    {
+      "name": "rappvision-repair-manual",
+      "full_name": "kody-w/rappvision-repair-manual",
+      "description": "The Repair Manual \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-repair-manual"
+    },
+    {
       "name": "rappvision-rnr",
       "full_name": "kody-w/rappvision-rnr",
       "description": "RNR \u2014 RAR Nightly Review. A RAPP Vision channel: what landed on the front page of the agentic web, and what broke getting there.",
       "html_url": "https://github.com/kody-w/rappvision-rnr"
+    },
+    {
+      "name": "rappvision-signal-garden",
+      "full_name": "kody-w/rappvision-signal-garden",
+      "description": "Signal Garden \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-signal-garden"
+    },
+    {
+      "name": "rappvision-tiny-bureau",
+      "full_name": "kody-w/rappvision-tiny-bureau",
+      "description": "Tiny Bureau \u2014 paired RAPP Vision film and live replay",
+      "html_url": "https://github.com/kody-w/rappvision-tiny-bureau"
     },
     {
       "name": "RAPP_Desktop",
