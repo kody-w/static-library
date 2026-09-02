@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:26:11Z",
+  "generated_at": "2026-09-02T18:38:21Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1737,6 +1737,12 @@
       "html_url": "https://github.com/kody-w/rapp-recall"
     },
     {
+      "name": "rapp-refresh",
+      "full_name": "kody-w/rapp-refresh",
+      "description": "Safe, data-preserving factory resets and clean reinstalls for RAPP Brainstem.",
+      "html_url": "https://github.com/kody-w/rapp-refresh"
+    },
+    {
       "name": "rapp-release-train",
       "full_name": "kody-w/rapp-release-train",
       "description": "Live dashboard + static API for the RAPP pre-grail release train (canary\u2192nightly\u2192alpha\u2192beta\u2192grail) \u2014 rapp-static-api/1.0, no server",
@@ -2305,6 +2311,12 @@
       "full_name": "kody-w/rappvision-learnwithkody",
       "description": "A rappvision channel \u2014 learn with kody",
       "html_url": "https://github.com/kody-w/rappvision-learnwithkody"
+    },
+    {
+      "name": "rappvision-new-way-of-work",
+      "full_name": "kody-w/rappvision-new-way-of-work",
+      "description": "Paired production drafts and live storyboards for The New Way of Work.",
+      "html_url": "https://github.com/kody-w/rappvision-new-way-of-work"
     },
     {
       "name": "rappvision-null-arcade",
