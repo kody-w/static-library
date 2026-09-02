@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:38:21Z",
+  "generated_at": "2026-09-02T21:47:01Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -205,6 +205,12 @@
       "full_name": "kody-w/base",
       "description": "base",
       "html_url": "https://github.com/kody-w/base"
+    },
+    {
+      "name": "bb",
+      "full_name": "kody-w/bb",
+      "description": "The agent IDE that builds itself",
+      "html_url": "https://github.com/kody-w/bb"
     },
     {
       "name": "BigNerdRanch",
@@ -1255,6 +1261,12 @@
       "full_name": "kody-w/rapp-brainstem-beta",
       "description": "RAPP Brainstem \u2014 Brain Surgeon (beta): OS-confined Copilot-SDK surgeon. Operate on your agents while the brainstem stays awake; brainstem.py is sandbox-protected.",
       "html_url": "https://github.com/kody-w/rapp-brainstem-beta"
+    },
+    {
+      "name": "rapp-brainstem-foundation",
+      "full_name": "kody-w/rapp-brainstem-foundation",
+      "description": "The public foundation for a universal, backward-compatible Brainstem that grows through verified RAPP inheritance.",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-foundation"
     },
     {
       "name": "rapp-brainstem-frontier-template",
