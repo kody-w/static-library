@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:21:07Z",
+  "generated_at": "2026-09-04T21:24:36Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1065,6 +1065,12 @@
       "html_url": "https://github.com/kody-w/openrappter-release-train"
     },
     {
+      "name": "orion",
+      "full_name": "kody-w/orion",
+      "description": "Orion: the public face of Kody Wildfeuer's AI. One file, nothing private. Hand the link to any AI for a degraded but faithful Orion.",
+      "html_url": "https://github.com/kody-w/orion"
+    },
+    {
       "name": "pkstop-central-park-bandshell",
       "full_name": "kody-w/pkstop-central-park-bandshell",
       "description": "Central Park Bandshell \u2014 RAPP front door",
@@ -1617,6 +1623,12 @@
       "html_url": "https://github.com/kody-w/rapp-mirror-releases"
     },
     {
+      "name": "rapp-mission",
+      "full_name": "kody-w/rapp-mission",
+      "description": "The RAPP mission: AI for everyone, on whatever they have, with whatever AI they already use. One file is a person's whole AI. Dated charter, prior art, and posts; no code.",
+      "html_url": "https://github.com/kody-w/rapp-mission"
+    },
+    {
       "name": "rapp-moment",
       "full_name": "kody-w/rapp-moment",
       "description": "RAPP Moment \u2014 the standard: serverless, cryptographic, living holographic posts (100-frame organisms). Spec + conformance + examples.",
@@ -1859,8 +1871,14 @@
     {
       "name": "rapp-skills",
       "full_name": "kody-w/rapp-skills",
-      "description": "107 verified Agent Skill + RAPP agent.py pairs, including all 76 CAT Agent Skills, powered by the byte-exact converter.",
+      "description": "Portable Agent Skills that convert losslessly to and from single-file agents. One SKILL.md is all a user needs; works in Claude Code and GitHub Copilot CLI with or without a plugin.",
       "html_url": "https://github.com/kody-w/rapp-skills"
+    },
+    {
+      "name": "rapp-skills-legacy",
+      "full_name": "kody-w/rapp-skills-legacy",
+      "description": "107 verified Agent Skill + RAPP agent.py pairs, including all 76 CAT Agent Skills, powered by the byte-exact converter.",
+      "html_url": "https://github.com/kody-w/rapp-skills-legacy"
     },
     {
       "name": "rapp-snap",
@@ -2861,8 +2879,14 @@
     {
       "name": "vbrainstem",
       "full_name": "kody-w/vbrainstem",
-      "description": "Browser-native RAPP agent runtime (vBrainstem) \u2014 run any agent in your browser via Pyodide, no install. Standalone host of the RAPP Brainstem; reads the live registry from kody-w/RAR.",
+      "description": "One file that makes any AI yours. Give your AI one link, answer a few questions, and it knows you in Claude Code, Copilot, or anything that reads skills. Nothing to install.",
       "html_url": "https://github.com/kody-w/vbrainstem"
+    },
+    {
+      "name": "vbrainstem-legacy",
+      "full_name": "kody-w/vbrainstem-legacy",
+      "description": "Browser-native RAPP agent runtime (vBrainstem) \u2014 run any agent in your browser via Pyodide, no install. Standalone host of the RAPP Brainstem; reads the live registry from kody-w/RAR.",
+      "html_url": "https://github.com/kody-w/vbrainstem-legacy"
     },
     {
       "name": "vneighborhood-design-studio",
