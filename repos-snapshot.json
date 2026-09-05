@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:11:00Z",
+  "generated_at": "2026-09-05T22:54:46Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -991,6 +991,12 @@
       "full_name": "kody-w/neighborhood-example",
       "description": "Neighborhood Example",
       "html_url": "https://github.com/kody-w/neighborhood-example"
+    },
+    {
+      "name": "nerf-herdr-control-tower",
+      "full_name": "kody-w/nerf-herdr-control-tower",
+      "description": "Herdr plugin: glanceable GUI dashboard, full-context .json export, bounded nurse policy, manual Horn broadcasts",
+      "html_url": "https://github.com/kody-w/nerf-herdr-control-tower"
     },
     {
       "name": "Neu_AI",
