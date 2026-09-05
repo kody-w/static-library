@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:13:30Z",
+  "generated_at": "2026-09-05T21:11:00Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2907,10 +2907,28 @@
       "html_url": "https://github.com/kody-w/vb-harbor"
     },
     {
+      "name": "vb-overwatch",
+      "full_name": "kody-w/vb-overwatch",
+      "description": "Overwatch: coordination and overview AI contact",
+      "html_url": "https://github.com/kody-w/vb-overwatch"
+    },
+    {
       "name": "vb-quill",
       "full_name": "kody-w/vb-quill",
       "description": "Quill: a signed portable writing AI with a separate private home",
       "html_url": "https://github.com/kody-w/vb-quill"
+    },
+    {
+      "name": "vb-scout",
+      "full_name": "kody-w/vb-scout",
+      "description": "Scout: discovery and research AI contact",
+      "html_url": "https://github.com/kody-w/vb-scout"
+    },
+    {
+      "name": "vb-sentinel",
+      "full_name": "kody-w/vb-sentinel",
+      "description": "Sentinel: results and risk review AI contact",
+      "html_url": "https://github.com/kody-w/vb-sentinel"
     },
     {
       "name": "vbrainstem",
