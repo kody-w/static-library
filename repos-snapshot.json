@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:01:07Z",
+  "generated_at": "2026-09-05T18:13:30Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1675,6 +1675,12 @@
       "full_name": "kody-w/rapp-nightly",
       "description": "RAPP release-train nightly ring; seeded from the untouched Grail",
       "html_url": "https://github.com/kody-w/rapp-nightly"
+    },
+    {
+      "name": "rapp-omarchy",
+      "full_name": "kody-w/rapp-omarchy",
+      "description": "Standalone Omarchy workbench with Herdr, Tailscale, and native RAPP Projects/Workspace.",
+      "html_url": "https://github.com/kody-w/rapp-omarchy"
     },
     {
       "name": "rapp-oneclick-deploy",
