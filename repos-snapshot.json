@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:38:48Z",
+  "generated_at": "2026-09-05T16:01:07Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -7,6 +7,12 @@
       "full_name": "kody-w/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "html_url": "https://github.com/kody-w/agency-agents"
+    },
+    {
+      "name": "agent-plugin",
+      "full_name": "kody-w/agent-plugin",
+      "description": "Plugin for agents to interact with Chatcut",
+      "html_url": "https://github.com/kody-w/agent-plugin"
     },
     {
       "name": "agent-ranker",
@@ -2875,6 +2881,30 @@
       "full_name": "kody-w/v86",
       "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
       "html_url": "https://github.com/kody-w/v86"
+    },
+    {
+      "name": "vb-atlas",
+      "full_name": "kody-w/vb-atlas",
+      "description": "Atlas: a signed portable research AI with a separate private home",
+      "html_url": "https://github.com/kody-w/vb-atlas"
+    },
+    {
+      "name": "vb-forge",
+      "full_name": "kody-w/vb-forge",
+      "description": "Forge: a signed portable builder AI with a separate private home",
+      "html_url": "https://github.com/kody-w/vb-forge"
+    },
+    {
+      "name": "vb-harbor",
+      "full_name": "kody-w/vb-harbor",
+      "description": "Harbor: a signed portable planning AI with a separate private home",
+      "html_url": "https://github.com/kody-w/vb-harbor"
+    },
+    {
+      "name": "vb-quill",
+      "full_name": "kody-w/vb-quill",
+      "description": "Quill: a signed portable writing AI with a separate private home",
+      "html_url": "https://github.com/kody-w/vb-quill"
     },
     {
       "name": "vbrainstem",
