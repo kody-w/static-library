@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:07:30Z",
+  "generated_at": "2026-09-06T21:18:06Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1703,7 +1703,7 @@
     {
       "name": "rapp-organism",
       "full_name": "kody-w/rapp-organism",
-      "description": "Public, content-addressed RAPP organism catalog: git-scraped observations, queryable projections, and verifiable release carriers.",
+      "description": "Public RAPP metadata, provenance and change history with reproducible SQLite/JSON queries. The full raw organism carrier remains withheld.",
       "html_url": "https://github.com/kody-w/rapp-organism"
     },
     {
