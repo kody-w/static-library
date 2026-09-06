@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:52:33Z",
+  "generated_at": "2026-09-06T05:53:40Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2053,6 +2053,12 @@
       "full_name": "kody-w/rapp-vui",
       "description": null,
       "html_url": "https://github.com/kody-w/rapp-vui"
+    },
+    {
+      "name": "rapp-wiki-observatory",
+      "full_name": "kody-w/rapp-wiki-observatory",
+      "description": "Metadata-first wiki evidence explorer with local-only archive inspection.",
+      "html_url": "https://github.com/kody-w/rapp-wiki-observatory"
     },
     {
       "name": "rapp-work-cubbies",
