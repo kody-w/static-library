@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:07:53Z",
+  "generated_at": "2026-09-06T16:59:56Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1699,6 +1699,12 @@
       "full_name": "kody-w/rapp-open",
       "description": "Open protocol for any AI to collaborate with the RAPP organism. RAPP + X = RAPP++. Go in peace.",
       "html_url": "https://github.com/kody-w/rapp-open"
+    },
+    {
+      "name": "rapp-organism",
+      "full_name": "kody-w/rapp-organism",
+      "description": "Public, content-addressed RAPP organism catalog: git-scraped observations, queryable projections, and verifiable release carriers.",
+      "html_url": "https://github.com/kody-w/rapp-organism"
     },
     {
       "name": "rapp-overwatch",
