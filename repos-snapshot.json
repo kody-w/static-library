@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:30:20Z",
+  "generated_at": "2026-09-08T18:36:12Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2581,6 +2581,12 @@
       "full_name": "kody-w/saras_ai_robot_v2",
       "description": null,
       "html_url": "https://github.com/kody-w/saras_ai_robot_v2"
+    },
+    {
+      "name": "scout-brainstem-bootstrap",
+      "full_name": "kody-w/scout-brainstem-bootstrap",
+      "description": "Feed Microsoft Scout one skill to install, verify, and open a local RAPP Brainstem end to end.",
+      "html_url": "https://github.com/kody-w/scout-brainstem-bootstrap"
     },
     {
       "name": "screenshot-to-code",
