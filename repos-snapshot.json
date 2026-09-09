@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:32:15Z",
+  "generated_at": "2026-09-09T21:40:00Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -417,6 +417,12 @@
       "html_url": "https://github.com/kody-w/copilot-agent-365-docker"
     },
     {
+      "name": "copilot-streaming-chat-playground",
+      "full_name": "kody-w/copilot-streaming-chat-playground",
+      "description": null,
+      "html_url": "https://github.com/kody-w/copilot-streaming-chat-playground"
+    },
+    {
       "name": "copilot-yolo-mode",
       "full_name": "kody-w/copilot-yolo-mode",
       "description": "\ud83c\udfce\ufe0f Streamlined GitHub Copilot CLI commands - auto-approve safe dev ops, reduce permission fatigue",
@@ -817,6 +823,12 @@
       "full_name": "kody-w/LCTHW-Exercises",
       "description": null,
       "html_url": "https://github.com/kody-w/LCTHW-Exercises"
+    },
+    {
+      "name": "learn-brainstem",
+      "full_name": "kody-w/learn-brainstem",
+      "description": "Learn how AI agents work by running one on your machine. Agent Skills that teach with the RAPP Brainstem.",
+      "html_url": "https://github.com/kody-w/learn-brainstem"
     },
     {
       "name": "lemonai",
