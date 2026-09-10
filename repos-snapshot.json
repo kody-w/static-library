@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:23:24Z",
+  "generated_at": "2026-09-10T18:23:34Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -415,6 +415,12 @@
       "full_name": "kody-w/copilot-agent-365-docker",
       "description": "Enterprise AI Assistant powered by Ollama (Llama 3.1) or Azure OpenAI - Docker Hub: kodywf/copilot-agent-365",
       "html_url": "https://github.com/kody-w/copilot-agent-365-docker"
+    },
+    {
+      "name": "copilot-harness-sdk",
+      "full_name": "kody-w/copilot-harness-sdk",
+      "description": "One client for every way to reach a GitHub Copilot harness: Copilot SDK in-process, Copilot Studio GitHub Copilot harness agents over /3p, standard-harness agents, app-only S2S, agentic Direct Line. Plus the verified Copilot Harness and SDK Map.",
+      "html_url": "https://github.com/kody-w/copilot-harness-sdk"
     },
     {
       "name": "copilot-streaming-chat-playground",
