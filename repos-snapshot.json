@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:23:34Z",
+  "generated_at": "2026-09-10T21:35:19Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -253,6 +253,12 @@
       "full_name": "kody-w/brainstem-bootcamp",
       "description": "Build the agent on your laptop. Then ship it to Copilot Studio. The on-device launchpad the Microsoft AI stack is missing \u2014 plus the bootcamp that gets you through it in two hours.",
       "html_url": "https://github.com/kody-w/brainstem-bootcamp"
+    },
+    {
+      "name": "brainstem-copilot",
+      "full_name": "kody-w/brainstem-copilot",
+      "description": "Brain Surgeon leads native Copilot agents with the Brainstem soul, memory, and capability workflow. Shared Canvas, portable skills, optional Frontier. No Brainstem server required.",
+      "html_url": "https://github.com/kody-w/brainstem-copilot"
     },
     {
       "name": "brainstem-harness",
@@ -1993,6 +1999,12 @@
       "full_name": "kody-w/rapp-tools",
       "description": "RAPP Tools \u2014 one catalogue and one command for the local-first RAPP tools. Every entry is a hatchable rapplication: own port, driven headlessly over /chat, UI optional.",
       "html_url": "https://github.com/kody-w/rapp-tools"
+    },
+    {
+      "name": "rapp-tower",
+      "full_name": "kody-w/rapp-tower",
+      "description": "Mission control for the RAPP ecosystem \u2014 sessions land here; the tower commands the railroad, never on the tracks",
+      "html_url": "https://github.com/kody-w/rapp-tower"
     },
     {
       "name": "rapp-train",
