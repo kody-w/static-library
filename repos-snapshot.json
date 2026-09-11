@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:23:23Z",
+  "generated_at": "2026-09-11T18:26:52Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1315,6 +1315,12 @@
       "full_name": "kody-w/rapp-brainstem-frontier-template",
       "description": "The grail Electron template \u2014 Frontier estate: grail Brainstem by reference, ambient mode, and a revertible rapplication skin over the factory chat",
       "html_url": "https://github.com/kody-w/rapp-brainstem-frontier-template"
+    },
+    {
+      "name": "rapp-brainstem-plugin",
+      "full_name": "kody-w/rapp-brainstem-plugin",
+      "description": "Use your RAPP Brainstem through GitHub Copilot across Cowork and agent hosts.",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-plugin"
     },
     {
       "name": "rapp-brainstem-sdk",
