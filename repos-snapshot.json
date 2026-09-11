@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:26:52Z",
+  "generated_at": "2026-09-11T21:41:52Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2113,6 +2113,12 @@
       "full_name": "kody-w/rapp-workspace",
       "description": "RAPP Workspace \u2014 the private workspace protocol for the rapp/1 family: one owner many worlds, solo or hive, distributed multi-operator operation carried by frame leases",
       "html_url": "https://github.com/kody-w/rapp-workspace"
+    },
+    {
+      "name": "rapp-workspace-manager",
+      "full_name": "kody-w/rapp-workspace-manager",
+      "description": "Private, local-first pointer manager for Git and RAPP workspaces",
+      "html_url": "https://github.com/kody-w/rapp-workspace-manager"
     },
     {
       "name": "rapp-zoo",
