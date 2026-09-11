@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:35:19Z",
+  "generated_at": "2026-09-11T00:06:03Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -425,7 +425,7 @@
     {
       "name": "copilot-harness-sdk",
       "full_name": "kody-w/copilot-harness-sdk",
-      "description": "One client for every way to reach a GitHub Copilot harness: Copilot SDK in-process, Copilot Studio GitHub Copilot harness agents over /3p, standard-harness agents, app-only S2S, agentic Direct Line. Plus the verified Copilot Harness and SDK Map.",
+      "description": "Deploy and drive Copilot Studio GitHub Copilot harness agents from code. One client for every route, plus a deploy script that provisions connection references, agent flows and component bindings and refuses classic agents. Includes a tutorial that builds a working agent from three public RAPP agents.",
       "html_url": "https://github.com/kody-w/copilot-harness-sdk"
     },
     {
