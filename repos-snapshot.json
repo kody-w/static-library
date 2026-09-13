@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:44:37Z",
+  "generated_at": "2026-09-13T16:12:31Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -643,6 +643,12 @@
       "full_name": "kody-w/DSU-OOP",
       "description": null,
       "html_url": "https://github.com/kody-w/DSU-OOP"
+    },
+    {
+      "name": "dynamics365-business-process-api",
+      "full_name": "kody-w/dynamics365-business-process-api",
+      "description": "Versioned static JSON API and read-only RAPP client for the official Dynamics 365 Business Process Catalog.",
+      "html_url": "https://github.com/kody-w/dynamics365-business-process-api"
     },
     {
       "name": "Dynamics365ConsoleAppTemplate",
