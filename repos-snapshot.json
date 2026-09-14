@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:18:59Z",
+  "generated_at": "2026-09-14T23:06:21Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2683,6 +2683,12 @@
       "full_name": "kody-w/skills-for-copilot-studio",
       "description": "A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML \u2014 with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more.",
       "html_url": "https://github.com/kody-w/skills-for-copilot-studio"
+    },
+    {
+      "name": "skillstem",
+      "full_name": "kody-w/skillstem",
+      "description": "Brainstem-compatible agent harness on the GitHub Copilot SDK that hot-loads SKILL.md instead of agent.py",
+      "html_url": "https://github.com/kody-w/skillstem"
     },
     {
       "name": "skyward",
