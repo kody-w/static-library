@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:58:41Z",
+  "generated_at": "2026-09-14T19:18:59Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1657,12 +1657,6 @@
       "full_name": "kody-w/rapp-metrics",
       "description": "\ud83d\udcca rapp-metrics/1.0 \u2014 GitHub Discussions as the metrics backend for static, hydra-served surfaces. Counts mean people, not clicks: the actor determines the lane, never the subject.",
       "html_url": "https://github.com/kody-w/rapp-metrics"
-    },
-    {
-      "name": "rapp-mirror",
-      "full_name": "kody-w/rapp-mirror",
-      "description": null,
-      "html_url": "https://github.com/kody-w/rapp-mirror"
     },
     {
       "name": "rapp-mirror-releases",
