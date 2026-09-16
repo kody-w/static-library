@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T00:14:46Z",
+  "generated_at": "2026-09-16T05:58:15Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2839,6 +2839,12 @@
       "full_name": "kody-w/static-zuora",
       "description": "Deterministic, zero-dependency static subscription billing and Zuora API compatibility simulator.",
       "html_url": "https://github.com/kody-w/static-zuora"
+    },
+    {
+      "name": "stemcell",
+      "full_name": "kody-w/stemcell",
+      "description": "The RAPP brainstem, wherever you need it: one genome, any body (http, Copilot SDK, headless, Copilot Studio), the same wire, and a growth loop.",
+      "html_url": "https://github.com/kody-w/stemcell"
     },
     {
       "name": "streamlit-example",
