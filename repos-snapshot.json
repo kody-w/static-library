@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:23:49Z",
+  "generated_at": "2026-09-18T21:37:53Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -763,6 +763,12 @@
       "full_name": "kody-w/hello-world-ruby-q-000",
       "description": null,
       "html_url": "https://github.com/kody-w/hello-world-ruby-q-000"
+    },
+    {
+      "name": "hive-hub",
+      "full_name": "kody-w/hive-hub",
+      "description": "Protocol-neutral Hive Hub for humans and any AI: dial, learn, join, chant, QR, and typed adapters for public/private Hives.",
+      "html_url": "https://github.com/kody-w/hive-hub"
     },
     {
       "name": "holodex",
