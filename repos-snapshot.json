@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:58:33Z",
+  "generated_at": "2026-09-19T20:34:58Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1567,6 +1567,12 @@
       "full_name": "kody-w/rapp-hologram",
       "description": "RAPP Hologram \u2014 reference engine for RAPP Moments: pure libs + serverless player + resolve Gateway. The iframe card-art target.",
       "html_url": "https://github.com/kody-w/rapp-hologram"
+    },
+    {
+      "name": "rapp-imessage-launchpad",
+      "full_name": "kody-w/rapp-imessage-launchpad",
+      "description": "Evidence-first iMessage notifications: a local Electron launchpad, versioned protocol, and shared-outbox Python SDK.",
+      "html_url": "https://github.com/kody-w/rapp-imessage-launchpad"
     },
     {
       "name": "rapp-infrastructure-city",
