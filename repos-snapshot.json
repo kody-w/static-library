@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:57:59Z",
+  "generated_at": "2026-09-20T01:03:17Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -767,7 +767,7 @@
     {
       "name": "hive-hub",
       "full_name": "kody-w/hive-hub",
-      "description": "Protocol-neutral Hive Hub for humans and any AI: dial, learn, join, chant, QR, and typed adapters for public/private Hives.",
+      "description": "Say seven words, reach a Hive. Protocol-neutral discovery and join for humans and any AI \u2192 https://kody-w.github.io/hive-hub/",
       "html_url": "https://github.com/kody-w/hive-hub"
     },
     {
@@ -1615,6 +1615,12 @@
       "full_name": "kody-w/rapp-kited-twin",
       "description": "The kite mark \u2014 the Microsoft logo flown as a kite; visual identity of the RAPP kited neighborhood.",
       "html_url": "https://github.com/kody-w/rapp-kited-twin"
+    },
+    {
+      "name": "rapp-lab-kit",
+      "full_name": "kody-w/rapp-lab-kit",
+      "description": null,
+      "html_url": "https://github.com/kody-w/rapp-lab-kit"
     },
     {
       "name": "rapp-lantern",
