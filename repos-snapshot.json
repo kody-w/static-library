@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:02:07Z",
+  "generated_at": "2026-09-21T19:22:27Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -247,6 +247,12 @@
       "full_name": "kody-w/bookish-robot",
       "description": "Tutorial Project Follow Along for TeamTreehouse Learning WebAPI",
       "html_url": "https://github.com/kody-w/bookish-robot"
+    },
+    {
+      "name": "brainstem-agent",
+      "full_name": "kody-w/brainstem-agent",
+      "description": "RAPP Brainstem \u2014 a local-first AI agent engine. Public landing site for the Grail Brainstem.",
+      "html_url": "https://github.com/kody-w/brainstem-agent"
     },
     {
       "name": "brainstem-bootcamp",
