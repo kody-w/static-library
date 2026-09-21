@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:12:51Z",
+  "generated_at": "2026-09-21T06:16:07Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1557,6 +1557,12 @@
       "html_url": "https://github.com/kody-w/rapp-hippocampus"
     },
     {
+      "name": "rapp-hive-hub",
+      "full_name": "kody-w/rapp-hive-hub",
+      "description": "RAPP Work organization starters, verified discovery, and native RAPP/1 setup plans. Built on the protocol-neutral Hive Hub.",
+      "html_url": "https://github.com/kody-w/rapp-hive-hub"
+    },
+    {
       "name": "rapp-holo",
       "full_name": "kody-w/rapp-holo",
       "description": "rapp-holo/1.0 \u2014 AI projects interface onto any surface; interaction past chat and voice",
@@ -1765,6 +1771,12 @@
       "full_name": "kody-w/rapp-overwatch",
       "description": "Three twins that watch a watchdog, from outside the directory it can write to.",
       "html_url": "https://github.com/kody-w/rapp-overwatch"
+    },
+    {
+      "name": "rapp-packs",
+      "full_name": "kody-w/rapp-packs",
+      "description": "Brainstem expansion channel: drop-in packs and runtime grafts that grow a RAPP brainstem past the grail without editing it.",
+      "html_url": "https://github.com/kody-w/rapp-packs"
     },
     {
       "name": "rapp-parity",
