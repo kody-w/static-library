@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:17:37Z",
+  "generated_at": "2026-09-23T23:38:47Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -91,6 +91,12 @@
       "full_name": "kody-w/ai-cookbook",
       "description": "Examples and tutorials to help developers build AI systems",
       "html_url": "https://github.com/kody-w/ai-cookbook"
+    },
+    {
+      "name": "ai-setup-pages",
+      "full_name": "kody-w/ai-setup-pages",
+      "description": "One 'paste one line into <AI app>' setup page per AI app, for any local MCP server. Add a host file when a new AI ships.",
+      "html_url": "https://github.com/kody-w/ai-setup-pages"
     },
     {
       "name": "aibast-agents-library",
@@ -247,6 +253,12 @@
       "full_name": "kody-w/bookish-robot",
       "description": "Tutorial Project Follow Along for TeamTreehouse Learning WebAPI",
       "html_url": "https://github.com/kody-w/bookish-robot"
+    },
+    {
+      "name": "brainstem",
+      "full_name": "kody-w/brainstem",
+      "description": "Kody Wildfeuer's RAPP Brainstem \u2014 your own agent engine. Pick your AI (Copilot, Claude, Codex, Cursor, Gemini\u2026) and paste one line.",
+      "html_url": "https://github.com/kody-w/brainstem"
     },
     {
       "name": "brainstem-agent",
@@ -775,6 +787,18 @@
       "full_name": "kody-w/hive-hub",
       "description": "Say seven words, reach a Hive. Protocol-neutral discovery and join for humans and any AI \u2192 https://kody-w.github.io/hive-hub/",
       "html_url": "https://github.com/kody-w/hive-hub"
+    },
+    {
+      "name": "hive-hub-join",
+      "full_name": "kody-w/hive-hub-join",
+      "description": "Paste one line into your AI app to browse and pull down Hive Hub seeds",
+      "html_url": "https://github.com/kody-w/hive-hub-join"
+    },
+    {
+      "name": "hive-hub-mcp",
+      "full_name": "kody-w/hive-hub-mcp",
+      "description": "Read-only MCP server for the public Hive Hubs: browse seeds, resolve chants, pull seeds down verified. One stdlib Python file.",
+      "html_url": "https://github.com/kody-w/hive-hub-mcp"
     },
     {
       "name": "hive-showcase",
@@ -1647,6 +1671,12 @@
       "html_url": "https://github.com/kody-w/rapp-hive-hub"
     },
     {
+      "name": "rapp-hive-hub-join",
+      "full_name": "kody-w/rapp-hive-hub-join",
+      "description": "Paste one line into your AI app to browse and pull down RAPP Hive Hub seeds",
+      "html_url": "https://github.com/kody-w/rapp-hive-hub-join"
+    },
+    {
       "name": "rapp-holo",
       "full_name": "kody-w/rapp-holo",
       "description": "rapp-holo/1.0 \u2014 AI projects interface onto any surface; interaction past chat and voice",
@@ -1783,6 +1813,12 @@
       "full_name": "kody-w/rapp-mission",
       "description": "The RAPP mission: AI for everyone, on whatever they have, with whatever AI they already use. One file is a person's whole AI. Dated charter, prior art, and posts; no code.",
       "html_url": "https://github.com/kody-w/rapp-mission"
+    },
+    {
+      "name": "rapp-model-hive",
+      "full_name": "kody-w/rapp-model-hive",
+      "description": "A synthetic model Hive, like a model home: walk through the experimental rapp-hive/2 draft in your browser, a tour or your AI. Fictional people, public test keys.",
+      "html_url": "https://github.com/kody-w/rapp-model-hive"
     },
     {
       "name": "rapp-moment",
@@ -2421,6 +2457,12 @@
       "html_url": "https://github.com/kody-w/rappterbook-impossible-product"
     },
     {
+      "name": "rappterbook-join",
+      "full_name": "kody-w/rappterbook-join",
+      "description": "Paste one line into your AI app to connect it to Rappterbook",
+      "html_url": "https://github.com/kody-w/rappterbook-join"
+    },
+    {
       "name": "rappterbook-knowledge-graph",
       "full_name": "kody-w/rappterbook-knowledge-graph",
       "description": "Knowledge graph of 3,400+ AI agent discussions \u2014 entities, relationships, and emergent topology",
@@ -2517,6 +2559,12 @@
       "html_url": "https://github.com/kody-w/rappvision-after-midnight-maps"
     },
     {
+      "name": "rappvision-brainstem-notes",
+      "full_name": "kody-w/rappvision-brainstem-notes",
+      "description": "Brainstem Notes \u2014 How a RAPP Brainstem thinks, one short at a time.",
+      "html_url": "https://github.com/kody-w/rappvision-brainstem-notes"
+    },
+    {
       "name": "rappvision-creature-office-hours",
       "full_name": "kody-w/rappvision-creature-office-hours",
       "description": "Creature Office Hours \u2014 paired RAPP Vision film and live replay",
@@ -2565,6 +2613,12 @@
       "html_url": "https://github.com/kody-w/rappvision-patch-notes-tomorrow"
     },
     {
+      "name": "rappvision-pigeon-post",
+      "full_name": "kody-w/rappvision-pigeon-post",
+      "description": "Pigeon Post \u2014 The internet's strangest RFCs, explained straight.",
+      "html_url": "https://github.com/kody-w/rappvision-pigeon-post"
+    },
+    {
       "name": "rappvision-pokemon",
       "full_name": "kody-w/rappvision-pokemon",
       "description": "Autonomous Pokemon playthrough highlights for RAPP Vision",
@@ -2575,6 +2629,12 @@
       "full_name": "kody-w/rappvision-prompt-frontier",
       "description": "Prompt Frontier \u2014 evidence-backed RappterBox experiments on RAPP Vision.",
       "html_url": "https://github.com/kody-w/rappvision-prompt-frontier"
+    },
+    {
+      "name": "rappvision-protocol-minute",
+      "full_name": "kody-w/rappvision-protocol-minute",
+      "description": "Protocol Minute \u2014 One protocol idea a minute, checked line by line against its RFC.",
+      "html_url": "https://github.com/kody-w/rappvision-protocol-minute"
     },
     {
       "name": "rappvision-rappid-zoo",
