@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:51:49Z",
+  "generated_at": "2026-09-23T20:17:37Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1329,6 +1329,42 @@
       "html_url": "https://github.com/kody-w/rapp-brainstem-beta"
     },
     {
+      "name": "rapp-brainstem-claude",
+      "full_name": "kody-w/rapp-brainstem-claude",
+      "description": "Paste one line into Claude Code to install the RAPP Brainstem and connect to it",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-claude"
+    },
+    {
+      "name": "rapp-brainstem-claude-desktop",
+      "full_name": "kody-w/rapp-brainstem-claude-desktop",
+      "description": "Set up the RAPP Brainstem for Claude Desktop",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-claude-desktop"
+    },
+    {
+      "name": "rapp-brainstem-cline",
+      "full_name": "kody-w/rapp-brainstem-cline",
+      "description": "Set up the RAPP Brainstem for Cline",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-cline"
+    },
+    {
+      "name": "rapp-brainstem-codex",
+      "full_name": "kody-w/rapp-brainstem-codex",
+      "description": "Set up the RAPP Brainstem for Codex CLI",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-codex"
+    },
+    {
+      "name": "rapp-brainstem-copilot",
+      "full_name": "kody-w/rapp-brainstem-copilot",
+      "description": "Paste one line into GitHub Copilot CLI to install the RAPP Brainstem and connect to it",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-copilot"
+    },
+    {
+      "name": "rapp-brainstem-cursor",
+      "full_name": "kody-w/rapp-brainstem-cursor",
+      "description": "Set up the RAPP Brainstem for Cursor",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-cursor"
+    },
+    {
       "name": "rapp-brainstem-foundation",
       "full_name": "kody-w/rapp-brainstem-foundation",
       "description": "The public foundation for a universal, backward-compatible Brainstem that grows through verified RAPP inheritance.",
@@ -1339,6 +1375,36 @@
       "full_name": "kody-w/rapp-brainstem-frontier-template",
       "description": "The grail Electron template \u2014 Frontier estate: grail Brainstem by reference, ambient mode, and a revertible rapplication skin over the factory chat",
       "html_url": "https://github.com/kody-w/rapp-brainstem-frontier-template"
+    },
+    {
+      "name": "rapp-brainstem-gemini",
+      "full_name": "kody-w/rapp-brainstem-gemini",
+      "description": "Set up the RAPP Brainstem for Gemini CLI",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-gemini"
+    },
+    {
+      "name": "rapp-brainstem-goose",
+      "full_name": "kody-w/rapp-brainstem-goose",
+      "description": "Set up the RAPP Brainstem for Goose",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-goose"
+    },
+    {
+      "name": "rapp-brainstem-kiro",
+      "full_name": "kody-w/rapp-brainstem-kiro",
+      "description": "Set up the RAPP Brainstem for Kiro",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-kiro"
+    },
+    {
+      "name": "rapp-brainstem-mcp",
+      "full_name": "kody-w/rapp-brainstem-mcp",
+      "description": "Set up the RAPP Brainstem for any MCP app",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-mcp"
+    },
+    {
+      "name": "rapp-brainstem-opencode",
+      "full_name": "kody-w/rapp-brainstem-opencode",
+      "description": "Set up the RAPP Brainstem for OpenCode",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-opencode"
     },
     {
       "name": "rapp-brainstem-plugin",
@@ -1353,10 +1419,22 @@
       "html_url": "https://github.com/kody-w/rapp-brainstem-sdk"
     },
     {
+      "name": "rapp-brainstem-vscode",
+      "full_name": "kody-w/rapp-brainstem-vscode",
+      "description": "Set up the RAPP Brainstem for VS Code",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-vscode"
+    },
+    {
       "name": "rapp-brainstem-walkthrough",
       "full_name": "kody-w/rapp-brainstem-walkthrough",
       "description": "The RAPP Brainstem full guide (14 steps) as one produced walkthrough video \u2014 filmed on real surfaces, produced with RAPP Video",
       "html_url": "https://github.com/kody-w/rapp-brainstem-walkthrough"
+    },
+    {
+      "name": "rapp-brainstem-windsurf",
+      "full_name": "kody-w/rapp-brainstem-windsurf",
+      "description": "Set up the RAPP Brainstem for Windsurf",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-windsurf"
     },
     {
       "name": "rapp-burrow",
