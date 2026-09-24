@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T23:38:47Z",
+  "generated_at": "2026-09-24T04:41:28Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1339,6 +1339,12 @@
       "full_name": "kody-w/rapp-brain",
       "description": "rapp-brain/0 \u2014 second brains as verifiable, tick-anchored, assimilable dimensions. One command over any markdown folder.",
       "html_url": "https://github.com/kody-w/rapp-brain"
+    },
+    {
+      "name": "rapp-brainfreeze",
+      "full_name": "kody-w/rapp-brainfreeze",
+      "description": "Freeze a running RAPP brainstem and resume it anywhere: a clone from that exact moment, in one self-bootstrapping file.",
+      "html_url": "https://github.com/kody-w/rapp-brainfreeze"
     },
     {
       "name": "rapp-brainstem",
