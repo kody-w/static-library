@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:00:56Z",
+  "generated_at": "2026-09-24T19:05:42Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1345,6 +1345,12 @@
       "full_name": "kody-w/rapp-brainfreeze",
       "description": "Freeze a running RAPP brainstem and resume it anywhere: a clone from that exact moment, in one self-bootstrapping file.",
       "html_url": "https://github.com/kody-w/rapp-brainfreeze"
+    },
+    {
+      "name": "rapp-brainfreeze-studio",
+      "full_name": "kody-w/rapp-brainfreeze-studio",
+      "description": "Turn a frozen RAPP brainstem (rapp/1 egg) into a Copilot Studio GitHub Copilot harness agent, with a parity scorecard.",
+      "html_url": "https://github.com/kody-w/rapp-brainfreeze-studio"
     },
     {
       "name": "rapp-brainstem",
@@ -3229,6 +3235,12 @@
       "full_name": "kody-w/VoidRAPP",
       "description": "Void Edge (V0-E1) - A federated RAPPverse dimension at the boundary of nothing",
       "html_url": "https://github.com/kody-w/VoidRAPP"
+    },
+    {
+      "name": "vscode",
+      "full_name": "kody-w/vscode",
+      "description": "Visual Studio Code",
+      "html_url": "https://github.com/kody-w/vscode"
     },
     {
       "name": "VSProjects",
