@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:05:42Z",
+  "generated_at": "2026-09-24T22:20:03Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1687,6 +1687,12 @@
       "full_name": "kody-w/rapp-hive-hub-join",
       "description": "Paste one line into your AI app to browse and pull down RAPP Hive Hub seeds",
       "html_url": "https://github.com/kody-w/rapp-hive-hub-join"
+    },
+    {
+      "name": "rapp-hive-public",
+      "full_name": "kody-w/rapp-hive-public",
+      "description": "Public copy of the RAPP Hive (experimental): the organism map, gap register, drift verdicts and canonical pins, published only through approved manifests",
+      "html_url": "https://github.com/kody-w/rapp-hive-public"
     },
     {
       "name": "rapp-holo",
