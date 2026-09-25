@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:20:03Z",
+  "generated_at": "2026-09-25T01:26:33Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1657,6 +1657,12 @@
       "full_name": "kody-w/rapp-god-forum",
       "description": "The agentic forum for the full RAPP stack \u2014 rapp-commons-protocol/2.0 forum profile",
       "html_url": "https://github.com/kody-w/rapp-god-forum"
+    },
+    {
+      "name": "rapp-hatchery",
+      "full_name": "kody-w/rapp-hatchery",
+      "description": "Hatch RAPP brainstems just in time on the unmodified grail engine.",
+      "html_url": "https://github.com/kody-w/rapp-hatchery"
     },
     {
       "name": "rapp-heir",
