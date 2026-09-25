@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:41:59Z",
+  "generated_at": "2026-09-25T18:32:30Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1683,6 +1683,12 @@
       "html_url": "https://github.com/kody-w/rapp-hippocampus"
     },
     {
+      "name": "rapp-hive-app",
+      "full_name": "kody-w/rapp-hive-app",
+      "description": "Support and privacy policy for Rapp Hive, the iPhone mirror for your RAPP Brainstem",
+      "html_url": "https://github.com/kody-w/rapp-hive-app"
+    },
+    {
       "name": "rapp-hive-hub",
       "full_name": "kody-w/rapp-hive-hub",
       "description": "RAPP Work organization starters, verified discovery, and native RAPP/1 setup plans. Built on the protocol-neutral Hive Hub.",
@@ -2149,6 +2155,12 @@
       "full_name": "kody-w/rapp-static-apis",
       "description": "\ud83d\uddff rapp-static-api/1.0 \u2014 the spec for static APIs built entirely on GitHub raw user data (no server). Reference impl: rapp-god.",
       "html_url": "https://github.com/kody-w/rapp-static-apis"
+    },
+    {
+      "name": "rapp-static-brainstem",
+      "full_name": "kody-w/rapp-static-brainstem",
+      "description": "A RAPP brainstem as static files: soul, single-file agents and tool schemas on GitHub raw, so any AI can act as it without a server.",
+      "html_url": "https://github.com/kody-w/rapp-static-brainstem"
     },
     {
       "name": "rapp-static-mcp",
