@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:22:07Z",
+  "generated_at": "2026-09-28T21:55:53Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -577,6 +577,12 @@
       "full_name": "kody-w/dogg-genesis",
       "description": "THE ROOT CHANT \u2014 federated tick-network node fingerprinting the spine's chant kit + genesis frame, tick by tick",
       "html_url": "https://github.com/kody-w/dogg-genesis"
+    },
+    {
+      "name": "dogg-kestrel",
+      "full_name": "kody-w/dogg-kestrel",
+      "description": "Kestrel's DOGG dimension: one frame per maintenance cycle a RAPP organism lived on kody-w/dogg, keyed to the spine tick it woke at.",
+      "html_url": "https://github.com/kody-w/dogg-kestrel"
     },
     {
       "name": "dogg-land",
