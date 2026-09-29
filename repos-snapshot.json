@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:45:07Z",
+  "generated_at": "2026-09-29T20:43:18Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -283,6 +283,12 @@
       "full_name": "kody-w/brainstem-harness",
       "description": "Run RAPP agent.py files on the GitHub Copilot harness, and prove the port did not change them.",
       "html_url": "https://github.com/kody-w/brainstem-harness"
+    },
+    {
+      "name": "brainstem-mcp",
+      "full_name": "kody-w/brainstem-mcp",
+      "description": "Talk to your local RAPP Brainstem from Claude Code",
+      "html_url": "https://github.com/kody-w/brainstem-mcp"
     },
     {
       "name": "braintrust-template",
@@ -769,6 +775,12 @@
       "full_name": "kody-w/Grades",
       "description": "Code from PluralSite course dealing with C# syntax",
       "html_url": "https://github.com/kody-w/Grades"
+    },
+    {
+      "name": "grail-vault",
+      "full_name": "kody-w/grail-vault",
+      "description": "Verified copies of the RAPP Brainstem grail, kept outside the grail",
+      "html_url": "https://github.com/kody-w/grail-vault"
     },
     {
       "name": "graphql-server",
