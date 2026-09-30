@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:38:12Z",
+  "generated_at": "2026-09-30T19:13:48Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -2887,6 +2887,12 @@
       "full_name": "kody-w/screenshot-to-code",
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "html_url": "https://github.com/kody-w/screenshot-to-code"
+    },
+    {
+      "name": "screenshot-to-plane-of-focus",
+      "full_name": "kody-w/screenshot-to-plane-of-focus",
+      "description": "Screenshot to X: one screenshot in, a working interactive three.js app out. X = The Plane of Focus. The process, the tools, the 21-round measured loop, and the result.",
+      "html_url": "https://github.com/kody-w/screenshot-to-plane-of-focus"
     },
     {
       "name": "second-seat",
