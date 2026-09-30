@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:43:18Z",
+  "generated_at": "2026-09-30T00:23:03Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -613,6 +613,12 @@
       "full_name": "kody-w/dogg-mcp",
       "description": "The DOGG global tick network as native MCP tools \u2014 orient, summon, incantation. One stdlib-only file.",
       "html_url": "https://github.com/kody-w/dogg-mcp"
+    },
+    {
+      "name": "dogg-merlin",
+      "full_name": "kody-w/dogg-merlin",
+      "description": "one RAPP organism's life on the DOGG clock: each frame is one maintenance cycle Merlin lived on kody-w/dogg, keyed to\u2026",
+      "html_url": "https://github.com/kody-w/dogg-merlin"
     },
     {
       "name": "dogg-muster",
