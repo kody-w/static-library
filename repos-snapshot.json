@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:15:54Z",
+  "generated_at": "2026-10-04T17:33:00Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1519,6 +1519,12 @@
       "full_name": "kody-w/rapp-carts",
       "description": "\ud83c\udfb4 rapp-cart/1.0 \u2014 the cartridge spec. agent.py + .egg = cartridges (rapp_carts); RACon is the user-facing console; everything else is under the hood.",
       "html_url": "https://github.com/kody-w/rapp-carts"
+    },
+    {
+      "name": "rapp-chatgpt",
+      "full_name": "kody-w/rapp-chatgpt",
+      "description": "RAPP Agent Builder: a ChatGPT app that turns an idea into a working RAPP agent",
+      "html_url": "https://github.com/kody-w/rapp-chatgpt"
     },
     {
       "name": "rapp-claude-skills",
