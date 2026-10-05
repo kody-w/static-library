@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:18:36Z",
+  "generated_at": "2026-10-05T00:52:11Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -193,6 +193,12 @@
       "full_name": "kody-w/awesome-ai-agents",
       "description": "A list of AI autonomous agents",
       "html_url": "https://github.com/kody-w/awesome-ai-agents"
+    },
+    {
+      "name": "awesome-remote-mcp-servers",
+      "full_name": "kody-w/awesome-remote-mcp-servers",
+      "description": "A collection of remote MCP servers.",
+      "html_url": "https://github.com/kody-w/awesome-remote-mcp-servers"
     },
     {
       "name": "awesome_ai_agents",
