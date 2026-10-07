@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:36:11Z",
+  "generated_at": "2026-10-07T01:29:56Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1305,12 +1305,6 @@
       "html_url": "https://github.com/kody-w/rapp-1"
     },
     {
-      "name": "rapp-agents",
-      "full_name": "kody-w/rapp-agents",
-      "description": "RAPP Agent Stack \u2014 drop-in single-file agents for any local brainstem. Includes RappLoader (the front door for hot-loading), Scout (twin discovery), DoubleDown (russian-doll prompt amplifier).",
-      "html_url": "https://github.com/kody-w/rapp-agents"
-    },
-    {
       "name": "rapp-ai",
       "full_name": "kody-w/rapp-ai",
       "description": "Memory-agent platform on Azure Functions (RAPP Hippocampus) + citation-first S/4HANA knowledge companion grounded on synthetic static APIs",
@@ -1929,12 +1923,6 @@
       "html_url": "https://github.com/kody-w/rapp-nervous-system"
     },
     {
-      "name": "RAPP-Network",
-      "full_name": "kody-w/RAPP-Network",
-      "description": "The network layer on top of kody-w/RAPP. Project-anchored twin neighborhoods through one drop-in agent.py. Offline-first. Two-sources-of-truth cross-validation.",
-      "html_url": "https://github.com/kody-w/RAPP-Network"
-    },
-    {
       "name": "rapp-nightly",
       "full_name": "kody-w/rapp-nightly",
       "description": "RAPP release-train nightly ring; seeded from the untouched Grail",
@@ -2137,12 +2125,6 @@
       "full_name": "kody-w/rapp-sentinel-hub",
       "description": "Post useful rapp sentinels the way RAR posts agent.pys \u2014 single-file watchdog checks that prove themselves (rapp-sentinel/1.0)",
       "html_url": "https://github.com/kody-w/rapp-sentinel-hub"
-    },
-    {
-      "name": "rapp-shape-aibast",
-      "full_name": "kody-w/rapp-shape-aibast",
-      "description": "AIBAST shape staging \u2014 rehearses grail-train deliveries into the aibast-agents-library layout; microsoft repo never touched",
-      "html_url": "https://github.com/kody-w/rapp-shape-aibast"
     },
     {
       "name": "rapp-shot",
