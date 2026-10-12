@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:29:41Z",
+  "generated_at": "2026-10-12T07:18:15Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -3181,6 +3181,12 @@
       "full_name": "kody-w/tinyrenderer",
       "description": "Support c++ code for a short computer graphics course",
       "html_url": "https://github.com/kody-w/tinyrenderer"
+    },
+    {
+      "name": "token-bench",
+      "full_name": "kody-w/token-bench",
+      "description": "Measure what Claude Code, Copilot CLI and a RAPP Brainstem spend per answer: tokens, model calls, seconds, right answers.",
+      "html_url": "https://github.com/kody-w/token-bench"
     },
     {
       "name": "Treehouse",
