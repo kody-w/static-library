@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:54:42Z",
+  "generated_at": "2026-10-13T21:12:15Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -961,6 +961,12 @@
       "full_name": "kody-w/lisppy-shepherd",
       "description": "Fleet shepherd for AI agent swarms \u2014 steering rules as executable Lisp. Code is policy.",
       "html_url": "https://github.com/kody-w/lisppy-shepherd"
+    },
+    {
+      "name": "living-holograms",
+      "full_name": "kody-w/living-holograms",
+      "description": "Living Holograms: steerable, verifiable data objects driven by an open assembly line of AI agents. Sequel to Frame Chains.",
+      "html_url": "https://github.com/kody-w/living-holograms"
     },
     {
       "name": "ljthw",
