@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:39:50Z",
+  "generated_at": "2026-10-14T23:53:46Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -301,6 +301,12 @@
       "full_name": "kody-w/brainstem-mcp",
       "description": "Talk to your local RAPP Brainstem from Claude Code",
       "html_url": "https://github.com/kody-w/brainstem-mcp"
+    },
+    {
+      "name": "brainstem-zen",
+      "full_name": "kody-w/brainstem-zen",
+      "description": "Brainstem Zen Benchmark: the public Looking Glass for frontier-model judgement and real reliability evidence",
+      "html_url": "https://github.com/kody-w/brainstem-zen"
     },
     {
       "name": "braintrust-template",
