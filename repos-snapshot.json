@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:57:41Z",
+  "generated_at": "2026-10-15T19:05:26Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -247,6 +247,12 @@
       "full_name": "kody-w/blazor-test",
       "description": null,
       "html_url": "https://github.com/kody-w/blazor-test"
+    },
+    {
+      "name": "blitz-mac",
+      "full_name": "kody-w/blitz-mac",
+      "description": "Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents ",
+      "html_url": "https://github.com/kody-w/blitz-mac"
     },
     {
       "name": "blog",
