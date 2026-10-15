@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:53:46Z",
+  "generated_at": "2026-10-15T04:30:06Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -301,6 +301,12 @@
       "full_name": "kody-w/brainstem-mcp",
       "description": "Talk to your local RAPP Brainstem from Claude Code",
       "html_url": "https://github.com/kody-w/brainstem-mcp"
+    },
+    {
+      "name": "brainstem-zaps-docs",
+      "full_name": "kody-w/brainstem-zaps-docs",
+      "description": "Agent-first documentation for the standalone capability-scoped Brainstem Zaps LisPy language and frozen workflow profile.",
+      "html_url": "https://github.com/kody-w/brainstem-zaps-docs"
     },
     {
       "name": "brainstem-zen",
