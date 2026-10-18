@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:58:29Z",
+  "generated_at": "2026-10-18T05:50:19Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -295,6 +295,12 @@
       "full_name": "kody-w/brainstem-distro",
       "description": "Make your own Brainstem distro: the kernel unchanged and pinned, shipped as a plugin whose app window is the kernel's own chat page.",
       "html_url": "https://github.com/kody-w/brainstem-distro"
+    },
+    {
+      "name": "brainstem-go",
+      "full_name": "kody-w/brainstem-go",
+      "description": "A Brainstem in Go, built by an AI from the public test cases alone. Passes 25 of 25.",
+      "html_url": "https://github.com/kody-w/brainstem-go"
     },
     {
       "name": "brainstem-harness",
@@ -2143,6 +2149,12 @@
       "full_name": "kody-w/rapp-secondbrain",
       "description": "RAPP Second Brain \u2014 the memory an AI assistant needs before you let it talk to real people. Local-first, tamper-evident, zero dependencies. Contacts, call transcripts, appointments, human approvals, leads, quotes, invoices.",
       "html_url": "https://github.com/kody-w/rapp-secondbrain"
+    },
+    {
+      "name": "rapp-seeds",
+      "full_name": "kody-w/rapp-seeds",
+      "description": "One message in every medium: learn your AI in an hour, run it anywhere, own it as files.",
+      "html_url": "https://github.com/kody-w/rapp-seeds"
     },
     {
       "name": "rapp-sentinel",
