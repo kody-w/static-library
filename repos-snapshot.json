@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:12:34Z",
+  "generated_at": "2026-10-22T20:02:06Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -3199,6 +3199,12 @@
       "full_name": "kody-w/TheMatrix",
       "description": "TheMatrix",
       "html_url": "https://github.com/kody-w/TheMatrix"
+    },
+    {
+      "name": "thought-contracts",
+      "full_name": "kody-w/thought-contracts",
+      "description": "Thought Contracts: part 3 of the Frame Chains / Living Holograms series",
+      "html_url": "https://github.com/kody-w/thought-contracts"
     },
     {
       "name": "threejs",
