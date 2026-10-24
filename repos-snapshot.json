@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T00:38:10Z",
+  "generated_at": "2026-10-24T05:46:20Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1193,7 +1193,7 @@
     {
       "name": "openrappter",
       "full_name": "kody-w/openrappter",
-      "description": "\ud83e\udd96 Local-first AI agent powered by GitHub Copilot SDK \u2014 no API keys required",
+      "description": "\ud83e\udd96 OpenRappter: a creature in your Mac's notch. Hold a key and talk. Local-first, runs on your own Brainstem.",
       "html_url": "https://github.com/kody-w/openrappter"
     },
     {
@@ -2377,6 +2377,12 @@
       "full_name": "kody-w/rapp-work-cubbies",
       "description": "Git-backed RAPP neighborhood for isolated append-only work cubbies and clocked engineering evidence",
       "html_url": "https://github.com/kody-w/rapp-work-cubbies"
+    },
+    {
+      "name": "rapp-work-desktop",
+      "full_name": "kody-w/rapp-work-desktop",
+      "description": "RAPP Work desktop: the local-first workspace app with a Work Twin (macOS Apple Silicon). Moved from kody-w/openrappter main.",
+      "html_url": "https://github.com/kody-w/rapp-work-desktop"
     },
     {
       "name": "rapp-workspace",
