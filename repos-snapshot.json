@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:42:48Z",
+  "generated_at": "2026-10-24T23:07:50Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1231,6 +1231,12 @@
       "full_name": "kody-w/orion",
       "description": "Orion: the public face of Kody Wildfeuer's AI. One file, nothing private. Hand the link to any AI for a degraded but faithful Orion.",
       "html_url": "https://github.com/kody-w/orion"
+    },
+    {
+      "name": "panache",
+      "full_name": "kody-w/panache",
+      "description": "Panache \u2014 RTS Belle \u00c9poque pour mobile (adaptation fran\u00e7aise de Battle Drones)",
+      "html_url": "https://github.com/kody-w/panache"
     },
     {
       "name": "pkstop-central-park-bandshell",
