@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:53:41Z",
+  "generated_at": "2026-10-30T07:02:58Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -269,7 +269,7 @@
     {
       "name": "brainstem",
       "full_name": "kody-w/brainstem",
-      "description": "Kody Wildfeuer's RAPP Brainstem \u2014 your own agent engine. Pick your AI (Copilot, Claude, Codex, Cursor, Gemini\u2026) and paste one line.",
+      "description": "Kody Wildfeuer's RAPP Brainstem: your own agent engine. Pick your AI (Copilot, Claude, Codex, Cursor, Antigravity...) and paste one line.",
       "html_url": "https://github.com/kody-w/brainstem"
     },
     {
@@ -1437,6 +1437,12 @@
       "html_url": "https://github.com/kody-w/rapp-brainstem"
     },
     {
+      "name": "rapp-brainstem-antigravity",
+      "full_name": "kody-w/rapp-brainstem-antigravity",
+      "description": "Set up the RAPP Brainstem for Antigravity CLI",
+      "html_url": "https://github.com/kody-w/rapp-brainstem-antigravity"
+    },
+    {
       "name": "rapp-brainstem-beta",
       "full_name": "kody-w/rapp-brainstem-beta",
       "description": "RAPP Brainstem \u2014 Brain Surgeon (beta): OS-confined Copilot-SDK surgeon. Operate on your agents while the brainstem stays awake; brainstem.py is sandbox-protected.",
@@ -2449,6 +2455,12 @@
       "full_name": "kody-w/rappidverse-field",
       "description": "A DOGG federation repo by the rappidverse-* owner convention \u2014 creating this repo was joining the network (SPEC \u00a711)",
       "html_url": "https://github.com/kody-w/rappidverse-field"
+    },
+    {
+      "name": "rappmcp",
+      "full_name": "kody-w/rappmcp",
+      "description": "The full RAPP ecosystem as one MCP server: every agent.py is a tool. A Brainstem distro on the unchanged grail.",
+      "html_url": "https://github.com/kody-w/rappmcp"
     },
     {
       "name": "RAPPsquared",
