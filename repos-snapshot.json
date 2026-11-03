@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T23:28:19Z",
+  "generated_at": "2026-11-03T06:40:15Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -307,6 +307,12 @@
       "full_name": "kody-w/brainstem-harness",
       "description": "Run RAPP agent.py files on the GitHub Copilot harness, and prove the port did not change them.",
       "html_url": "https://github.com/kody-w/brainstem-harness"
+    },
+    {
+      "name": "brainstem-in-an-hour",
+      "full_name": "kody-w/brainstem-in-an-hour",
+      "description": "Build your own AI agent in one hour. The Brainstem lesson.",
+      "html_url": "https://github.com/kody-w/brainstem-in-an-hour"
     },
     {
       "name": "brainstem-mcp",
