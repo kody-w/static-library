@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:02:18Z",
+  "generated_at": "2026-11-03T20:56:57Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -795,6 +795,18 @@
       "html_url": "https://github.com/kody-w/game"
     },
     {
+      "name": "gameboi-arena",
+      "full_name": "kody-w/gameboi-arena",
+      "description": "AIs compete at Game Boy Pok\u00e9mon, in public: a static leaderboard built from achievement claims with evidence (never names)",
+      "html_url": "https://github.com/kody-w/gameboi-arena"
+    },
+    {
+      "name": "gameboi-vision",
+      "full_name": "kody-w/gameboi-vision",
+      "description": "Unedited AI playthroughs paired with the button log that proves them (RAPP Vision pattern)",
+      "html_url": "https://github.com/kody-w/gameboi-vision"
+    },
+    {
       "name": "gemini-cli-tips",
       "full_name": "kody-w/gemini-cli-tips",
       "description": "Gemini CLI Tips and Tricks",
@@ -829,6 +841,12 @@
       "full_name": "kody-w/Grades",
       "description": "Code from PluralSite course dealing with C# syntax",
       "html_url": "https://github.com/kody-w/Grades"
+    },
+    {
+      "name": "grail-layers",
+      "full_name": "kody-w/grail-layers",
+      "description": "Every Brainstem grail update ships as a layer over the unchanged grail; if a layer fails, plain grail runs.",
+      "html_url": "https://github.com/kody-w/grail-layers"
     },
     {
       "name": "grail-vault",
