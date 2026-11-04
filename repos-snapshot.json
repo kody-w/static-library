@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:18:05Z",
+  "generated_at": "2026-11-04T09:03:59Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -1021,6 +1021,12 @@
       "full_name": "kody-w/ljthw",
       "description": null,
       "html_url": "https://github.com/kody-w/ljthw"
+    },
+    {
+      "name": "llm-brainstem",
+      "full_name": "kody-w/llm-brainstem",
+      "description": "Your RAPP Brainstem, agents included, as a model inside the llm CLI",
+      "html_url": "https://github.com/kody-w/llm-brainstem"
     },
     {
       "name": "localFirstTools",
