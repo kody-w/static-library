@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:13:26Z",
+  "generated_at": "2026-11-05T20:37:58Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -7,6 +7,12 @@
       "full_name": "kody-w/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "html_url": "https://github.com/kody-w/agency-agents"
+    },
+    {
+      "name": "agent-books",
+      "full_name": "kody-w/agent-books",
+      "description": "Two K&R-style books, one chapter skeleton: The Brainstem Agent Programming Language and The Claude Agent Programming Language. Fair, cited, runnable, side by side.",
+      "html_url": "https://github.com/kody-w/agent-books"
     },
     {
       "name": "agent-plugin",
