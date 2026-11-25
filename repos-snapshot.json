@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:34:37Z",
+  "generated_at": "2026-11-25T02:20:32Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -883,30 +883,6 @@
       "full_name": "kody-w/hello-world-ruby-q-000",
       "description": null,
       "html_url": "https://github.com/kody-w/hello-world-ruby-q-000"
-    },
-    {
-      "name": "hive-hub",
-      "full_name": "kody-w/hive-hub",
-      "description": "Say seven words, reach a Hive. Protocol-neutral discovery and join for humans and any AI \u2192 https://kody-w.github.io/hive-hub/",
-      "html_url": "https://github.com/kody-w/hive-hub"
-    },
-    {
-      "name": "hive-hub-join",
-      "full_name": "kody-w/hive-hub-join",
-      "description": "Paste one line into your AI app to browse and pull down Hive Hub seeds",
-      "html_url": "https://github.com/kody-w/hive-hub-join"
-    },
-    {
-      "name": "hive-hub-mcp",
-      "full_name": "kody-w/hive-hub-mcp",
-      "description": "Read-only MCP server for the public Hive Hubs: browse seeds, resolve chants, pull seeds down verified. One stdlib Python file.",
-      "html_url": "https://github.com/kody-w/hive-hub-mcp"
-    },
-    {
-      "name": "hive-showcase",
-      "full_name": "kody-w/hive-showcase",
-      "description": "Ten agent-first Hive demonstrations, reproducible evidence, and a reusable showcase skill.",
-      "html_url": "https://github.com/kody-w/hive-showcase"
     },
     {
       "name": "holodex",
@@ -1809,30 +1785,6 @@
       "html_url": "https://github.com/kody-w/rapp-hippocampus"
     },
     {
-      "name": "rapp-hive-app",
-      "full_name": "kody-w/rapp-hive-app",
-      "description": "Support and privacy policy for Rapp Hive, the iPhone mirror for your RAPP Brainstem",
-      "html_url": "https://github.com/kody-w/rapp-hive-app"
-    },
-    {
-      "name": "rapp-hive-hub",
-      "full_name": "kody-w/rapp-hive-hub",
-      "description": "RAPP Work organization starters, verified discovery, and native RAPP/1 setup plans. Built on the protocol-neutral Hive Hub.",
-      "html_url": "https://github.com/kody-w/rapp-hive-hub"
-    },
-    {
-      "name": "rapp-hive-hub-join",
-      "full_name": "kody-w/rapp-hive-hub-join",
-      "description": "Paste one line into your AI app to browse and pull down RAPP Hive Hub seeds",
-      "html_url": "https://github.com/kody-w/rapp-hive-hub-join"
-    },
-    {
-      "name": "rapp-hive-public",
-      "full_name": "kody-w/rapp-hive-public",
-      "description": "Public copy of the RAPP Hive (experimental): the organism map, gap register, drift verdicts and canonical pins, published only through approved manifests",
-      "html_url": "https://github.com/kody-w/rapp-hive-public"
-    },
-    {
       "name": "rapp-holo",
       "full_name": "kody-w/rapp-holo",
       "description": "rapp-holo/1.0 \u2014 AI projects interface onto any surface; interaction past chat and voice",
@@ -1969,12 +1921,6 @@
       "full_name": "kody-w/rapp-mission",
       "description": "The RAPP mission: AI for everyone, on whatever they have, with whatever AI they already use. One file is a person's whole AI. Dated charter, prior art, and posts; no code.",
       "html_url": "https://github.com/kody-w/rapp-mission"
-    },
-    {
-      "name": "rapp-model-hive",
-      "full_name": "kody-w/rapp-model-hive",
-      "description": "A synthetic model Hive, like a model home: walk through the experimental rapp-hive/2 draft in your browser, a tour or your AI. Fictional people, public test keys.",
-      "html_url": "https://github.com/kody-w/rapp-model-hive"
     },
     {
       "name": "rapp-moment",
