@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:47:17Z",
+  "generated_at": "2026-11-27T08:16:28Z",
   "source": "https://api.github.com/users/kody-w/repos (harvested by CI, not the browser)",
   "repos": [
     {
@@ -283,6 +283,12 @@
       "full_name": "kody-w/brainstem-agent",
       "description": "RAPP Brainstem \u2014 a local-first AI agent engine. Public landing site for the Grail Brainstem.",
       "html_url": "https://github.com/kody-w/brainstem-agent"
+    },
+    {
+      "name": "brainstem-anywhere",
+      "full_name": "kody-w/brainstem-anywhere",
+      "description": "Your AI in one file: download a Brainstem, drop it into claude.ai or any AI, it wakes up there.",
+      "html_url": "https://github.com/kody-w/brainstem-anywhere"
     },
     {
       "name": "brainstem-bootcamp",
